@@ -1,0 +1,72 @@
+{
+  "issue": 166,
+  "date": "December 14th, 2016",
+  "url": "https://goto.docker.com/Docker-Weekly_12142016.html",
+  "count": -1,
+  "notes": "",
+  "articles": [
+    {
+      "title": "Q&A: Docker CEO Ben Golub on Transforming Enterprise IT",
+      "url": "http://email.docker.com/l9JtE000Kkk40L3T60I0H0F",
+      "contributor": {
+        "name": "Joseph Tsidulko",
+        "url": "http://email.docker.com/eI0kIL03000JF90t6kFK40T",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "How Docker Streamlines Production Deployments",
+      "url": "http://email.docker.com/XTK04IJ0I000L96kt03kFL0",
+      "contributor": {
+        "name": "Matthew Setter",
+        "url": "http://email.docker.com/f009T0K0kM00kJ3tFILJ406",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "The new containerd: An open governance driven embeddable container runtime",
+      "url": "http://email.docker.com/HF0030t0I4bk9L60KkJ00eT",
+      "contributor": {
+        "name": "Phil Estes",
+        "url": "http://email.docker.com/NJ00fFtT000k49L0cI60k3K",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker is supported on the $9 C.H.I.P. computer",
+      "url": "http://email.docker.com/c0603t4F0KIJ0kTLn0kq900",
+      "contributor": {
+        "name": "Dieter Reuter",
+        "url": "http://email.docker.com/gr0k6IK0t30kJL0TF000o94",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Elton Stoneman",
+      "url": "http://email.docker.com/hK4kz6J00F000tT9I030Lwk",
+      "contributor": {
+        "name": "None",
+        "url": "http://email.docker.com/ZJI640kzT0000t0kC30KLF9",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "None",
+      "url": "http://email.docker.com/z0tk3TK0006JIo9kF4l0L00",
+      "contributor": {
+        "name": "Alex Ellis",
+        "url": "http://email.docker.com/R00K6kkJtT003040FpL9mI0",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Lightweight Docker Images in 5 Steps",
+      "url": "http://email.docker.com/R00K6kkJtT003040FJL9GI0",
+      "contributor": {
+        "name": "Igor \u0160ar\u010devi\u0107",
+        "url": "http://email.docker.com/XTK04HJ0I000L96kt03kFK0",
+        "is_captain": false
+      }
+    }
+  ]
+}

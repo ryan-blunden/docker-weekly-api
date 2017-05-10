@@ -1,0 +1,252 @@
+{
+  "issue": 128,
+  "date": "March 23rd, 2016",
+  "url": "https://goto.docker.com/Docker-Weekly-03232016.html",
+  "count": -1,
+  "notes": "",
+  "articles": [
+    {
+      "title": "How To Virtualize Your Development Process Using Docker and Vagrant",
+      "url": "https://dzone.com/articles/virtualization-of-development-process-with-docker",
+      "contributor": {
+        "name": "Andrii Dvoiak",
+        "url": "https://twitter.com/andrii_d",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Video Tutorials to Prepare for the Docker Birthday #3 Training!",
+      "url": "https://blog.docker.com/2016/03/video-tutorials-docker-bday/",
+      "contributor": {
+        "name": "Elton Stoneman",
+        "url": "https://twitter.com/EltonStoneman",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Integrating AWS and Docker Cloud 1.0 ~ A Multicloud Application Delivery Service",
+      "url": "http://collabnix.com/archives/1064",
+      "contributor": {
+        "name": "Ajeet Singh Raina",
+        "url": "https://twitter.com/ajeetsraina",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "SwarmWeek Part 3: Deploying a NodeJS and MongoDB Microservice with Docker Swarm",
+      "url": "https://clusterhq.com/2016/03/11/fun-with-swarm-part3/",
+      "contributor": {
+        "name": "Ryan Wallner",
+        "url": "https://twitter.com/RyanWallner",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Lessons from Building a Node App in Docker",
+      "url": "http://jdlm.info/articles/2016/03/06/lessons-building-node-app-docker.html",
+      "contributor": {
+        "name": "John Lees-Miller",
+        "url": "https://twitter.com/jdleesmiller",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Let's run Docker on the ClearFog Pro router board",
+      "url": "http://blog.hypriot.com/post/clearfog-pro-part-2-lets-run-docker/",
+      "contributor": {
+        "name": "Dieter Reuter",
+        "url": "https://twitter.com/Quintus23M",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Persistent Docker volumes with Azure File Storage",
+      "url": "https://azure.microsoft.com/en-us/blog/persistent-docker-volumes-with-azure-file-storage/",
+      "contributor": {
+        "name": "Ahmet Alp Balkan",
+        "url": "https://twitter.com/AhmetAlpBalkan",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Sensor Fu on a Raspberry Pi \u00b7 Docker Pirates ARMed with explosive stuff",
+      "url": "http://blog.hypriot.com/post/docker-sensor-fu-on-a-raspberry-pi/",
+      "contributor": {
+        "name": "Govinda Fichtner",
+        "url": "https://twitter.com/_beagile_",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "How To Configure a Continuous Integration Testing Environment with Docker and Docker Compose",
+      "url": "https://www.digitalocean.com/community/tutorials/how-to-configure-a-continuous-integration-testing-environment-with-docker-and-docker-compose",
+      "contributor": {
+        "name": "Pablo Chico de Guzm\u00e1n",
+        "url": "https://twitter.com/chico_de_guzman",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Nesting Docker Containers? Stop!",
+      "url": "http://www.developmentalmadness.com/2016/03/05/nesting-docker-containers-stop/",
+      "contributor": {
+        "name": "Mark Miller",
+        "url": "https://twitter.com/dvMENTALmadness",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Building Reusable Development Environments with Docker",
+      "url": "http://www.slideshare.net/raastech/building-reusable-development-environments-with-docker-59649407",
+      "contributor": {
+        "name": "Harold Dost",
+        "url": "https://twitter.com/hdost",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker & PHP development and deployment",
+      "url": "https://www.youtube.com/watch?v=Q6EBPTVCrDM",
+      "contributor": {
+        "name": "Szymon Sk\u00f3rczy\u0144ski",
+        "url": "https://twitter.com/sskorc",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Turns 3 \u2013 What a ride it has been!",
+      "url": "http://www.forbes.com/sites/mikekavis/2016/03/18/docker-turns-3-what-a-ride-it-has-been/#5f17b2535d08",
+      "contributor": {
+        "name": "Mike Kavis",
+        "url": "https://twitter.com/madgreek65",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Announcing the Docker Machine Driver for RackHD",
+      "url": "http://blog.emccode.com/2016/03/16/announcing-the-docker-machine-driver-for-rackhd/",
+      "contributor": {
+        "name": "Kenny Coleman",
+        "url": "https://twitter.com/KendrickColeman",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Production Meteor and Node Using Docker, Part I",
+      "url": "https://projectricochet.com/blog/production-meteor-and-node-using-docker-part-i#.VvBWe5MrLUL",
+      "contributor": {
+        "name": "Stephen Pope",
+        "url": "https://twitter.com/StephenGPope",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Continuous Deployment of a Dockerized Rails Application",
+      "url": "http://chrisstump.online/2016/03/17/continuous-deployment-docker-rails/",
+      "contributor": {
+        "name": "Chris Stump",
+        "url": "https://twitter.com/ccstump",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Case study: securing containers and payloads on the Menagerie system",
+      "url": "https://developer.ibm.com/open/2016/03/15/case-study-securing-containers-payloads-menagerie-system/",
+      "contributor": {
+        "name": "Ron Peleg",
+        "url": "https://twitter.com/PelegRon",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Cassandra, Docker and F# Awesomeness",
+      "url": "https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/Cassandra-Docker-and-F-Awesomeness",
+      "contributor": {
+        "name": "Lena Hall",
+        "url": "https://twitter.com/lenadroid",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Getting Started with Docker Cloud",
+      "url": "http://blog.couchbase.com/2016/march/getting-started-docker-cloud",
+      "contributor": {
+        "name": "Arun Gupta",
+        "url": "https://twitter.com/arungupta",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Dockerized development environment on steroids (part 2/2)",
+      "url": "https://medium.com/@aherve/dockerized-development-environment-on-steroids-part-2-2-b800a65d0462#.drlha1h94",
+      "contributor": {
+        "name": "Aur\u00e9lien Herv\u00e9",
+        "url": "https://twitter.com/aurel_herve",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Flow: Blue-Green Deployment and Relative Scaling",
+      "url": "http://technologyconversations.com/2016/03/07/docker-flow-blue-green-deployment-and-relative-scaling/",
+      "contributor": {
+        "name": "Viktor Farcic",
+        "url": "https://twitter.com/vfarcic",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "How to Scale and Migrate Elasticsearch with Docker",
+      "url": "https://medium.appbase.io/how-to-scale-and-migrate-elasticsearch-with-docker-10179930d7c9#.xhk22qlsv",
+      "contributor": {
+        "name": "Sacheendra Talluri",
+        "url": "https://twitter.com/appbaseio",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker in Astronomy",
+      "url": "http://caseyjlaw.github.io/docker-in-astronomy.html",
+      "contributor": {
+        "name": "Casey Law",
+        "url": "https://twitter.com/caseyjlaw",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Setting up 100 nodes Jenkins cluster with Docker Swarm in less than 10 minutes",
+      "url": "http://blog.hypriot.com/post/setting-up-100-nodes-jenkins-cluster-with-docker-swarm-in-less-than-10-minutes/",
+      "contributor": {
+        "name": "Govinda Fichtner",
+        "url": "https://twitter.com/_beagile_",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Swarm week 2016 - Part 1: Cluster Setup",
+      "url": "http://docker-saigon.github.io/post/Swarm-Week-2016-Part1/",
+      "contributor": {
+        "name": "Docker Saigon",
+        "url": "https://twitter.com/docker_saigon",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "How to build a traffic light",
+      "url": "http://blog.hypriot.com/post/traffic-light/",
+      "contributor": {
+        "name": "Stefan Scherer",
+        "url": "https://twitter.com/stefscherer",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Using the Docker Toolbox on Windows",
+      "url": "https://jacace.wordpress.com/2016/03/16/using-the-docker-toolbox-on-windows/",
+      "contributor": {
+        "name": "Javier Caceres",
+        "url": "https://twitter.com/jacace",
+        "is_captain": false
+      }
+    }
+  ]
+}

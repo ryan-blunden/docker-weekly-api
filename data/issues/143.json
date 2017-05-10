@@ -1,0 +1,18 @@
+{
+  "issue": 143,
+  "date": "July 6th, 2016",
+  "url": "https://goto.docker.com/Docker-Weekly-07062016.html",
+  "count": -1,
+  "notes": "",
+  "articles": [
+    {
+      "title": "Part 1",
+      "url": "https://blog.docker.com/2016/06/dockercon-part-1-top-10-video/",
+      "contributor": {
+        "name": "Part 2",
+        "url": "https://blog.docker.com/2016/06/dockercon-part-2-top-10-video/",
+        "is_captain": false
+      }
+    }
+  ]
+}

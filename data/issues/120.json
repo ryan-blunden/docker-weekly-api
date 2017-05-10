@@ -1,0 +1,207 @@
+{
+  "issue": 120,
+  "date": "January 27th, 2016",
+  "url": "https://goto.docker.com/Docker-Weekly-01272016.html",
+  "count": -1,
+  "notes": "",
+  "articles": [
+    {
+      "title": "Getting Started with Docker Swarm",
+      "url": "http://sco.lt/8ViDwX?_tmc=a_QyJcJNUwlUFhWa4b0CZ5olKjFe1Jw4hg-G8A7-jsg&track=1",
+      "contributor": {
+        "name": "Ajeet Singha Raina",
+        "url": "https://twitter.com/ajeetsraina",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "About Cassandra on Docker with F#",
+      "url": "http://sco.lt/5tLfXd?_tmc=a_QyJcJNUwlUFhWa4b0CZ5olKjFe1Jw4hg-G8A7-jsg&track=1",
+      "contributor": {
+        "name": "Lena Hall",
+        "url": "https://twitter.com/lenadroid",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "CI as Code: Stateless Jenkins Deployments Using Docker",
+      "url": "http://sco.lt/4hXxir?_tmc=a_QyJcJNUwlUFhWa4b0CZ5olKjFe1Jw4hg-G8A7-jsg&track=1",
+      "contributor": {
+        "name": "Ian Miell",
+        "url": "https://twitter.com/ianmiell",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Dockerize the World - presentation from Hradec Kralove",
+      "url": "http://sco.lt/5HscN7?_tmc=a_QyJcJNUwlUFhWa4b0CZ5olKjFe1Jw4hg-G8A7-jsg&track=1",
+      "contributor": {
+        "name": "Martin Damovsky",
+        "url": "https://twitter.com/damovsky",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Building Microservices with Docker and the Rails API gem",
+      "url": "http://sco.lt/7L2ue1?_tmc=a_QyJcJNUwlUFhWa4b0CZ5olKjFe1Jw4hg-G8A7-jsg&track=1",
+      "contributor": {
+        "name": "Charles Wang",
+        "url": "https://twitter.com/TwoBuckChuck",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Microcontainers - Tiny, Portable Docker Containers",
+      "url": "http://sco.lt/4igMF7?_tmc=a_QyJcJNUwlUFhWa4b0CZ5olKjFe1Jw4hg-G8A7-jsg&track=1",
+      "contributor": {
+        "name": "Travis Reeder",
+        "url": "https://twitter.com/treeder",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Migrating Our Docker Registry",
+      "url": "http://sco.lt/94q5I1?_tmc=a_QyJcJNUwlUFhWa4b0CZ5olKjFe1Jw4hg-G8A7-jsg&track=1",
+      "contributor": {
+        "name": "Alex Ianchici",
+        "url": "https://twitter.com/ianchici",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Visualizing Docker Containers and Images",
+      "url": "http://sco.lt/5a2whF?_tmc=a_QyJcJNUwlUFhWa4b0CZ5olKjFe1Jw4hg-G8A7-jsg&track=1",
+      "contributor": {
+        "name": "Daniel Eklund",
+        "url": "https://twitter.com/ReverendTopo",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Running Docker Containers On Windows Server 2016 (Quick Start Guide)",
+      "url": "http://sco.lt/5J10tN?_tmc=a_QyJcJNUwlUFhWa4b0CZ5olKjFe1Jw4hg-G8A7-jsg&track=1",
+      "contributor": {
+        "name": "Ashley Poole",
+        "url": "https://twitter.com/AshleyPooleUK",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "A silent film about Docker",
+      "url": "http://sco.lt/50qgZF?_tmc=bkSNrpxLEzvVrLDFl8SQfJCdzBd0h_AtDfj_7-R10iE&track=1",
+      "contributor": {
+        "name": "Ryan van Niekerk",
+        "url": "https://twitter.com/iamnayr",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Running an Elasticsearch cluster on Docker 1.9 with Swarm and Compose",
+      "url": "http://sco.lt/6ANbLV?_tmc=a_QyJcJNUwlUFhWa4b0CZ5olKjFe1Jw4hg-G8A7-jsg&track=1",
+      "contributor": {
+        "name": "Yoanis Gil Delgado",
+        "url": "https://twitter.com/yoanis_gil",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker, Inc Acquires Unikernel Systems Ltd with the Goal of 'Democratising Unikernel Technology'",
+      "url": "http://www.infoq.com/news/2016/01/docker-acquire-unikernel-systems",
+      "contributor": {
+        "name": "Daniel Bryant",
+        "url": "https://twitter.com/danielbryantuk",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker is InfoWorld's 2016 Technology of the Year",
+      "url": "http://www.infoworld.com/article/3023050/open-source-tools/infoworlds-2016-technology-of-the-year-award-winners.html#slide2",
+      "contributor": {
+        "name": "InfoWorld Staff",
+        "url": "https://twitter.com/infoworld",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Buys Unikernel Systems, Adds 'Unikernels' To Platform",
+      "url": "http://www.informationweek.com/cloud/infrastructure-as-a-service/docker-buys-unikernel-systems-adds-unikernels-to-platform/d/d-id/1323994",
+      "contributor": {
+        "name": "Charles Babcock",
+        "url": "https://twitter.com/babcockcw",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker clusters from the ground up: front-end reverse proxy (Part 1)",
+      "url": "http://sco.lt/6kiFzl?_tmc=a_QyJcJNUwlUFhWa4b0CZ5olKjFe1Jw4hg-G8A7-jsg&track=1",
+      "contributor": {
+        "name": "Nicola Paolucci",
+        "url": "https://twitter.com/durdn",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Tech Bits: How to train your Docker using voice recognition",
+      "url": "http://sco.lt/5bBLDV?_tmc=a_QyJcJNUwlUFhWa4b0CZ5olKjFe1Jw4hg-G8A7-jsg&track=1",
+      "contributor": {
+        "name": "Thomas Shaw",
+        "url": "https://twitter.com/tomwillfixit",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Ride the Whale! The Docker Platform and Ecosystem",
+      "url": "http://sco.lt/9N0Pc9?_tmc=a_QyJcJNUwlUFhWa4b0CZ5olKjFe1Jw4hg-G8A7-jsg&track=1",
+      "contributor": {
+        "name": "Patrick Chanezon",
+        "url": "https://twitter.com/chanezon",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker bags unikernel gurus \u2013 now you can be just like Linus Torvalds",
+      "url": "http://www.theregister.co.uk/2016/01/21/docker_buys_unikernel/",
+      "contributor": {
+        "name": "Chris Williams",
+        "url": "https://twitter.com/diodesign",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Getting started with Concourse CI and Docker",
+      "url": "http://sco.lt/7vNZIH?_tmc=a_QyJcJNUwlUFhWa4b0CZ5olKjFe1Jw4hg-G8A7-jsg&track=1",
+      "contributor": {
+        "name": "Benjamin Guttmann",
+        "url": "https://twitter.com/Benjamin_AVTQ",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Simple Dockerized CSV Map",
+      "url": "http://sco.lt/6SXvfd?_tmc=a_QyJcJNUwlUFhWa4b0CZ5olKjFe1Jw4hg-G8A7-jsg&track=1",
+      "contributor": {
+        "name": "Mano Marks",
+        "url": "https://twitter.com/ManoMarks",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Getting started on Docker - Azure Hands-on Lab for Educators and Students",
+      "url": "http://sco.lt/72saJt?_tmc=a_QyJcJNUwlUFhWa4b0CZ5olKjFe1Jw4hg-G8A7-jsg&track=1",
+      "contributor": {
+        "name": "Lee Stott",
+        "url": "https://twitter.com/lee_stott",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Waiting for dependencies in Docker Compose",
+      "url": "http://sco.lt/5sDH1N?_tmc=a_QyJcJNUwlUFhWa4b0CZ5olKjFe1Jw4hg-G8A7-jsg&track=1",
+      "contributor": {
+        "name": "Matt Fellows",
+        "url": "https://twitter.com/matthewfellows",
+        "is_captain": false
+      }
+    }
+  ]
+}

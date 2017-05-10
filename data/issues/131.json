@@ -1,0 +1,225 @@
+{
+  "issue": 131,
+  "date": "April 13th, 2016",
+  "url": "https://goto.docker.com/Docker-Weekly-04132016.html",
+  "count": -1,
+  "notes": "",
+  "articles": [
+    {
+      "title": "A Docker Container Pattern - Compose Configuration",
+      "url": "http://blog.levvel.io/blog-post/a-docker-container-pattern-compose-configuration/",
+      "contributor": {
+        "name": "Jay Johnson",
+        "url": "https://twitter.com/jayphjohnson",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "DevOps Basics: Introduction to Docker Registry and Images",
+      "url": "http://blogs.technet.com/b/canitpro/archive/2016/04/12/devops-basics-introduction-to-docker-commands-and-concepts-part-2.aspx",
+      "contributor": {
+        "name": "Julien Stroheker",
+        "url": "https://twitter.com/Ju_Stroh",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Debugging a ES6 Node.js application in a Docker container using Visual Studio Code",
+      "url": "https://alexanderzeitler.com/articles/debugging-a-nodejs-es6-application-in-a-docker-container-using-visual-studio-code/",
+      "contributor": {
+        "name": "Alexander Zeitler",
+        "url": "https://twitter.com/alexzeitler_",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Machine Port Forwarding",
+      "url": "http://code.haleby.se/2016/04/08/docker-machine-port-forwarding/",
+      "contributor": {
+        "name": "Johan Haleby",
+        "url": "https://twitter.com/johanhaleby",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "5 reasons to use Docker for productivity software installation",
+      "url": "https://opensource.com/business/16/4/5-reasons-use-docker-productivity",
+      "contributor": {
+        "name": "Tatiana Kochedykova",
+        "url": "https://twitter.com/tati_koch7",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Why Banks Need The Docker Datacenter",
+      "url": "https://www.linkedin.com/pulse/why-banks-need-docker-datacenter-benjamin-wootton?published=u",
+      "contributor": {
+        "name": "Benjamin Wootton",
+        "url": "https://twitter.com/benjaminwootton",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Austin: How Do I Even Swarm?",
+      "url": "https://getcarina.com/blog/docker-austin-how-do-i-even-swarm/",
+      "contributor": {
+        "name": "Everett Toews",
+        "url": "https://twitter.com/everett_toews",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Flow: Proxy \u2013 On-Demand HAProxy Service Discovery and Reconfiguration",
+      "url": "https://technologyconversations.com/2016/03/21/docker-flow-proxy-on-demand-haproxy-service-discovery-and-reconfiguration/",
+      "contributor": {
+        "name": "Viktor Farcic",
+        "url": "https://twitter.com/vfarcic",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Cache Ugly Reporting Queries With Materialized Views and Docker",
+      "url": "http://www.wise.io/tech/cache-ugly-reporting-queries-with-materialized-views-and-docker",
+      "contributor": {
+        "name": "Joshua Bloom",
+        "url": "https://twitter.com/profjsb",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Weave + Docker for Mac: The bridge between local and remote services",
+      "url": "http://blog.runnable.com/post/142665542481/weave-docker-for-mac-the-bridge-between-local",
+      "contributor": {
+        "name": "Anand Patel",
+        "url": "https://twitter.com/anandAKAdjfaze",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "User Namespaces: Sharing the Docker UNIX socket",
+      "url": "https://integratedcode.us/2016/04/08/user-namespaces-sharing-the-docker-unix-socket/",
+      "contributor": {
+        "name": "Phil Estes",
+        "url": "https://twitter.com/estesp",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Distributed Data Analysis with Plain UNIX Commands and Docker Swarm",
+      "url": "https://blog.codeship.com/distributed-data-analysis-with-docker-swarm/",
+      "contributor": {
+        "name": "Lorenzo Fontana",
+        "url": "https://twitter.com/fntlnz",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "One container to rule them all",
+      "url": "http://jpetazzo.github.io/2016/04/03/one-container-to-rule-them-all/",
+      "contributor": {
+        "name": "J\u00e9r\u00f4me Petazzoni",
+        "url": "https://twitter.com/jpetazzo",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Preparing an environment with Docker Compose",
+      "url": "http://zeroturnaround.com/rebellabs/preparing-an-environment-with-docker-compose/",
+      "contributor": {
+        "name": "Anton Arhipov",
+        "url": "https://twitter.com/antonarhipov",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Dockerized background image processing with docker, codeship and iron.io workers",
+      "url": "https://medium.com/@aherve/dockerized-background-image-processing-with-docker-and-iron-io-workers-6bb19e797584#.oilbap2gv",
+      "contributor": {
+        "name": "Aur\u00e9lien Herv\u00e9",
+        "url": "https://twitter.com/aurel_herve",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "With Every Crash Comes a New Cycle of Opportunity",
+      "url": "http://recode.net/2016/04/11/with-every-crash-comes-a-new-cycle-of-opportunity/",
+      "contributor": {
+        "name": "Jerry Murdock",
+        "url": "https://twitter.com/aspenjfm",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "The Brutally Honest Guide to Docker Graphdrivers",
+      "url": "https://blog.jessfraz.com/post/the-brutally-honest-guide-to-docker-graphdrivers/",
+      "contributor": {
+        "name": "Jessie Frazelle",
+        "url": "https://twitter.com/frazelledazzell",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Running a secure docker registry",
+      "url": "https://blog.mayflower.de/5650-Running-a-secure-docker-registry.html",
+      "contributor": {
+        "name": "Christian Speckner",
+        "url": "https://twitter.com/mayflowerphp",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Running GUI Apps in Docker on Mac OS X",
+      "url": "http://darrensnotebook.blogspot.com/2016/04/running-gui-apps-in-docker-on-mac-os-x.html",
+      "contributor": {
+        "name": "Darren Hale",
+        "url": "https://twitter.com/darrenhale",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Pumba \u2014 Chaos Testing for Docker",
+      "url": "https://medium.com/@alexeiled/pumba-chaos-testing-for-docker-1b8815c6b61e#.36eqjbwwp",
+      "contributor": {
+        "name": "Alexei Ledenev",
+        "url": "https://twitter.com/alexeiled",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Hands-On Docker released",
+      "url": "http://blog.alexellis.io/handsondocker/",
+      "contributor": {
+        "name": "Alex Ellis",
+        "url": "https://twitter.com/alexellisuk",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Postgres Container Access with a SQL Client",
+      "url": "http://chrisstump.online/2016/04/06/postgres-container-access-sql-client/",
+      "contributor": {
+        "name": "Chris Stump",
+        "url": "https://twitter.com/ccstump",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Swarm: The perfect environment to deploy and scale distributed applications in containers",
+      "url": "http://blog.neofonie.de/2016/04/11/swarm-the-perfect-environment-to-deploy-and-scale-distributed-applications-in-containers/",
+      "contributor": {
+        "name": "J\u00e9r\u00f4me Petazzoni",
+        "url": "https://twitter.com/jpetazzo",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Monitoring Docker Containers - docker stats, cAdvisor, Universal Control Plane",
+      "url": "http://blog.couchbase.com/2016/april/monitoring-docker-containers-docker-stats-cadvisor-universal-control-plane",
+      "contributor": {
+        "name": "Arun Gupta",
+        "url": "https://twitter.com/arungupta",
+        "is_captain": false
+      }
+    }
+  ]
+}

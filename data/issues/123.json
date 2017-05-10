@@ -1,0 +1,234 @@
+{
+  "issue": 123,
+  "date": "February 17th, 2016",
+  "url": "https://goto.docker.com/Docker-Weekly-02172016.html",
+  "count": -1,
+  "notes": "",
+  "articles": [
+    {
+      "title": "Containerized Data Science and Engineering - Part 1, Dockerized Data Pipelines",
+      "url": "http://www.datadan.io/containerized-data-science-and-engineering/",
+      "contributor": {
+        "name": "Daniel Whitenack",
+        "url": "https://twitter.com/dwhitena",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Getting Started with Concourse CI and Docker Part 3",
+      "url": "http://blog.anynines.com/getting-started-with-concourse-ci-and-docker-part-3/",
+      "contributor": {
+        "name": "Benjamin Guttmann",
+        "url": "https://twitter.com/Benjamin_AVTQ",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Fun with ASP.NET 5, Linux & Docker, Part 3",
+      "url": "https://blog.rendle.io/fun-with-asp-net-5-linux-docker-part-3/",
+      "contributor": {
+        "name": "Mark Rendle",
+        "url": "https://twitter.com/markrendle",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "CI, CD with Docker, Jenkins and Tutum",
+      "url": "https://sreeninet.wordpress.com/2016/01/23/ci-cd-with-docker-jenkins-and-tutum/",
+      "contributor": {
+        "name": "Sreenivas Makam",
+        "url": "https://www.linkedin.com/in/sreenivasmakam",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Legion of Heroes: haproxy, nginx, Angular 2, ASP.NET Core, Redis and Docker",
+      "url": "http://www.tattoocoder.com/legion-of-heroes-haproxy-nginx-angular2-aspnetcore-redis-docker/",
+      "contributor": {
+        "name": "Shayne Boyer",
+        "url": "https://twitter.com/spboyer",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Measuring Docker IO overhead",
+      "url": "https://www.percona.com/blog/2016/02/11/measuring-docker-io-overhead/",
+      "contributor": {
+        "name": "Vadim Tkachenko",
+        "url": "https://twitter.com/VadimTk",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker features and tools",
+      "url": "https://www.youtube.com/watch?v=heBI7oQvHZU&feature=youtu.be",
+      "contributor": {
+        "name": "Tom Verelst",
+        "url": "https://twitter.com/tomverelst",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "ASP.NET 5 : Continuous Integration with Travis-CI, Tutum, Docker, Webhooks and Azure",
+      "url": "http://tattoocoder.com/asp-net-5-continuous-integration-with-travis-ci-tutum-docker-webhooks-and-azure/",
+      "contributor": {
+        "name": "Shayne Boyer",
+        "url": "https://twitter.com/spboyer",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Create static websites with Hugo, Docker, and Amazon S3",
+      "url": "http://ahmedalani.com/post/so-recursive-it-hurts/",
+      "contributor": {
+        "name": "Ahmed Alani",
+        "url": "https://twitter.com/skMed",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Create Amazing Stat Dashboards for Your App Locally Using Docker and Grafana",
+      "url": "https://dzone.com/articles/create-amazing-stat-dashboards-for-your-app-locall",
+      "contributor": {
+        "name": "Sam Atkinson",
+        "url": "https://twitter.com/sambahk",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Community Passes Two Billion Pulls!",
+      "url": "http://blog.docker.com/2016/02/docker-hub-two-billion-pulls/",
+      "contributor": {
+        "name": "Mario Ponticello",
+        "url": "https://www.linkedin.com/in/marioponticello",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "GUI apps in Docker on OSX",
+      "url": "http://blog.bennycornelissen.nl/bwc-gui-apps-in-docker-on-osx/",
+      "contributor": {
+        "name": "Benny Cornelissen",
+        "url": "https://twitter.com/whieee",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker enables communication between development and IT operations",
+      "url": "http://www.deanmraz.com/articles/Docker-enables-communication-between-development-and-IT-operations",
+      "contributor": {
+        "name": "Dean Mraz",
+        "url": "https://twitter.com/mrazdean",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "An Example of Docker Multi-Host Networking with Hadoop - Part 2",
+      "url": "http://javaarchramble.blogspot.com/2016/02/an-example-of-docker-multi-host.html",
+      "contributor": {
+        "name": "Joshua Davis",
+        "url": "https://twitter.com/joshuad2",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Official Release of the Splunk Logging Driver in Docker",
+      "url": "http://blogs.splunk.com/2016/02/10/there-is-a-log-introducing-splunk-logging-driver-in-docker-1-10-0/",
+      "contributor": {
+        "name": "Marc Ch\u00e9n\u00e9",
+        "url": "https://twitter.com/marcchene",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker use cases I like",
+      "url": "https://medium.com/@bjorn_248/docker-use-cases-i-like-441d55221b7#.7997c4z99",
+      "contributor": {
+        "name": "Bjorn Stange",
+        "url": "https://twitter.com/bjorn_248",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Rescheduling containers on node failures with Docker Swarm 1.1",
+      "url": "http://container-solutions.com/rescheduling-containers-on-node-failures-with-docker-swarm-1-1/",
+      "contributor": {
+        "name": "Max Sch\u00f6fmann",
+        "url": "https://twitter.com/schoefmann",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Minimal Docker Containers for Node.js",
+      "url": "https://blog.risingstack.com/minimal-docker-containers-for-node-js/",
+      "contributor": {
+        "name": "Gergely Nemeth",
+        "url": "https://twitter.com/nthgergo",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "ASP.NET 5 on Docker",
+      "url": "https://vimeo.com/154588594",
+      "contributor": {
+        "name": "Mark Rendle",
+        "url": "https://twitter.com/markrendle",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Web Development with Docker on Mac OS X",
+      "url": "https://medium.com/@brentkearney/docker-on-mac-os-x-9793ac024e94#.hgrafctzt",
+      "contributor": {
+        "name": "Brent Kearney",
+        "url": "https://twitter.com/brentkearney",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "How I Used Apache Spark and Docker in a Hackathon to Build a Weather App",
+      "url": "http://www.toptal.com/spark/apache-spark-docker-hackathon-weather-app#distinguish-only-choice-engineers",
+      "contributor": {
+        "name": "Radek Ostrowski",
+        "url": "https://twitter.com/radek1st",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Turbocharged Science on BOINC (with Docker)",
+      "url": "http://cosmicmar.com/2016/02/14/boinc-server-docker-1/",
+      "contributor": {
+        "name": "Marius Millea",
+        "url": "http://cosmicmar.com/",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Working with Docker volumes in the Docker Universal Control Plane (UCP)",
+      "url": "https://clusterhq.com/2016/02/16/ucp-flocker/",
+      "contributor": {
+        "name": "Ryan Wallner",
+        "url": "https://twitter.com/ryanwallner",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Dockerized Location Tracker",
+      "url": "http://manomarks.github.io/2016/02/11/location-tracker-dockerized.html",
+      "contributor": {
+        "name": "Mano Marks",
+        "url": "https://twitter.com/ManoMarks",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Building a Docker Image for Apache Zeppelin using Layers",
+      "url": "http://blog.jbrisbin.com/building-a-docker-image-for-apache-zeppelin-using-layers-like-an-ogre/",
+      "contributor": {
+        "name": "Jon Brisbin",
+        "url": "https://twitter.com/j_brisbin",
+        "is_captain": false
+      }
+    }
+  ]
+}

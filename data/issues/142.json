@@ -1,0 +1,351 @@
+{
+  "issue": 142,
+  "date": "June 29th, 2016",
+  "url": "https://goto.docker.com/Docker-Weekly-06292016.html",
+  "count": -1,
+  "notes": "",
+  "articles": [
+    {
+      "title": "WordPress in 90 seconds with Docker",
+      "url": "https://mercurenews.com/en/wordpress-in-90-seconds-with-docker/",
+      "contributor": {
+        "name": "Dominique Haas",
+        "url": "https://twitter.com/evild67",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "NGINX as a Reverse Proxy for Docker Swarm Clusters",
+      "url": "https://blog.codeship.com/nginx-reverse-proxy-docker-swarm-clusters/",
+      "contributor": {
+        "name": "Lorenzo Fontana",
+        "url": "https://twitter.com/fntlnz",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "What could be next for container orchestration?",
+      "url": "http://www.abronan.com/what-could-be-next-for-container-orchestration/",
+      "contributor": {
+        "name": "Alexandre Beslic",
+        "url": "http://www.abronan.com/what-could-be-next-for-container-orchestration/",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "More Microservices Bliss with Docker 1.12 and Swarm only",
+      "url": "http://blog.hypriot.com/post/more-microservice-bliss-with-docker-1-12/",
+      "contributor": {
+        "name": "Govinda Fichtner",
+        "url": "https://twitter.com/_beagile_",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Running stateful services in containers - ContainerDays Boston 2016",
+      "url": "http://www.slideshare.net/jonasrosland/running-stateful-services-in-containers-containerdays-boston-2016",
+      "contributor": {
+        "name": "Jonas Rosland",
+        "url": "https://twitter.com/jonasrosland",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "A Quick Demo of Apache Beam with Docker",
+      "url": "https://medium.com/@ecesena/a-quick-demo-of-apache-beam-with-docker-da98b99a502a#.5qgo1v2an",
+      "contributor": {
+        "name": "Emanuele Cesena",
+        "url": "https://twitter.com/emacesena",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Using Docker is not risky. But, there are things to look out for",
+      "url": "http://engineering.paiza.io/entry/2016/06/13/150219",
+      "contributor": {
+        "name": "Yoshioka Tsuneo",
+        "url": "https://twitter.com/yoshiokatsuneo",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Hack the new features included in Docker 1.12",
+      "url": "https://blog.docker.com/2016/06/docker-1-12-built-in-orchestration/",
+      "contributor": {
+        "name": "joining the Docker 1.12 Hackathon",
+        "url": "http://docker112.devpost.com/",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Integration Testing With Docker Compose",
+      "url": "https://hharnisc.github.io/2016/06/19/integration-testing-with-docker-compose.html",
+      "contributor": {
+        "name": "Harrison Harnisch",
+        "url": "https://twitter.com/hjharnis",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "A Quick Tour of Docker 1.12",
+      "url": "https://zwischenzugs.wordpress.com/2016/06/23/a-quick-tour-of-docker-1-12/",
+      "contributor": {
+        "name": "Ian Miell",
+        "url": "https://twitter.com/ianmiell",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Container Monitoring: Top Docker Metrics to Watch",
+      "url": "https://sematext.com/blog/2016/06/28/top-docker-metrics-to-watch/",
+      "contributor": {
+        "name": "Stefan Thies",
+        "url": "https://twitter.com/seti321",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "5 Docker Monitoring Solutions on Show at DockerCon 2016",
+      "url": "http://logz.io/blog/docker-monitoring-dockercon-2016/",
+      "contributor": {
+        "name": "Daniel Berman",
+        "url": "https://twitter.com/proudboffin",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Running Microservices in Production with Docker and Cloud 66",
+      "url": "https://blog.codeship.com/running-microservices-production-docker-codeship-cloud-66/",
+      "contributor": {
+        "name": "Dani\u00ebl van Gils",
+        "url": "https://twitter.com/foldingbeauty",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "What you need to know about Storage in Docker 1.12",
+      "url": "https://blog.emccode.com/2016/06/20/what-you-need-to-know-about-storage-in-docker-1-12/",
+      "contributor": {
+        "name": "Chris Duchesne",
+        "url": "https://twitter.com/chrisduchesne",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Running Java inside a Windows container on a Windows server",
+      "url": "https://alexandrnikitin.github.io/blog/running-java-inside-windows-container-on-windows-server/",
+      "contributor": {
+        "name": "Alexandr Nikitin",
+        "url": "https://twitter.com/nikitin_a_a",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Our road to Docker Swarm",
+      "url": "https://codepicnic.com/posts/our-road-to-docker-swarm-bcbe3365e6ac95ea2c0343a2395834dd",
+      "contributor": {
+        "name": "H\u00e9ctor Paz",
+        "url": "https://twitter.com/hdanniel",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Start with serverless computing on IBM Cloud",
+      "url": "http://www.cloudswithcarl.com/?p=255",
+      "contributor": {
+        "name": "Carl Osipov",
+        "url": "https://twitter.com/CloudsWithCarl",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Monitoring Docker Containers: What Does it Take to Get Started?",
+      "url": "https://signalfx.com/blog/monitoring-docker-containers-take-get-started/",
+      "contributor": {
+        "name": "Maxime Petazzoni",
+        "url": "https://twitter.com/mpetazzoni",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Developing Inside Docker Containers with OS X (2016)",
+      "url": "https://hharnisc.github.io/2016/06/16/developing-inside-docker-containers-with-osx-2016.html",
+      "contributor": {
+        "name": "Harrison Harnisch",
+        "url": "https://twitter.com/hjharnis",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Add Free SSL to Existing WordPress Site with Docker and Let's Encrypt",
+      "url": "https://asep.co/add-free-ssl-to-existing-wordpress-site-with-docker-and-lets-encrypt/",
+      "contributor": {
+        "name": "Asep Bagja Priandana",
+        "url": "https://twitter.com/bepitulaz",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "DockerCon 2016: What's New in Docker",
+      "url": "https://blog.codeship.com/whats-new-docker/",
+      "contributor": {
+        "name": "Manuel Weiss",
+        "url": "https://twitter.com/manualwise",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "SwarmKit Architecture",
+      "url": "http://containertutorials.com/swarmkit/architecture.html",
+      "contributor": {
+        "name": "Rajdeep Dua",
+        "url": "https://twitter.com/rajdeepdua",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Running Services in Docker 1.12",
+      "url": "https://blog.codeship.com/running-services-docker-1-12/",
+      "contributor": {
+        "name": "Laura Frank",
+        "url": "https://twitter.com/rhein_wein",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Microservices Best Practices",
+      "url": "https://blog.codeship.com/microservices-best-practices/",
+      "contributor": {
+        "name": "Manuel Weiss",
+        "url": "https://twitter.com/manualwise",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Function as a Service for Docker",
+      "url": "https://medium.com/@chanwit/function-as-a-service-for-docker-609677b9ba3b#.730h7hx6c",
+      "contributor": {
+        "name": "Chanwit Kaewkasi",
+        "url": "https://twitter.com/chanwit",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "What is Docker? Pure awesomeness!",
+      "url": "https://drewmcmurry.com/kitt/blog/2016/06/03/what-is-docker/?hootPostID=be140ff2cace1958ad6c3f358064634a",
+      "contributor": {
+        "name": "Drew McMurry",
+        "url": "https://twitter.com/KITTWiki",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Say Goodbye to the Noisy Neighbor when Using Docker",
+      "url": "http://www.veritas.com/community/blogs/say-goodbye-noisy-neighbor-when-using-docker",
+      "contributor": {
+        "name": "Carlos Carrero",
+        "url": "https://twitter.com/ccarrero08",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "5 minutes dabbling with Docker Distributed Application Bundles (DAB)",
+      "url": "https://medium.com/@LachlanEvenson/5-minutes-dabbling-with-docker-distributed-application-bundles-dab-60f2dca3829#.n3tucptu8",
+      "contributor": {
+        "name": "Lachlan Evenson",
+        "url": "https://twitter.com/LachlanEvenson",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Using Docker tools for Visual Studio with a Hyper-V based Docker host",
+      "url": "https://realalm.com/2016/06/15/using-docker-tools-for-visual-studio-with-a-hyper-v-based-docker-host/",
+      "contributor": {
+        "name": "Kees Verhaar",
+        "url": "https://twitter.com/kverhaar",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Create application server + database at once with Docker Compose",
+      "url": "http://blog.codingtimes.com/docker-create-application-server-database-at-once-with-docker-compose/",
+      "contributor": {
+        "name": "Konstantinos Giannousis",
+        "url": "http://blog.codingtimes.com/",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Raises the Bar on Orchestration Front",
+      "url": "http://blog.nigelpoulton.com/docker-launches-kubernetes-killer/",
+      "contributor": {
+        "name": "Nigel Poulton",
+        "url": "https://twitter.com/nigelpoulton",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Democratizing Docker for Enterprise",
+      "url": "https://blog.codeship.com/docker-enterprise/",
+      "contributor": {
+        "name": "Manuel Weiss",
+        "url": "https://twitter.com/manualwise",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Dockercon 2016 Speaker notes",
+      "url": "http://blog.alexellis.io/dockercon-2016-speaker-notes/",
+      "contributor": {
+        "name": "Alex Ellis",
+        "url": "https://twitter.com/alexellisuk",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Minimal Docker Nodejs image with support of private repositories",
+      "url": "http://docker-blog.jevsejev.io/2016/06/08/docker-nodejs-minimal-image-with-private-git-repositories/",
+      "contributor": {
+        "name": "Sergej Jevsejev",
+        "url": "https://twitter.com/mr_kreativity",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Deploying Spring Boot microservices using Docker 1.12 orchestration",
+      "url": "https://blog.eventuate.io/2016/06/22/deploying-spring-boot-microservices-using-docker-1-12-orchestration-part-1/",
+      "contributor": {
+        "name": "Chris Richardson",
+        "url": "https://twitter.com/crichardson",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "15 minutes with Docker Swarm Mode",
+      "url": "https://medium.com/@LachlanEvenson/15-minutes-with-docker-swarm-mode-e6c38b9dafa0#.f6dz93ijw",
+      "contributor": {
+        "name": "Lachlan Evenson",
+        "url": "https://twitter.com/LachlanEvenson",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Host a Technical Blog with Docker",
+      "url": "http://jaypjohnson.com/2016-06-25-host-a-technical-blog-with-docker.html",
+      "contributor": {
+        "name": "Jay Johnson",
+        "url": "https://twitter.com/jayphjohnson",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "DockerCon 2016 - What is new in Docker 1.12",
+      "url": "https://ordina-jworks.github.io/conference/2016/06/20/whats-new-in-docker-112.html",
+      "contributor": {
+        "name": "Tom Verelst",
+        "url": "https://twitter.com/tomverelst",
+        "is_captain": false
+      }
+    }
+  ]
+}

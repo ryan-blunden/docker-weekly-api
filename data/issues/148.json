@@ -1,0 +1,171 @@
+{
+  "issue": 148,
+  "date": "August 10th, 2016",
+  "url": "https://goto.docker.com/Docker-Weekly-08102016.html",
+  "count": -1,
+  "notes": "",
+  "articles": [
+    {
+      "title": "Synchronizing Containers",
+      "url": "https://lostechies.com/gabrielschenker/2016/08/05/synchronizing-containers/",
+      "contributor": {
+        "name": "Gabriel Schenker",
+        "url": "https://twitter.com/gnschenker",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Cloud 1.3 Release Notes",
+      "url": "https://forums.docker.com/t/docker-cloud-1-3-release-notes/19618",
+      "contributor": {
+        "name": "Ryan Kennedy",
+        "url": "https://twitter.com/pkennedyr",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Container Basics: An Operations Guide, Part 1 of 3",
+      "url": "http://www.nebulaworks.com/blog/2016/08/04/docker-container-basics-operations-guide-part-1-3/",
+      "contributor": {
+        "name": "Joshua Bradley",
+        "url": "https://www.linkedin.com/in/jbradley888",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "An Introduction to Docker for Mac",
+      "url": "https://blog.codeship.com/docker-for-mac/",
+      "contributor": {
+        "name": "Chris Chinchilla",
+        "url": "https://twitter.com/ChrisChinch",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Cloud",
+      "url": "https://cloud.docker.com/",
+      "contributor": {
+        "name": "None",
+        "url": "https://cloud.docker.com/",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Jaco Labs: NodeJS + Docker - The missing manual",
+      "url": "http://blog.getjaco.com/jaco-labs-nodejs-docker-missing-manual/",
+      "contributor": {
+        "name": "Danni Friendland",
+        "url": "https://twitter.com/DanniFriedland",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Joining 100 nodes to a Docker Swarm",
+      "url": "http://blog.phymata.com/2016/08/05/joining-100-nodes-to-a-docker-swarm/",
+      "contributor": {
+        "name": "Everett Toews",
+        "url": "https://twitter.com/everett_toews?ref_src=twsrc%5Etfw",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Using Chimp to test a Docker Compose application",
+      "url": "https://medium.com/lucjuggery/using-chimp-to-test-a-docker-compose-application-a258a610a57e#.xmvyt0r1c",
+      "contributor": {
+        "name": "Luc Juggery",
+        "url": "https://twitter.com/lucjuggery",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Node Failures In Docker Swarm",
+      "url": "http://www.johnzaccone.io/node-failures-in-docker-swarm/",
+      "contributor": {
+        "name": "John Zaccone",
+        "url": "http://www.johnzaccone.io/author/john/",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "What's New In Docker 1.12",
+      "url": "http://blog.nimbleci.com/2016/08/03/whats-new-in-docker-1.12/",
+      "contributor": {
+        "name": "Emmet O'Grady",
+        "url": "https://twitter.com/EmmetOGrady",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Debug Dockerized .NET Core Apps with VS Code",
+      "url": "http://www.bloggedbychris.com/2016/08/03/debug-dockerized-net-core-apps-code/",
+      "contributor": {
+        "name": "Chris Myers",
+        "url": "https://twitter.com/myerscj",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Weekly Docker Roundup: 5 Stories You Don\u2019t Want to Miss",
+      "url": "https://blog.docker.com/2016/08/weekly-docker-roundup-5-stories-you-dont-want-to-miss/",
+      "contributor": {
+        "name": "Cari Scardina",
+        "url": "https://twitter.com/Cari_Marilyn",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "cURL with HTTP2 Support - A Minimal Alpine-based Docker Image",
+      "url": "https://nathanleclaire.com/blog/2016/08/11/curl-with-http2-support---a-minimal-alpine-based-docker-image/",
+      "contributor": {
+        "name": "Nathan Leclaire",
+        "url": "https://twitter.com/upthecyberpunks",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Amir Chaudhry on Unikernels, Docker",
+      "url": "https://www.infoq.com/interviews/chaudhry-unikernels-docker",
+      "contributor": {
+        "name": "Werner Schuster",
+        "url": "https://twitter.com/murphee",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Spring Cloud Series - Integration Testing using Spring Boot, Postgres and Docker",
+      "url": "http://tech.asimio.net/2016/08/04/Integration-Testing-using-Spring-Boot-Postgres-and-Docker.html",
+      "contributor": {
+        "name": "Orlando Otero",
+        "url": "https://twitter.com/orly_otero",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Gogs, a Git server using Docker",
+      "url": "https://opsnotice.xyz/gogs-git-docker/",
+      "contributor": {
+        "name": "Valentin Ouvrard",
+        "url": "https://valentin.ouvrard.it",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker for Mac",
+      "url": "https://deis.com/blog/2016/docker-for-mac/",
+      "contributor": {
+        "name": "Nitish Tiwari",
+        "url": "https://twitter.com/@tiwari_nitish",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker SF Meetup #47; Docker 1.12, Docker For Mac And Tugbot",
+      "url": "https://blog.docker.com/2016/08/meetup-47-at-docker-hq/",
+      "contributor": {
+        "name": "Lisa Mcnicol",
+        "url": "https://twitter.com/LisaMcNicol",
+        "is_captain": false
+      }
+    }
+  ]
+}

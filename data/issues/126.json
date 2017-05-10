@@ -1,0 +1,369 @@
+{
+  "issue": 126,
+  "date": "March 9th, 2016",
+  "url": "https://goto.docker.com/Docker-Weekly-03092016.html",
+  "count": -1,
+  "notes": "",
+  "articles": [
+    {
+      "title": "CI as Code Part III: Dynamic Jenkins-Swarm Example",
+      "url": "https://zwischenzugs.wordpress.com/2016/02/25/922/",
+      "contributor": {
+        "name": "Ian Miell",
+        "url": "https://twitter.com/ianmiell",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Clustering with Docker Swarm",
+      "url": "http://www.slideshare.net/gionn2/clustering-with-docker-swarm-dockerops-2016-cento-fe-italy",
+      "contributor": {
+        "name": "Giovanni Toraldo",
+        "url": "https://twitter.com/gionn",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Simple Clustering with Docker Swarm and Nginx",
+      "url": "http://anders.janmyr.com/2015/11/simple-clustering-with-docker-swarm-and.html",
+      "contributor": {
+        "name": "Anders Janmyr",
+        "url": "https://twitter.com/andersjanmyr",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "100% Unattended install of Docker\u2019s UCP",
+      "url": "https://medium.com/@frntn/swarmweek-100-unattended-install-of-docker-s-ucp-3c8d8ca01f77#.kir4j2blj",
+      "contributor": {
+        "name": "Matthieu Fronton",
+        "url": "https://twitter.com/frntn",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Swarm 1.0 with Multi-host Networking: Manual Setup",
+      "url": "http://goelzer.com/blog/2015/12/29/docker-swarmoverlay-networks-manual-method/?_tmc=WrhaI1ejJlMmTpUmHOhTFZsYaUSPUP1yvyq19dsRQ5A",
+      "contributor": {
+        "name": "Mike Goelzer",
+        "url": "https://twitter.com/mikegoelzer",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Use Docker Swarm with a data persistence layer",
+      "url": "http://blog.emccode.com/2015/11/03/use-docker-swarm-with-a-data-persistence-layer/?_tmc=7t9p3M2pCfA58xrLO7IZ-eyNhS5rdoPyUd-FhTQ5aI4",
+      "contributor": {
+        "name": "Jonas Rosland",
+        "url": "https://twitter.com/jonasrosland",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "One year+ feedback of using Docker and Swarm in DEV and QA environments",
+      "url": "https://medium.com/@frntn/one-year-feedback-of-using-docker-and-swarm-in-dev-and-qa-environments-deaf2ec6dc61#.j4rr4lkwv",
+      "contributor": {
+        "name": "Matthieu Fronton",
+        "url": "https://twitter.com/frntn",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Deploying Containers with Docker Swarm and Docker Networking",
+      "url": "http://technologyconversations.com/2015/11/25/deploying-containers-with-docker-swarm-and-docker-networking/",
+      "contributor": {
+        "name": "Viktor Farcic",
+        "url": "https://twitter.com/vfarcic",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Machine, Swarm and Compose for multi-container and multi-host applications with Couchbase and WildFly",
+      "url": "http://blog.arungupta.me/docker-machine-swarm-compose-couchbase-wildfly/?_tmc=IG3GB6q6bC0KVrAoBV7U4cAHnlioQc-xC3GHkhdEmOU",
+      "contributor": {
+        "name": "Arun Gupta",
+        "url": "https://twitter.com/arungupta",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Effortless Docker Swarm Clusters on Azure",
+      "url": "https://ahmetalpbalkan.com/blog/docker-swarm-azure/?_tmc=cllSP3bW6nOKHBitvjAllxlbIlBt6_VKqTtRWahJZEc",
+      "contributor": {
+        "name": "Ahmet Alp Balkan",
+        "url": "https://twitter.com/ahmetalpbalkan",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Swarm With AWS VPC",
+      "url": "https://www.pandastrike.com/posts/20160307-docker-swarm-aws-vpc",
+      "contributor": {
+        "name": "Dan Yoder",
+        "url": "https://twitter.com/dyoder",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Using Docker Swarm in Production",
+      "url": "https://www.linux-toys.com/?p=411",
+      "contributor": {
+        "name": "Phillip Tribble",
+        "url": "https://twitter.com/rusher81572",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Run a local Windows Docker Swarm",
+      "url": "https://stefanscherer.github.io/build-your-local-windows-docker-swarm/",
+      "contributor": {
+        "name": "Stefan Scherer",
+        "url": "https://twitter.com/stefscherer",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "SA Homes Loans Trusts Docker Datacenter with Embedded Swarm To Enable Microservices and Portability",
+      "url": "https://blog.docker.com/2016/03/sa-homes-loans-docker-datacenter-swarm-microservices-portability/",
+      "contributor": {
+        "name": "Mark Dand",
+        "url": "https://twitter.com/markdand",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker as a Service: Swarm clustering and Cross-container Networking",
+      "url": "http://www.slideshare.net/venkatanageshdevarapalli/docker-clustering-meetup/1",
+      "contributor": {
+        "name": "Venkata Nagesh Devarapalli",
+        "url": "https://www.linkedin.com/in/dvnagesh",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Introduction to container orchestration with Docker Swarm",
+      "url": "https://blog.docker.com/2016/03/swarmweek-container-orchestration-docker-swarm/",
+      "contributor": {
+        "name": "Betty Junod",
+        "url": "https://twitter.com/BettyJunod",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Swarm and Kubernetes",
+      "url": "https://www.youtube.com/watch?v=kcCgtTIsdMQ&_tmc=oC-fMVZxskFghRKSlk9pTVFD01VR86mu9Oh8jvazNhc",
+      "contributor": {
+        "name": "David Gageot",
+        "url": "https://twitter.com/dgageot",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Setting up a Flocker-powered Swarm Cluster in less than 30 minutes on AWS",
+      "url": "https://clusterhq.com/2016/02/08/flocker-swarm-in-30-minutes-aws/",
+      "contributor": {
+        "name": "Stephen Nguyen",
+        "url": "https://twitter.com/Stephenitis",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Build Docker Swarm binary for Windows the \"Docker way\"",
+      "url": "https://stefanscherer.github.io/build-docker-swarm-for-windows-the-docker-way/",
+      "contributor": {
+        "name": "Stefan Scherer",
+        "url": "https://twitter.com/stefscherer",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Evaluating Container Platforms at Scale",
+      "url": "https://medium.com/on-docker/evaluating-container-platforms-at-scale-5e7b44d93f2c#.erfayaex0",
+      "contributor": {
+        "name": "Jeff Nickoloff",
+        "url": "https://twitter.com/allingeek",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Swarm scales docker for free",
+      "url": "http://gianarb.it/blog/swarm-scales-your-containter-for-free",
+      "contributor": {
+        "name": "Gianluca Arbezzano",
+        "url": "https://twitter.com/GianArb",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Swarm: Collecting Metrics, Events & Logs",
+      "url": "http://blog.sematext.com/2016/01/12/docker-swarm-collecting-metrics-events-logs/?_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac",
+      "contributor": {
+        "name": "Stefan Thies",
+        "url": "https://twitter.com/seti321",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "How to deploy swarm on a cluster with multi-hosts network",
+      "url": "https://www.auzias.net/en/docker-network-multihost/",
+      "contributor": {
+        "name": "Ma\u00ebl Auzias",
+        "url": "https://twitter.com/_auzias",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Swarm",
+      "url": "http://blog.agilepartner.net/docker-swarm/",
+      "contributor": {
+        "name": "Olivier Robert",
+        "url": "https://twitter.com/XwaldRob",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "HealthDirect Uses Docker Swarm for Blue Green Deployments",
+      "url": "https://blog.docker.com/2016/03/swarmweek-healthdirect-docker-swarm-blue-green-deployments/",
+      "contributor": {
+        "name": "Scott Coulton",
+        "url": "https://twitter.com/scottcoulton",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Running a Distributed Docker Swarm on AWS",
+      "url": "http://levvel.io/blog-post/running-distributed-docker-swarm-on-aws/?_tmc=dGlW-EIAZyOkLNrkSdOYgVBiG42R7QmNMpxlra_772Q",
+      "contributor": {
+        "name": "Jay Johnson",
+        "url": "https://twitter.com/jayphjohnson",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Getting Started with Docker Swarm",
+      "url": "http://collabnix.com/archives/967",
+      "contributor": {
+        "name": "Ajeet Singha Raina",
+        "url": "https://twitter.com/ajeetsraina",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Using Swarm with Calico on Docker Machine",
+      "url": "http://blog.codeship.com/using-swarm-with-calico-on-docker-machine/",
+      "contributor": {
+        "name": "Brendan Fosberry",
+        "url": "https://twitter.com/brendanfosberry",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Clustering Tools Compared: Kubernetes vs Docker Swarm",
+      "url": "http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/?_tmc=JW7EsRfkQatQZwdgPSWp_7oYUwQKQPifIHT6QoT3hxI",
+      "contributor": {
+        "name": "Viktor Farcic",
+        "url": "https://twitter.com/vfarcic",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Using binpack with Docker Swarm",
+      "url": "http://container-solutions.com/using-binpack-with-docker-swarm/?ct=t(July_Newsletter3_7_2015)&mc_cid=fb0c935c28&mc_eid=dae21f3705&_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac",
+      "contributor": {
+        "name": "Adrian Mouat",
+        "url": "https://twitter.com/adrianmouat",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "wagl: Service Discovery for Docker Swarm",
+      "url": "https://ahmetalpbalkan.com/blog/wagl/",
+      "contributor": {
+        "name": "Ahmet Alp Balkan",
+        "url": "https://twitter.com/ahmetalpbalkan",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Rescheduling containers on node failures with Docker Swarm 1.1",
+      "url": "http://container-solutions.com/rescheduling-containers-on-node-failures-with-docker-swarm-1-1/",
+      "contributor": {
+        "name": "Max Sch\u00f6fmann",
+        "url": "https://twitter.com/schoefmann",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Load Balancing with Docker Swarm",
+      "url": "https://botleg.com/stories/load-balancing-with-docker-swarm/",
+      "contributor": {
+        "name": "Hanzel Jesheen",
+        "url": "https://twitter.com/hanzeljesheen",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Swarm Cluster using Consul",
+      "url": "http://blog.arungupta.me/docker-swarm-cluster-using-consul/",
+      "contributor": {
+        "name": "Arun Gupta",
+        "url": "https://twitter.com/arungupta",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "An Example of Docker Multi-Host Networking With Hadoop",
+      "url": "http://javaarchramble.blogspot.com/2016/02/an-example-of-docker-multi-host_18.html?view=classic",
+      "contributor": {
+        "name": "Joshua Davis",
+        "url": "https://twitter.com/joshuad2",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "ScoutaPark Runs Production on Docker Swarm with Carina",
+      "url": "https://getcarina.com/blog/ScoutaPark-Runs-On-Carina/",
+      "contributor": {
+        "name": "Dan Sheppard",
+        "url": "https://twitter.com/Danerisms",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "The state of the swarm",
+      "url": "http://fr.slideshare.net/Buf01/the-state-of-the-swarm?_tmc=oC-fMVZxskFghRKSlk9pTVFD01VR86mu9Oh8jvazNhc",
+      "contributor": {
+        "name": "Mathieu Buffenoir",
+        "url": "https://twitter.com/MBuffenoir",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Video Tutorials to Join Your First Docker Swarm Cluster",
+      "url": "https://blog.docker.com/2016/03/swarmweek-join-your-first-swarm/",
+      "contributor": {
+        "name": "Betty Junod",
+        "url": "https://twitter.com/BettyJunod",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Toward a Production-Ready Docker Swarm Cluster with Consul",
+      "url": "https://medium.com/on-docker/toward-a-production-ready-docker-swarm-cluster-with-consul-9ecd36533bb8#.lcy8rfgx1",
+      "contributor": {
+        "name": "Jacob Blain Christen",
+        "url": "https://twitter.com/dweomer",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Blue-Green Deployment To Docker Swarm with Jenkins Workflow Plugin",
+      "url": "http://technologyconversations.com/2015/12/08/blue-green-deployment-to-docker-swarm-with-jenkins-workflow-plugin/?_tmc=IG3GB6q6bC0KVrAoBV7U4cAHnlioQc-xC3GHkhdEmOU",
+      "contributor": {
+        "name": "Viktor Farcic",
+        "url": "https://twitter.com/vfarcic",
+        "is_captain": false
+      }
+    }
+  ]
+}

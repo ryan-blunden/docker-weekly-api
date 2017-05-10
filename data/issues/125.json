@@ -1,0 +1,297 @@
+{
+  "issue": 125,
+  "date": "March 2nd, 2016",
+  "url": "https://goto.docker.com/Docker-Weekly-03022016.html",
+  "count": -1,
+  "notes": "",
+  "articles": [
+    {
+      "title": "Speed up your builds with Docker Cache",
+      "url": "https://medium.com/playmoweb-android-ios-development/speed-up-your-builds-with-docker-cache-bfed14c051bf#.lxlgc0irv",
+      "contributor": {
+        "name": "Steve Grosbois",
+        "url": "https://twitter.com/kwiky",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Dockerize your Development Workstation",
+      "url": "http://nauts.io/videos/2016/02/09/dockerize-your-development-workstation/",
+      "contributor": {
+        "name": "Armin Coralic",
+        "url": "https://twitter.com/acoralic",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Compose and Networking: Easy, secure apps at scale",
+      "url": "https://blog.docker.com/2016/02/docker-compose-networking/",
+      "contributor": {
+        "name": "Mano Marks",
+        "url": "https://twitter.com/ManoMarks",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "TensorFlow for Poets",
+      "url": "http://petewarden.com/2016/02/28/tensorflow-for-poets/",
+      "contributor": {
+        "name": "Pete Warden",
+        "url": "https://twitter.com/petewarden",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Getting Docker running on a high-density ARMv8 development board from HiSilicon",
+      "url": "http://blog.hypriot.com/post/getting-docker-running-on-a-high-density-armv8-server-from-hisilicon/",
+      "contributor": {
+        "name": "Dieter Reuter",
+        "url": "https://twitter.com/Quintus23M",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker and Jenkins",
+      "url": "http://www.slideshare.net/asotobu/jenkins-docker",
+      "contributor": {
+        "name": "Alex Soto",
+        "url": "https://twitter.com/alexsotob",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Not your grandmother\u2019s Docker environment",
+      "url": "https://medium.com/@frntn/not-your-grandmother-s-docker-environment-c3c5c1a5aab#.swwsgr9va",
+      "contributor": {
+        "name": "Matthieu Fronton",
+        "url": "https://twitter.com/frntn",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Creating a Docker Build Manifest",
+      "url": "http://hansenms.github.io/devops/tips/2016/02/26/docker-build-manifest.html",
+      "contributor": {
+        "name": "Michael S. Hansen",
+        "url": "https://twitter.com/ReconstructThis",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "0 to Microservice in 5 minutes with Go, go-microservice-template and Minke",
+      "url": "http://nicholasjackson.github.io/microservices/go/building-and-testing-microservices-part1/",
+      "contributor": {
+        "name": "Nic Jackson",
+        "url": "https://twitter.com/sheriffjackson",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker monitoring with Docker Datacenter & Sysdig",
+      "url": "https://sysdig.com/blog/docker-monitoring-with-datacenter/",
+      "contributor": {
+        "name": "Apurva Dav\u00e9",
+        "url": "https://twitter.com/ApurvaBDave",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "When Whales Fly \u2013 Building a Wireless Pentest Environment using Docker",
+      "url": "http://foxglovesecurity.com/2016/02/24/when-whales-fly-building-a-wireless-pentest-environment-using-docker/",
+      "contributor": {
+        "name": "Brandon Edmunds",
+        "url": "https://twitter.com/awhitehatter",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "CI as Code Part III: Dynamic Jenkins-Swarm Example",
+      "url": "https://zwischenzugs.wordpress.com/2016/02/25/922/",
+      "contributor": {
+        "name": "Ian Miell",
+        "url": "https://twitter.com/ianmiell",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Incident Handling with Docker Containers",
+      "url": "https://blog.rootshell.be/2016/02/22/incident-handling-docker-to-the-rescue/",
+      "contributor": {
+        "name": "Xavier Mertens",
+        "url": "https://twitter.com/xme",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "How to Create a Docker Business Case",
+      "url": "https://www.brianchristner.io/how-to-create-a-docker-business-case/",
+      "contributor": {
+        "name": "Brian Christner",
+        "url": "https://twitter.com/idomyowntricks",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "None",
+      "url": "https://hub.docker.com/enterprise/trial",
+      "contributor": {
+        "name": "None",
+        "url": "https://cloud.docker.com/",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "How to pass proper DNS to your Docker containers",
+      "url": "http://www.releasemanagement.org/2016/02/how-to-pass-proper-dns-to-your-docker-containers/",
+      "contributor": {
+        "name": "Nilesh Nimkar",
+        "url": "https://twitter.com/nimkar",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Multi-Host Networking: Overlays to the Rescue",
+      "url": "http://www.singlestoneconsulting.com/blog/2016/january/docker-networking",
+      "contributor": {
+        "name": "Don Mills",
+        "url": "https://twitter.com/SingleStoneCX",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "One year+ feedback of using Docker and Swarm in DEV and QA environments",
+      "url": "https://medium.com/@frntn/one-year-feedback-of-using-docker-and-swarm-in-dev-and-qa-environments-deaf2ec6dc61#.skvd9g8cn",
+      "contributor": {
+        "name": "Matthieu Fronton",
+        "url": "https://twitter.com/frntn",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Deployment Diagram - Django with Docker",
+      "url": "http://mmorejon.github.io/en/blog/deployment-diagram-docker-django/",
+      "contributor": {
+        "name": "Manuel Morej\u00f3n",
+        "url": "https://twitter.com/morejon85",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Orchestrate FMW Environments with Docker Compose",
+      "url": "https://blogs.oracle.com/OracleWebCenterSuite/entry/docker_compose_fusion_middleware_12c",
+      "contributor": {
+        "name": "Justin Paul",
+        "url": "https://twitter.com/OracleMiddle",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Creating a good, secure Docker base image",
+      "url": "http://heiber.im/post/creating-a-solid-docker-base-image/",
+      "contributor": {
+        "name": "Moritz Heiber",
+        "url": "https://twitter.com/moritzheiber",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Using the Private NPM Registry with Docker",
+      "url": "https://blog.risingstack.com/private-npm-with-docker/",
+      "contributor": {
+        "name": "Gergely Nemeth",
+        "url": "https://twitter.com/nthgergo",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker on Windows",
+      "url": "http://stefanscherer.github.io/talks/20160225_DockerMeetupBamberg_DockerOnWindows/#1",
+      "contributor": {
+        "name": "Stefan Scherer",
+        "url": "https://twitter.com/stefscherer",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Run a local Windows Docker Swarm",
+      "url": "https://stefanscherer.github.io/build-your-local-windows-docker-swarm/",
+      "contributor": {
+        "name": "Stefan Scherer",
+        "url": "https://twitter.com/stefscherer",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "What Docker Datacenter means to DevOps and the Industry",
+      "url": "https://www.loggly.com/blog/docker-datacenter-ddc-and-what-it-means-to-devops-and-the-industry/",
+      "contributor": {
+        "name": "Sven Dummer",
+        "url": "https://twitter.com/svendum",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "How Docker is changing the world for development and operations",
+      "url": "http://nauts.io/videos/2016/02/09/how-docker-is-changing-the-world-for-devops/",
+      "contributor": {
+        "name": "Iain Gray",
+        "url": "https://twitter.com/iaincgray",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker UCP and Cloud-init with Nutanix",
+      "url": "http://itbloodpressure.com/2016/02/22/docker-ucp-and-cloud-init-with-nutanix-video/",
+      "contributor": {
+        "name": "Dwayne Lessner",
+        "url": "https://twitter.com/dlink7",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Image Reduction Techniques and Tools",
+      "url": "http://chrisstump.online/2016/02/23/docker-image-reduction-techniques-and-tools/",
+      "contributor": {
+        "name": "Chris Stump",
+        "url": "https://twitter.com/ccstump",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Import a Docker Container in Python",
+      "url": "http://blog.deepgram.com/import-a-docker-container-in-python/",
+      "contributor": {
+        "name": "Noah Shutty",
+        "url": "https://twitter.com/noajshu",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Working with Docker",
+      "url": "http://www.developmentalmadness.com/2016/02/27/working-with-docker/",
+      "contributor": {
+        "name": "Mark J. Miller",
+        "url": "https://twitter.com/dvMENTALmadness",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Getting Started with Tutum (aka, Docker Cloud)",
+      "url": "http://blog.codeship.com/tutum-aka-docker-cloud/",
+      "contributor": {
+        "name": "Jason Kriss",
+        "url": "https://twitter.com/jasonkriss",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "How to deploy Elasticsearch with Docker in 10 steps",
+      "url": "https://medium.appbase.io/how-to-deploy-elasticsearch-with-docker-in-10-steps-712dde819ae#.mz9vjy1j7",
+      "contributor": {
+        "name": "Sacheendra Talluri",
+        "url": "https://medium.appbase.io/",
+        "is_captain": false
+      }
+    }
+  ]
+}

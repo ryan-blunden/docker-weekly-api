@@ -1,0 +1,216 @@
+{
+  "issue": 134,
+  "date": "May 4th, 2016",
+  "url": "https://goto.docker.com/Docker-Weekly-05042016.html",
+  "count": -1,
+  "notes": "",
+  "articles": [
+    {
+      "title": "Save Yourself from Years of Turmoil by Using Docker Today",
+      "url": "http://nickjanetakis.com/blog/save-yourself-from-years-of-turmoil-by-using-docker-today",
+      "contributor": {
+        "name": "Nick Janetakis",
+        "url": "https://twitter.com/nickjanetakis",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Using Docker as a Personal Productivity Tool \u2013 Running Command Line Apps Bundled in Docker Containers",
+      "url": "https://blog.ouseful.info/2016/05/03/using-docker-as-a-personal-productvity-tool-running-command-line-apps/",
+      "contributor": {
+        "name": "Tony Hirst",
+        "url": "https://twitter.com/psychemedia",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Windows Server 2016 using VirtualBox for Docker Containers",
+      "url": "http://blog.couchbase.com/2016/april/windows-server-2016-virtualbox-docker",
+      "contributor": {
+        "name": "Arun Gupta",
+        "url": "https://twitter.com/arungupta",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Using Caddy with Docker",
+      "url": "https://blog.zzrot.com/caddy-with-docker/",
+      "contributor": {
+        "name": "Sean Kilgarriff",
+        "url": "https://twitter.com/SeanKilgarriff",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Cloning Docker data volumes",
+      "url": "https://www.guidodiepen.nl/2016/05/cloning-docker-data-volumes/",
+      "contributor": {
+        "name": "Guido Diepen",
+        "url": "https://twitter.com/gdiepen",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Operations Getting Down With DJ RunC & ContainerD",
+      "url": "http://itbloodpressure.com/2016/04/23/operations-getting-down-with-dj-runc-containerd/",
+      "contributor": {
+        "name": "Dwayne Lessner",
+        "url": "https://twitter.com/dlink7",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Getting started with Docker and Wordpress",
+      "url": "http://wade.be/development/2016/05/02/docker.html",
+      "contributor": {
+        "name": "James Wade",
+        "url": "https://twitter.com/jpswade",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker for Windows Beta review",
+      "url": "http://laurentkempe.com/2016/04/30/Docker-for-Windows-Beta-review/",
+      "contributor": {
+        "name": "Laurent Kemp\u00e9",
+        "url": "https://twitter.com/laurentkempe",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Dockerize ASP.NET Core",
+      "url": "http://kjanshair.azurewebsites.net/Blog/DockerizeAspNetCore",
+      "contributor": {
+        "name": "Janshair Khan",
+        "url": "https://twitter.com/kjanshair",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Setup Docker on Windows Server 2016",
+      "url": "http://blog.couchbase.com/2016/april/setup-docker-windows-server-2016",
+      "contributor": {
+        "name": "Arun Gupta",
+        "url": "https://twitter.com/arungupta",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Setup a local Windows 2016 TP5 Docker VM",
+      "url": "https://stefanscherer.github.io/setup-local-windows-2016-tp5-docker-vm/",
+      "contributor": {
+        "name": "Stefan Scherer",
+        "url": "https://twitter.com/stefscherer",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Swarm",
+      "url": "http://slides.com/petrmichalec/docker-swarm#/",
+      "contributor": {
+        "name": "Petr Michalec",
+        "url": "https://twitter.com/epcim/",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Effective Elasticsearch Plugin Management with Docker",
+      "url": "https://www.elastic.co/blog/elasticsearch-docker-plugin-management",
+      "contributor": {
+        "name": "Tyler Langlois",
+        "url": "https://twitter.com/leothrix",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "VorlonJS \u2013 A Journey to DevOps: publish image in the Docker Hub using Visual Studio Team Services",
+      "url": "https://blogs.technet.microsoft.com/devops/2016/05/02/vorlonjs-a-journey-to-devops-publish-docker-image-visual-studio-team-services/",
+      "contributor": {
+        "name": "Julien Corioland",
+        "url": "https://twitter.com/jcorioland",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Comparison of Docker Cleanup Scripts",
+      "url": "https://t.co/G0BxmsZaAZ",
+      "contributor": {
+        "name": "Brian Christner",
+        "url": "https://twitter.com/idomyowntricks",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Extend Docker Via Plugin",
+      "url": "https://blog.codeship.com/extend-docker-via-plugin/",
+      "contributor": {
+        "name": "Lorenzo Fontana",
+        "url": "https://twitter.com/fntlnz",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Ghost blog on Docker in 5 mins",
+      "url": "http://blog.alexellis.io/ghost-on-docker-5mins/",
+      "contributor": {
+        "name": "Alex Ellis",
+        "url": "https://twitter.com/alexellisuk",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Windows Docker Containers",
+      "url": "https://lostechies.com/gabrielschenker/2016/04/30/windows-docker-containers/",
+      "contributor": {
+        "name": "Gabriel Schenker",
+        "url": "https://twitter.com/gnschenker",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Getting started with containers and Docker on Windows Server 2016 Technical Preview 5",
+      "url": "https://blogs.msdn.microsoft.com/jcorioland/2016/04/28/getting-started-with-containers-and-docker-on-windows-server-2016-technical-preview-5/",
+      "contributor": {
+        "name": "Julien Corioland",
+        "url": "https://twitter.com/jcorioland",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Deploying your Django API in one Docker Container in AWS",
+      "url": "http://www.restapibuilder.com/blog/deploying-your-django-api-in-one-docker-container-in-aws/",
+      "contributor": {
+        "name": "Edilio Gallardo",
+        "url": "https://twitter.com/ediliogallardo",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Service Discovery with Docker and Consul: part 2",
+      "url": "http://www.smartjava.org/content/service-discovery-docker-and-consul-part-2",
+      "contributor": {
+        "name": "Jos Dirksen",
+        "url": "https://twitter.com/josdirksen",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Jenkins 2.0 : First Impressions",
+      "url": "http://blog.alexellis.io/jenkins-2-0-first-impressions/",
+      "contributor": {
+        "name": "Alex Ellis",
+        "url": "https://twitter.com/alexellisuk",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Using docker for django development",
+      "url": "http://davidebove.com/blog/2016/05/01/using-docker-for-django-development/",
+      "contributor": {
+        "name": "Davide Bove",
+        "url": "https://twitter.com/TheDbof",
+        "is_captain": false
+      }
+    }
+  ]
+}

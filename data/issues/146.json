@@ -1,0 +1,126 @@
+{
+  "issue": 146,
+  "date": "July 28th, 2016",
+  "url": "https://goto.docker.com/Docker-Weekly-07282016.html",
+  "count": -1,
+  "notes": "",
+  "articles": [
+    {
+      "title": "Setup Docker on Windows Server 2016",
+      "url": "https://dzone.com/articles/setup-docker-on-windows-server-2016",
+      "contributor": {
+        "name": "Arun Gupta",
+        "url": "https://twitter.com/arungupta",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Common Dockerfile Mistakes",
+      "url": "https://developer.atlassian.com/blog/2016/06/common-dockerfile-mistakes/",
+      "contributor": {
+        "name": "Derek Chamorro",
+        "url": "https://developer.atlassian.com/blog/authors/dchamorro/",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Load Balancing Containers In Docker Swarm Mode With Nginx",
+      "url": "https://www.nginx.com/resources/webinars/load-balancing-containers-docker-nginx/?mkt_tok=eyJpIjoiTnpGaE0yVTBaVGd6WWpSaCIsInQiOiJYQ0dHdzh3SVNYXC9xZXdpeEl1N1gxaHExSERrZUNNZE5HNzhsVEhKd2RUZVZlTkJrQXk1S3RvYmFDQkZvTmFaZWZsN28xTFwvWFlybWY3OUljSTk3NlVjUW",
+      "contributor": {
+        "name": "Rick Nelson",
+        "url": "https://www.linkedin.com/in/rick-nelson-900567",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Function as a service for Docker",
+      "url": "https://medium.com/@chanwit/function-as-a-service-for-docker-609677b9ba3b#.wd0nr4gfg",
+      "contributor": {
+        "name": "Chanwit Kaewkasi",
+        "url": "https://twitter.com/chanwit",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Life and death of a container",
+      "url": "https://medium.com/@lherrera/life-and-death-of-a-container-146dfc62f808#.plm48qgpn",
+      "contributor": {
+        "name": "Luis Herrera Ben\u00edtez",
+        "url": "https://twitter.com/lherrerabenitez",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Service Discovery under Docker Engine 1.12",
+      "url": "http://collabnix.com/archives/1504",
+      "contributor": {
+        "name": "Ajeet Singh Raina",
+        "url": "https://twitter.com/ajeetsraina",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Consistent Selenium testing with Docker",
+      "url": "https://medium.com/@garrensmith/consistent-selenium-testing-with-docker-f2d5a24a1bc5#.aoqydqqqw",
+      "contributor": {
+        "name": "Garren Smith",
+        "url": "https://twitter.com/GarrenSmith",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Jenkins meets the corporate proxy",
+      "url": "http://blog.alexellis.io/jenkins-meets-the-proxy/",
+      "contributor": {
+        "name": "Alex Ellis",
+        "url": "https://twitter.com/alexellisuk",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Tunes Up Engine Orchestration",
+      "url": "http://www.linuxinsider.com/story/83632.html",
+      "contributor": {
+        "name": "Richard Adhikari",
+        "url": "https://plus.google.com/+RichardAdhikari/posts",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Using Docker to Proxy WebSockets on AWS ELBs",
+      "url": "https://blog.mikesir87.io/2016/07/using-docker-to-proxy-websockets-on-aws-elbs/",
+      "contributor": {
+        "name": "Michael Irwin",
+        "url": "https://twitter.com/mikesir87",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "None",
+      "url": "https://deis.com/blog/2016/docker-storage-introduction/",
+      "contributor": {
+        "name": "Eddy Mavungu",
+        "url": "https://twitter.com/@mazembo",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Comparing microservices and monolithic applications from the perspective of monitoring",
+      "url": "http://www.coscale.com/blog/comparing-microservices-and-monolithic-applications-from-the-perspective-of-monitoring",
+      "contributor": {
+        "name": "Peter Arijs",
+        "url": "https://twitter.com/p_arijs",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Indiana University Uses Docker Datacenter for Production-Ready Orchestration",
+      "url": "https://blog.docker.com/2016/07/indiana-university-uses-docker-datacenter-for-production-ready-orchestration-4/",
+      "contributor": {
+        "name": "Christopher Hines",
+        "url": "https://twitter.com/cchines",
+        "is_captain": false
+      }
+    }
+  ]
+}

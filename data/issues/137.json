@@ -1,0 +1,315 @@
+{
+  "issue": 137,
+  "date": "May 26th, 2016",
+  "url": "https://goto.docker.com/Docker-Weekly-05262016.html",
+  "count": -1,
+  "notes": "",
+  "articles": [
+    {
+      "title": "My Dockercon Hack: LED powered IoT cluster",
+      "url": "http://blog.alexellis.io/iot-docker-cluster/",
+      "contributor": {
+        "name": "Alex Ellis",
+        "url": "https://twitter.com/alexellisuk",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Hello dotnet Core RC2: Docker calling",
+      "url": "http://blog.alexellis.io/instant-dotnet-core-rc2-with-docker/",
+      "contributor": {
+        "name": "Alex Ellis",
+        "url": "https://twitter.com/alexellisuk",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "How To Provision and Manage Remote Docker Hosts with Docker Machine on Ubuntu 16.04",
+      "url": "https://www.digitalocean.com/community/tutorials/how-to-provision-and-manage-remote-docker-hosts-with-docker-machine-on-ubuntu-16-04",
+      "contributor": {
+        "name": "finid",
+        "url": "https://www.digitalocean.com/community/users/finid",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "AWS CLI in a Docker Container",
+      "url": "https://blog.flowlog-stats.com/2016/05/03/aws-cli-in-a-docker-container/",
+      "contributor": {
+        "name": "Garland Kan",
+        "url": "https://twitter.com/gargar454",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker and Node.js Boilerplate",
+      "url": "http://blog.slashdeploy.com/2016/05/18/docker-node-boilerplate/",
+      "contributor": {
+        "name": "None",
+        "url": "https://twitter.com/adman65",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Day 11: Using Docker to build and deploy a distributed app",
+      "url": "https://medium.com/@hmovielabs/day-11-getting-started-with-docker-and-using-it-to-build-deploy-a-distributed-app-1929669064b8#.pud5s8mth",
+      "contributor": {
+        "name": "Harini Janakiraman",
+        "url": "https://twitter.com/hmovielabs",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Developing with Docker and Webpack",
+      "url": "http://dapperdeveloper.com/2016/05/18/developing-with-docker-and-webpack/",
+      "contributor": {
+        "name": "Chris Harrington",
+        "url": "https://twitter.com/charrington99",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Changes the Way You Develop and Release Your Scalable Solutions",
+      "url": "https://speakerdeck.com/tourismgeek/docker-changes-the-way-you-develop-and-release-your-scalable-solutions",
+      "contributor": {
+        "name": "Tugberk Ugurlu",
+        "url": "https://twitter.com/tourismgeek",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Getting Started with .NET Core and Docker",
+      "url": "https://medium.com/@fminzoni/getting-started-with-net-core-and-docker-6f11c8c97e16#.q6vf4frmh",
+      "contributor": {
+        "name": "Federico Minzoni",
+        "url": "https://twitter.com/fminzoni",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Notification of new USB devices in docker container",
+      "url": "https://www.guidodiepen.nl/2016/05/notification-of-new-usb-devices-in-docker-container/",
+      "contributor": {
+        "name": "Guido Diepen",
+        "url": "https://twitter.com/gdiepen",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker on Azure",
+      "url": "http://kjanshair.azurewebsites.net/Blog/DockerOnAzure",
+      "contributor": {
+        "name": "Janshair Khan",
+        "url": "https://twitter.com/kjanshair",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Speeding Up Your Docker Based Builds with Codeship",
+      "url": "https://blog.codeship.com/speeding-up-your-docker-based-builds-with-codeship/",
+      "contributor": {
+        "name": "Ethan Jones",
+        "url": "https://twitter.com/ethangj",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Run Metasploit Framework as a Docker Container Without Installation Pains",
+      "url": "https://zeltser.com/metasploit-framework-docker-container/",
+      "contributor": {
+        "name": "Lenny Zeltser",
+        "url": "https://twitter.com/lennyzeltser",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Living with microservices at Pipedrive",
+      "url": "http://www.slideshare.net/rreinurm/living-with-microservices-at-pipedrive",
+      "contributor": {
+        "name": "Renno Reinum",
+        "url": "https://twitter.com/rreinurm",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Innovating Out In The Open",
+      "url": "http://www.slideshare.net/PhilEstes/innovating-out-in-the-open-oscon-2016",
+      "contributor": {
+        "name": "Phil Estes",
+        "url": "https://twitter.com/estesp",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "How to Get Code into a Docker Container",
+      "url": "http://blog.cloud66.com/how-to-get-code-into-a-docker-container/",
+      "contributor": {
+        "name": "James Higginbotham",
+        "url": "https://twitter.com/launchany",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Distributed Elixir nodes on Docker Beta and Docker Swarm",
+      "url": "http://sirile.github.io/2016/05/19/distributed-elixir-nodes-on-docker-beta-and-docker-swarm.html",
+      "contributor": {
+        "name": "Ilkka Anttonen",
+        "url": "https://twitter.com/IlkkaAnttonen",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Optimizing Multi Data Center Deployments Using Docker Registry",
+      "url": "https://t.co/LJ6r98Z2rp",
+      "contributor": {
+        "name": "Mario Zagar",
+        "url": "https://twitter.com/Infobip",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker and Ruby for TDD and Deployment",
+      "url": "http://blog.slashdeploy.com/2016/05/02/docker_and_ruby_for_tdd_and_deployment/",
+      "contributor": {
+        "name": "Adam Hawkins",
+        "url": "https://twitter.com/adman65",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Exposing Services Running in a Docker Container Running in Virtualbox to Other Computers on a Local Network",
+      "url": "https://blog.ouseful.info/2016/05/22/exposing-services-running-in-a-docker-container-running-in-virtualbox-to-other-computers-on-a-local-network/",
+      "contributor": {
+        "name": "Tony Hirst",
+        "url": "https://twitter.com/psychemedia",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Introducing Falco: open source, behavioral security from Sysdig",
+      "url": "https://sysdig.com/blog/sysdig-falco/",
+      "contributor": {
+        "name": "Henri Dubois-Ferriere",
+        "url": "https://twitter.com/sysdig",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Running and debugging an ASP.NET Core RC2 application in Docker",
+      "url": "https://lostechies.com/gabrielschenker/2016/05/17/running-and-debugging-an-asp-net-core-rc2-application-running-in-docker/",
+      "contributor": {
+        "name": "Gabriel Schenker",
+        "url": "https://twitter.com/gnschenker",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Security: How to Monitor and Patch Containers in the Cloud",
+      "url": "http://www.logicworks.net/blog/2016/04/docker-security-monitor-patch-containers-aws/",
+      "contributor": {
+        "name": "Jason McKay",
+        "url": "https://twitter.com/Logicworks",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Linking Docker Containers",
+      "url": "https://www.codementor.io/docker/tutorial/creating-and-linking-docker-containers",
+      "contributor": {
+        "name": "Billie Thompson",
+        "url": "https://twitter.com/PurpleBooth",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "runc in 30 seconds",
+      "url": "http://blog.alexellis.io/runc-in-30-seconds/",
+      "contributor": {
+        "name": "Alex Ellis",
+        "url": "https://twitter.com/alexellisuk",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "How to Perform Integration Testing on Go Applications with Docker",
+      "url": "https://semaphoreci.com/community/tutorials/how-to-perform-integration-testing-on-go-applications-with-docker",
+      "contributor": {
+        "name": "Kulshekhar Kabra",
+        "url": "https://twitter.com/semaphoreci",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Create a Couchbase Server Cluster using Docker",
+      "url": "http://blog.couchbase.com/2016/may/create-a-couchbase-server-cluster-using-docker",
+      "contributor": {
+        "name": "Nic Raboy",
+        "url": "https://twitter.com/nraboy",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Building Microservices with Docker and the Rails API gem",
+      "url": "https://blog.codeship.com/building-microservices-docker-rails-api-gem/",
+      "contributor": {
+        "name": "Charles Wang",
+        "url": "https://twitter.com/TwoBuckChuck",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Armed with Reason",
+      "url": "http://kcsrk.info/reason/arm/2016/05/16/armed-with-reason/",
+      "contributor": {
+        "name": "KC Sivaramakrishnan",
+        "url": "https://twitter.com/kc_srk",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker for Developers",
+      "url": "https://www.youtube.com/playlist?list=PLjQo0sojbbxViGEbI_87SPXpb3neuVqDL",
+      "contributor": {
+        "name": "Zack Siri",
+        "url": "https://twitter.com/zacksiri",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker-101-tutorial",
+      "url": "http://ianmiell.github.io/docker-101-tutorial/",
+      "contributor": {
+        "name": "Ian Miell",
+        "url": "https://twitter.com/ianmiell",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker 1.11 et plus: Engine is now built on runC and containerd",
+      "url": "https://medium.com/@tiffanyfayj/docker-1-11-et-plus-engine-is-now-built-on-runc-and-containerd-a6d06d7e80ef#.1idp7qx5z",
+      "contributor": {
+        "name": "Tiffany Jernigan",
+        "url": "https://twitter.com/tiffanyfayj",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "How To Install and Use Docker on Ubuntu 16.04",
+      "url": "https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04",
+      "contributor": {
+        "name": "finid",
+        "url": "https://www.digitalocean.com/community/users/finid",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Machine on Scaleway",
+      "url": "https://blog.scaleway.com/2016/05/03/docker-machine-on-scaleway/",
+      "contributor": {
+        "name": "Quentin Perez",
+        "url": "https://twitter.com/qperez42",
+        "is_captain": false
+      }
+    }
+  ]
+}

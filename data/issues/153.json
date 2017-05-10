@@ -1,0 +1,72 @@
+{
+  "issue": 153,
+  "date": "September 14th, 2016",
+  "url": "https://goto.docker.com/Docker-Weekly_9142016.html",
+  "count": -1,
+  "notes": "",
+  "articles": [
+    {
+      "title": "How to Update a Single Running docker-compose Container",
+      "url": "http://staxmanade.com/2016/09/how-to-update-a-single-running-docker-compose-container/",
+      "contributor": {
+        "name": "Jason Jarrett",
+        "url": "https://twitter.com/staxmanade",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Read more.",
+      "url": "https://blog.docker.com/2016/09/docker-authorized-partner-program/",
+      "contributor": {
+        "name": "None",
+        "url": "https://blog.docker.com/2016/09/docker-authorized-partner-program/",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Orchestrating Linux Containers while tolerating failures",
+      "url": "http://www.slideshare.net/Docker/orchestrating-linux-containers-while-tolerating-failures",
+      "contributor": {
+        "name": "Nishant Totla",
+        "url": "https://twitter.com/nishanttotla",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Building a Microservices solution using Docker, .NET and Windows Server 2016",
+      "url": "https://www.youtube.com/watch?v=Y2YmJTB1IKE&mc_cid=052ebb0c93&mc_eid=a9fd395a0a",
+      "contributor": {
+        "name": "Tech Ed",
+        "url": "https://twitter.com/teched_na",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Multiplayer Minecraft in Moments with Docker",
+      "url": "https://blog.codedellemc.com/2016/09/08/multiplayer-minecraft-in-moments/",
+      "contributor": {
+        "name": "Akira Wong",
+        "url": "https://twitter.com/akiraw95",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Service Discovery Inside A Docker Swarm Cluster",
+      "url": "https://technologyconversations.com/2016/09/13/service-discovery-inside-a-swarm-cluster/",
+      "contributor": {
+        "name": "Viktor Farcic",
+        "url": "https://twitter.com/vfarcic",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Learn the basics of Docker",
+      "url": "https://www.youtube.com/watch?v=pEYjB5OIfqk&list=PLbG4OyfwIxjEe5Y3hQCiQjYnSgRH051iJ&index=2",
+      "contributor": {
+        "name": "Coder Journey",
+        "url": "https://twitter.com/coderjourney",
+        "is_captain": false
+      }
+    }
+  ]
+}

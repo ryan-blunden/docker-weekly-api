@@ -1,0 +1,216 @@
+{
+  "issue": 119,
+  "date": "January 20th, 2016",
+  "url": "https://goto.docker.com/Docker-Weekly-01202016.html",
+  "count": -1,
+  "notes": "",
+  "articles": [
+    {
+      "title": "Containers for continuous integration (in science)",
+      "url": "http://fredhutchio.github.io/containers-ci/?_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac#/",
+      "contributor": {
+        "name": "Erick Matsen",
+        "url": "https://twitter.com/ematsen",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Swarm: Collecting Metrics, Events & Logs",
+      "url": "http://blog.sematext.com/2016/01/12/docker-swarm-collecting-metrics-events-logs/?_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac",
+      "contributor": {
+        "name": "Stefan Thies",
+        "url": "https://twitter.com/seti321",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Setting up docker with xhyve (OS X virtualization)",
+      "url": "https://allysonjulian.com/setting-up-docker-with-xhyve/?_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac",
+      "contributor": {
+        "name": "AJ",
+        "url": "https://twitter.com/astrohckr",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Visualizing Docker Compose with Ardoq",
+      "url": "https://ardoq.com/visualizing-docker-compose/?_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac",
+      "contributor": {
+        "name": "Kristian Helgesen",
+        "url": "https://twitter.com/ardoqCom",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "NGINX Reverse Proxy and Load Balancing for ASP.NET 5 Applications with Docker Compose",
+      "url": "http://www.tugberkugurlu.com/archive/nginx-reverse-proxy-and-load-balancing-for-asp-net-5-applications-with-docker-compose?_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac",
+      "contributor": {
+        "name": "Tugberk Ugurlu",
+        "url": "https://twitter.com/tourismgeek",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "How To Install Prometheus using Docker on Ubuntu 14.04",
+      "url": "https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-using-docker-on-ubuntu-14-04?_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac",
+      "contributor": {
+        "name": "Julius Volz",
+        "url": "http://juliusv.com/",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Host your own 7mb DNS Server with Docker, Alpine Linux and Unbound",
+      "url": "http://pmig.at/2016/01/16/host-your-own-7mb-dns-server-with-docker-alpine-linux-and-unbound/?_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac",
+      "contributor": {
+        "name": "Philip Miglinci",
+        "url": "https://twitter.com/pmigat",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "From Vagrant to Docker: How to use Docker for local web development",
+      "url": "http://blog.osteel.me/posts/2015/12/18/from-vagrant-to-docker-how-to-use-docker-for-local-web-development.html?_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac",
+      "contributor": {
+        "name": "Yannick Chenot",
+        "url": "https://twitter.com/osteel",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Create a Docker Swarm cluster using Azure Container Service",
+      "url": "https://blogs.msdn.microsoft.com/jcorioland/2016/01/14/create-a-docker-swarm-cluster-using-azure-container-service/?_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac",
+      "contributor": {
+        "name": "Julien Corioland",
+        "url": "https://twitter.com/jcorioland",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Static analysis build server for Android with Jenkins using Docker",
+      "url": "https://medium.com/@Rapchik/static-analysis-build-server-for-android-with-jenkins-using-docker-bda888d4b34e?_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac#.vjvenreps",
+      "contributor": {
+        "name": "Umar Nizamani",
+        "url": "https://twitter.com/Rapchik",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker at the Scale of Enterprise",
+      "url": "https://www.linkedin.com/pulse/docker-scale-enterprise-darrell-breeden?_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac",
+      "contributor": {
+        "name": "Darrell Breeden",
+        "url": "https://www.linkedin.com/in/darrell-breeden-7713a617",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "How to get Docker working your favorite ARM board with HypriotOS",
+      "url": "http://blog.hypriot.com/post/how-xxx-makes-hypriotos-a-lot-more-attractive/?_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac",
+      "contributor": {
+        "name": "Govinda Fichtner",
+        "url": "https://twitter.com/_beagile_",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "First Meetup at University of Bamberg summons local Docker community",
+      "url": "http://blog.hypriot.com/post/first_docker_meetup_university_bamberg/?_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac",
+      "contributor": {
+        "name": "Mathias Renner",
+        "url": "https://twitter.com/MathiasRenner",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker: portable environment",
+      "url": "http://scene-si.org/2016/01/14/docker-portable-environment/?_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac",
+      "contributor": {
+        "name": "Tit Petric",
+        "url": "https://twitter.com/TitPetric",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Using binpack with Docker Swarm",
+      "url": "http://container-solutions.com/using-binpack-with-docker-swarm/?ct=t(July_Newsletter3_7_2015)&mc_cid=fb0c935c28&mc_eid=dae21f3705&_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac",
+      "contributor": {
+        "name": "Adrian Mouat",
+        "url": "https://twitter.com/adrianmouat",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Get started with Docker on Windows using Chocolatey",
+      "url": "https://stefanscherer.github.io/get-started-with-docker-on-windows-using-chocolatey/?_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac",
+      "contributor": {
+        "name": "Stefan Scherer",
+        "url": "https://twitter.com/stefscherer",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Container Management using Universal Control Plane",
+      "url": "http://collabnix.com/archives/927",
+      "contributor": {
+        "name": "Ajeet Singh Raina",
+        "url": "https://twitter.com/ajeetsraina",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Getting Started with Microservices using Ruby on Rails and Docker",
+      "url": "http://blog.giantswarm.io/getting-started-with-microservices-using-ruby-on-rails-and-docker/",
+      "contributor": {
+        "name": "Dirk Breuer",
+        "url": "https://twitter.com/railsbros_dirk",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Office 365 addins as microservices on Docker containers",
+      "url": "https://spbreed.wordpress.com/2015/12/27/office-365-addins-as-microservices-on-docker-containers/?_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac",
+      "contributor": {
+        "name": "Karthik Ramamoorthy",
+        "url": "https://twitter.com/spbreed",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Deploying and migrating an Elasticsearch-Logstash-Kibana stack using Docker Part 2",
+      "url": "https://clusterhq.com/2016/01/12/b-multinode-elk-flocker/?_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac",
+      "contributor": {
+        "name": "Ryan Wallner",
+        "url": "https://twitter.com/RyanWallner",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Create a Slack Docker proxy in Go - Part 1",
+      "url": "http://www.smartjava.org/content/create-slack-docker-proxy-go-part-1",
+      "contributor": {
+        "name": "Jos Dirksen",
+        "url": "https://twitter.com/josdirksen",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker : Simple Image Linking with Redis",
+      "url": "http://chucksailer.com/?p=437&_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac",
+      "contributor": {
+        "name": "Chuck Sailer",
+        "url": "https://twitter.com/ChuckSailer",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Building Docker Images with Distelli",
+      "url": "https://www.distelli.com/blog/building-docker-images-with-distelli?_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac",
+      "contributor": {
+        "name": "Nimish Chandiramani",
+        "url": "https://www.linkedin.com/in/nimishc",
+        "is_captain": false
+      }
+    }
+  ]
+}

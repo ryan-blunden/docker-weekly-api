@@ -1,0 +1,216 @@
+{
+  "issue": 122,
+  "date": "February 10th, 2016",
+  "url": "https://goto.docker.com/Docker-Weekly-02102016.html",
+  "count": -1,
+  "notes": "",
+  "articles": [
+    {
+      "title": "Enabling Docker Remote API on Docker Machine on Mac OS X",
+      "url": "http://blog.couchbase.com/2016/february/enabling-docker-remote-api-docker-machine-mac-osx",
+      "contributor": {
+        "name": "Arun Gupta",
+        "url": "https://twitter.com/arungupta",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "How to get started with data science in containers",
+      "url": "http://jamiehall.cc/post/how-to-get-started-with-data-science-in-containers",
+      "contributor": {
+        "name": "Jamie Hall",
+        "url": "https://twitter.com/jamie_hall",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Refactoring a Dockerfile for image size",
+      "url": "http://blog.replicated.com/2016/02/05/refactoring-a-dockerfile-for-image-size/",
+      "contributor": {
+        "name": "Marc Campbell",
+        "url": "https://twitter.com/mccode",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker From Scratch",
+      "url": "http://www.slideshare.net/GiacomoVacca/docker-from-scratch",
+      "contributor": {
+        "name": "Giacomo Vacca",
+        "url": "https://twitter.com/giavac",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Compose 1.6: New Compose file for defining networks and volumes",
+      "url": "http://blog.docker.com/2016/02/compose-1-6/",
+      "contributor": {
+        "name": "Aanand Prasad",
+        "url": "https://twitter.com/aanand",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Test, build and package Docker for ARM the official way",
+      "url": "http://blog.hypriot.com/post/test-build-and-package-docker-for-arm-the-official-way/",
+      "contributor": {
+        "name": "Govinda Fichtner",
+        "url": "https://twitter.com/_beagile_",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Using Docker with your spring-boot application",
+      "url": "https://github.com/tombee/docker-java-spring-boot-app",
+      "contributor": {
+        "name": "Tom Barlow",
+        "url": "https://twitter.com/tomwbarlow",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "4 useful tips, you may not know about",
+      "url": "http://layer0.authentise.com/docker-4-useful-tips-you-may-not-know-about.html",
+      "contributor": {
+        "name": "Yani Iliev",
+        "url": "https://twitter.com/YaniIliev",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Setting up a Flocker-powered Swarm Cluster in less than 30 minutes on AWS",
+      "url": "https://clusterhq.com/2016/02/08/flocker-swarm-in-30-minutes-aws/",
+      "contributor": {
+        "name": "Stephen Nguyen",
+        "url": "https://twitter.com/Stephenitis",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Multi-host containerised HPC cluster",
+      "url": "https://youtu.be/mKM8GrBn5gg",
+      "contributor": {
+        "name": "Christian Kniep",
+        "url": "https://twitter.com/cqnib",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Storage Internals",
+      "url": "https://www.youtube.com/watch?v=cqu9aOuTnr0&feature=youtu.be",
+      "contributor": {
+        "name": "Amit Shukla",
+        "url": "https://twitter.com/amits",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Migrate Jenkins to a Docker Service",
+      "url": "http://mmorejon.github.io/en/blog/migrate-jenkins-to-a-docker-container/",
+      "contributor": {
+        "name": "Manuel Morej\u00f3n",
+        "url": "https://twitter.com/morejon85",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Swarm",
+      "url": "http://blog.agilepartner.net/docker-swarm/",
+      "contributor": {
+        "name": "Olivier Robert",
+        "url": "https://twitter.com/XwaldRob",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "How Docker volume plugins were born and how to write your own",
+      "url": "https://skillsmatter.com/skillscasts/7530-how-docker-volume-plugins-were-born-and-how-to-write-your-own",
+      "contributor": {
+        "name": "Luke Marsden",
+        "url": "https://twitter.com/lmarsden",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Introduction to Azure Docker Extension",
+      "url": "https://ahmetalpbalkan.com/blog/azure-docker-extension/",
+      "contributor": {
+        "name": "Ahmet Alp Balkan",
+        "url": "https://twitter.com/AhmetAlpBalkan",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Configuring and Running Django + Celery in Docker Containers",
+      "url": "https://www.syncano.io/blog/configuring-running-django-celery-docker-containers-pt-1/",
+      "contributor": {
+        "name": "Justyna Ilczuk",
+        "url": "https://twitter.com/attilczuk",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "docker-cheat-sheet",
+      "url": "https://github.com/wsargent/docker-cheat-sheet",
+      "contributor": {
+        "name": "Will Sargent",
+        "url": "https://twitter.com/will_sargent",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Getting started with Docker",
+      "url": "http://www.slideshare.net/vsrecios/docker-started",
+      "contributor": {
+        "name": "Victor Recio",
+        "url": "https://twitter.com/vsrecio",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "The Ultimate NodeJS Development Setup with Docker",
+      "url": "http://paislee.io/the-ultimate-nodejs-development-setup-with-docker/",
+      "contributor": {
+        "name": "Caleb Sotelo",
+        "url": "https://twitter.com/paislee_tweets",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Usage Patterns",
+      "url": "https://skillsmatter.com/skillscasts/7444-docker-usage-patterns",
+      "contributor": {
+        "name": "Benjamin Fernandes",
+        "url": "https://twitter.com/LotharSee",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "What You Need to Know About Storage in Docker 1.10",
+      "url": "http://blog.emccode.com/2016/02/04/what-you-need-to-know-about-storage-in-docker-1-10/",
+      "contributor": {
+        "name": "Kenny Coleman",
+        "url": "https://twitter.com/KendrickColeman",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Automated, Heroku-like Deployments with Docker and Drone",
+      "url": "http://blog.alertbee.io/heroku-like-deployments-with-docker-and-drone/",
+      "contributor": {
+        "name": "Joel Weirauch",
+        "url": "https://twitter.com/JoelWeirauch",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Deploy Docker to Amazon Cloud using Tutum",
+      "url": "http://blog.couchbase.com/2016/deploy-docker-amazon-cloud-tutum",
+      "contributor": {
+        "name": "Arun Gupta",
+        "url": "https://twitter.com/arungupta",
+        "is_captain": false
+      }
+    }
+  ]
+}

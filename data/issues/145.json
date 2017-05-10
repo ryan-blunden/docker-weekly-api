@@ -1,0 +1,108 @@
+{
+  "issue": 145,
+  "date": "July 20th, 2016",
+  "url": "https://goto.docker.com/Docker-Weekly-07202016.html",
+  "count": -1,
+  "notes": "",
+  "articles": [
+    {
+      "title": "Docker 1.12 Swarm Mode",
+      "url": "https://www.youtube.com/watch?v=tlEurzT-KDQ",
+      "contributor": {
+        "name": "Ian Richardson",
+        "url": "https://twitter.com/ianrichardson",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "None",
+      "url": "https://www.youtube.com/watch?v=zqFDEDl5Zes",
+      "contributor": {
+        "name": "Anil Madhavapeddy",
+        "url": "https://twitter.com/avsm",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Swarm Mode Walkthrough",
+      "url": "https://www.youtube.com/watch?v=KC4Ad1DS8xU",
+      "contributor": {
+        "name": "Elton Stoneman",
+        "url": "https://twitter.com/EltonStoneman",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Hadoop and .NET: A Match Made in Docker",
+      "url": "https://blog.sixeyed.com/hadoop-and-net-core-a-match-made-in-docker/",
+      "contributor": {
+        "name": "Craig Shoemaker",
+        "url": "https://twitter.com/craigshoemaker",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker rolls out an orchestration engine. Because what customers want, customers get",
+      "url": "http://www.computerworld.com/article/3084708/cloud-computing/docker-rolls-out-an-orchestration-engine-because-what-customers-want-customers-get.html",
+      "contributor": {
+        "name": "Ben Kepes",
+        "url": "https://twitter.com/benkepes",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Routing Data from Docker to Prometheus Server via Fluentd",
+      "url": "https://blog.treasuredata.com/blog/2016/07/19/routing-data-from-docker-to-prometheus-server-via-fluentd/",
+      "contributor": {
+        "name": "Jhon Hammink",
+        "url": "https://twitter.com/Rijksband",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Understanding Node Failure Handling under Docker 1.12 Swarm Mode",
+      "url": "http://collabnix.com/archives/1464",
+      "contributor": {
+        "name": "Ajeet Singh Raina",
+        "url": "https://twitter.com/ajeetsraina",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker open-sources three unikernels: HyperKit, VPNKit, DataKit - SD Times",
+      "url": "http://sdtimes.com/docker-open-sources-three-unikernels-hyperkit-vpnkit-datakit/",
+      "contributor": {
+        "name": "Madison Moore",
+        "url": "https://twitter.com/moorewithmadi",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Labels and Constraints with Docker Daemon and Service",
+      "url": "http://blog.couchbase.com/2016/july/labels-constraints-docker-daemon-service",
+      "contributor": {
+        "name": "Arun Gupta",
+        "url": "https://twitter.com/search?q=Arun%20Gupta&src=typd",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Compose + NATS: Microservices Development Made Easy",
+      "url": "http://nats.io/blog/docker-compose-plus-nats/",
+      "contributor": {
+        "name": "Waldemar Quevedo",
+        "url": "https://twitter.com/wallyqs",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Monitoring Docker Datacenter Logs & Metrics",
+      "url": "https://sematext.com/blog/2016/07/12/container-monitoring-docker-datacenter-logs-metrics/",
+      "contributor": {
+        "name": "Stefan Thies",
+        "url": "https://twitter.com/seti321",
+        "is_captain": false
+      }
+    }
+  ]
+}

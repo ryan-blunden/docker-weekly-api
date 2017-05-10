@@ -1,0 +1,180 @@
+{
+  "issue": 132,
+  "date": "April 20th, 2016",
+  "url": "https://goto.docker.com/Docker-Weekly-04202016.html",
+  "count": -1,
+  "notes": "",
+  "articles": [
+    {
+      "title": "Event Sourcing in Microservices Using Spring Cloud and Reactor",
+      "url": "http://www.kennybastani.com/2016/04/event-sourcing-microservices-spring-cloud.html",
+      "contributor": {
+        "name": "Kenny Bastani",
+        "url": "https://twitter.com/kennybastani",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "How to deploy RESTful APIs using Node, Express 4 and Docker",
+      "url": "http://docker-software-inc.scoop.it/t/docker-by-docker/p/4062597834/2016/04/14/how-to-deploy-restful-apis-using-node-express-4-and-docker",
+      "contributor": {
+        "name": "James Higginbotham",
+        "url": "https://twitter.com/launchany",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker for your users - Introducing user namespace",
+      "url": "http://docker-software-inc.scoop.it/t/docker-by-docker/p/4062569024/2016/04/14/docker-for-your-users-introducing-user-namespace-yet-another-enthusiast-blog",
+      "contributor": {
+        "name": "Jean-Tiare Le Bigot",
+        "url": "https://twitter.com/oyadutaf",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Automatic Geo-IP Enrichment for Docker Logs",
+      "url": "http://docker-software-inc.scoop.it/t/docker-by-docker/p/4062748502/2016/04/18/automatic-geo-ip-enrichment-for-docker-logs",
+      "contributor": {
+        "name": "Stefan Thies",
+        "url": "https://twitter.com/seti321",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Deploying Go applications with Docker",
+      "url": "http://docker-software-inc.scoop.it/t/docker-by-docker/p/4062750665/2016/04/19/deploying-go-applications-with-docker",
+      "contributor": {
+        "name": "Tit Petric",
+        "url": "https://twitter.com/TitPetric",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker and ASP.NET Core: A Webcast",
+      "url": "http://docker-software-inc.scoop.it/t/docker-by-docker/p/4062760078/2016/04/19/docker-and-asp-net-core-a-webcast",
+      "contributor": {
+        "name": "Shawn Wildermuth",
+        "url": "https://twitter.com/ShawnWildermuth",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Monitoring Kafka on Docker Cloud",
+      "url": "https://sematext.com/blog/2016/04/19/monitoring-kafka-on-docker-cloud/",
+      "contributor": {
+        "name": "Stefan Thies",
+        "url": "https://twitter.com/seti321",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "There's Application Virtualization and There's Docker",
+      "url": "https://blog.docker.com/2016/04/app-virtualization-docker/",
+      "contributor": {
+        "name": "Mike Coleman",
+        "url": "https://twitter.com/mikegcoleman",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "FairFly Makes Deployment Super Easy with Docker Cloud",
+      "url": "https://blog.docker.com/2016/04/cicd-fairfly-docker-cloud/",
+      "contributor": {
+        "name": "Chris Hines",
+        "url": "https://twitter.com/cchines",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "What you need to know about Storage in Docker 1.11 and Swarm 1.2",
+      "url": "https://blog.emccode.com/2016/04/19/what-you-need-to-know-about-storage-in-docker-1-11-and-swarm-1-2/",
+      "contributor": {
+        "name": "Clint Kitson",
+        "url": "https://twitter.com/clintonskitson/",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Devops workflow: Node.js + Docker Cloud",
+      "url": "http://docker-software-inc.scoop.it/t/docker-by-docker/p/4062760120/2016/04/19/devops-workflow-node-js-docker-cloud",
+      "contributor": {
+        "name": "Fran Rios",
+        "url": "http://www.franrios.me/",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Quick Start Docker/Swarm on PI Zero",
+      "url": "http://docker-software-inc.scoop.it/t/docker-by-docker/p/4062757514/2016/04/18/quick-start-docker-swarm-on-pi-zero",
+      "contributor": {
+        "name": "Alex Ellis",
+        "url": "https://twitter.com/alexellisuk",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "The Modern Software Supply Chain Runs on Docker",
+      "url": "https://blog.docker.com/2016/04/the-modern-software-supply-chain-runs-on-docker/",
+      "contributor": {
+        "name": "Marc Holmes",
+        "url": "https://twitter.com/marcholmes",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Alpine based Docker images make a difference in real world apps",
+      "url": "http://docker-software-inc.scoop.it/t/docker-by-docker/p/4062604235/2016/04/14/alpine-based-docker-images-make-a-difference-in-real-world-apps-nick-janetakis",
+      "contributor": {
+        "name": "Nick Janetakis",
+        "url": "https://twitter.com/nickjanetakis",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Video Whiteboard Series for Docker Universal Control Plane",
+      "url": "https://blog.docker.com/2016/04/video-whiteboard-docker-universal-control-plane",
+      "contributor": {
+        "name": "Betty Junod",
+        "url": "https://twitter.com/bettyjunod",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "How Hedvig software-defined storage integrates with Docker Datacenter",
+      "url": "http://docker-software-inc.scoop.it/t/docker-by-docker/p/4062604281/2016/04/14/how-hedvig-software-defined-storage-integrates-with-docker-datacenter",
+      "contributor": {
+        "name": "Suhani Gupta",
+        "url": "https://twitter.com/HedvigInc",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Networking",
+      "url": "https://www.elastic.co/blog/docker-networking",
+      "contributor": {
+        "name": "Samir Bennacer",
+        "url": "https://twitter.com/bennacersamir",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Flow \u2013 Walkthrough",
+      "url": "https://technologyconversations.com/2016/04/18/docker-flow/",
+      "contributor": {
+        "name": "Viktor Farcic",
+        "url": "https://twitter.com/vfarcic",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Security, Hardened Containers and a Layered Strategy",
+      "url": "http://docker-software-inc.scoop.it/t/docker-by-docker/p/4062553208/2016/04/13/docker-security-hardened-containers-and-a-layered-strategy",
+      "contributor": {
+        "name": "Aater Suleman",
+        "url": "https://twitter.com/FutureChips",
+        "is_captain": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "issue": 159,
+  "date": "October 26th, 2016",
+  "url": "https://goto.docker.com/Docker-Weekly_10252016.html",
+  "count": -1,
+  "notes": "",
+  "articles": [
+    {
+      "title": "Dockerize Go Applications",
+      "url": "http://thenewstack.io/dockerize-go-applications/",
+      "contributor": {
+        "name": "Nick McCrory",
+        "url": "https://twitter.com/nickmccrory",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Forwarding Logs From All Containers Running Anywhere Inside A Docker Swarm Cluster",
+      "url": "https://technologyconversations.com/2016/10/24/forwarding-logs-from-all-containers-running-anywhere-inside-a-docker-swarm-cluster/",
+      "contributor": {
+        "name": "Viktor Farcic",
+        "url": "https://twitter.com/vfarcic",
+        "is_captain": false
+      }
+    }
+  ]
+}

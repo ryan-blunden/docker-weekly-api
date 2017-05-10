@@ -1,0 +1,180 @@
+{
+  "issue": 141,
+  "date": "June 24th, 2016",
+  "url": "https://goto.docker.com/Docker-Weekly-06242016.html",
+  "count": -1,
+  "notes": "",
+  "articles": [
+    {
+      "title": "Learn Docker Swarm Mode \u2013 scale in 5 minutes!",
+      "url": "http://blog.alexellis.io/docker-swarm-mode-part1/",
+      "contributor": {
+        "name": "Alex Ellis",
+        "url": "https://twitter.com/alexellisuk",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Running Services in Docker 1.12",
+      "url": "https://blog.codeship.com/running-services-docker-1-122",
+      "contributor": {
+        "name": "Laura Frank",
+        "url": "https://twitter.com/rhein_wein",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Engine 1.12 comes with built-in Distribution & Orchestration System",
+      "url": "http://collabnix.com/archives/1317",
+      "contributor": {
+        "name": "Ajeet Singh Raina",
+        "url": "https://twitter.com/ajeetsraina",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Trying the new docker 1.12 swarm mode locally using machine",
+      "url": "http://blog.mantika.io/docker-1.12-swarm/",
+      "contributor": {
+        "name": "Marcos Lilljedahl",
+        "url": "https://twitter.com/marcosnils",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Swarm Reboot in Docker 1.12",
+      "url": "http://www.skippbox.com/swarm-reboot-in-docker-1-12/",
+      "contributor": {
+        "name": "Sebastien Goasguen",
+        "url": "https://twitter.com/sebgoa",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Containerize All the Multi-Platform Things!",
+      "url": "http://www.slideshare.net/PhilEstes/containerize-all-the-multiplatform-things-dockercon-seattle-2016",
+      "contributor": {
+        "name": "Phil Estes",
+        "url": "https://twitter.com/estesp",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Introducing Experimental Distributed Application Bundles",
+      "url": "https://blog.docker.com/2016/06/docker-app-bundle/",
+      "contributor": {
+        "name": "Michael Friis",
+        "url": "https://twitter.com/manomarks",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "How to use Docker 1.12 Built-In Orchestration and Service Creation",
+      "url": "https://www.brianchristner.io/docker_1-12_builtin_orchestration/",
+      "contributor": {
+        "name": "Brian Christner",
+        "url": "https://twitter.com/idomyowntricks",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Building Serverless Apps with Docker",
+      "url": "https://blog.docker.com/2016/06/building-serverless-apps-with-docker/",
+      "contributor": {
+        "name": "Ben Firshman",
+        "url": "https://twitter.com/bfirsh",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Scale a real microservice with Docker 1.12 Swarm Mode",
+      "url": "http://blog.alexellis.io/microservice-swarm-mode/",
+      "contributor": {
+        "name": "Alex Ellis",
+        "url": "https://twitter.com/alexellisuk",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Democratizing orchestration with Docker",
+      "url": "https://www.jayway.com/2016/06/20/docker-1-12-orchestration/",
+      "contributor": {
+        "name": "Christian Jacobsen",
+        "url": "https://twitter.com/chribben",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Developer Bliss with Docker for Mac & Docker for Windows",
+      "url": "https://blog.codewithdan.com/2016/06/20/developer-bliss-with-docker-for-mac-and-windows/",
+      "contributor": {
+        "name": "Dan Wahlin",
+        "url": "https://twitter.com/danwahlin",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Announcing the Docker for Mac and Windows Public Beta",
+      "url": "https://blog.docker.com/2016/06/docker-mac-windows-public-beta/",
+      "contributor": {
+        "name": "Mano Marks",
+        "url": "https://twitter.com/manomarks",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker 1.12: Now with Built-in Orchestration!",
+      "url": "https://blog.docker.com/2016/06/docker-datacenter-enterprise-sa-home-loans/",
+      "contributor": {
+        "name": "Docker Core Engineering",
+        "url": "https://twitter.com/docker",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "All Hail the New Docker Swarm",
+      "url": "http://container-solutions.com/hail-new-docker-swarm/",
+      "contributor": {
+        "name": "Adrian Mouat",
+        "url": "https://twitter.com/adrianmouat",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker 1.12 orchestration built-in",
+      "url": "http://gianarb.it/blog/docker-1-12-orchestration-built-in",
+      "contributor": {
+        "name": "Gianluca Arbezzano",
+        "url": "https://twitter.com/GianArb",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Datacenter in AWS and Azure in a few clicks",
+      "url": "https://blog.docker.com/2016/06/docker-datacenter-aws-azure-cloud/",
+      "contributor": {
+        "name": "Trisha McCanna",
+        "url": "https://twitter.com/trishthedish99",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Introducing the Docker Store Private Beta",
+      "url": "https://blog.docker.com/2016/06/docker-store/",
+      "contributor": {
+        "name": "Krish Garimella",
+        "url": "https://twitter.com/wol4max",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Register Now for the Docker 1.12 Hackathon",
+      "url": "https://blog.docker.com/2016/06/docker-1-12-hackathon/",
+      "contributor": {
+        "name": "Michelle Antebi",
+        "url": "https://twitter.com/michantebi",
+        "is_captain": false
+      }
+    }
+  ]
+}

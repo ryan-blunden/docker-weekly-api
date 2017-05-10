@@ -1,0 +1,18 @@
+{
+  "issue": 156,
+  "date": "October 5th, 2016",
+  "url": "https://goto.docker.com/Docker-Weekly_1052016.html",
+  "count": -1,
+  "notes": "",
+  "articles": [
+    {
+      "title": "Your Docker Agenda For The Month Of October",
+      "url": "https://blog.docker.com/2016/10/docker-agenda-month-october/",
+      "contributor": {
+        "name": "Karen Bajza",
+        "url": "https://twitter.com/kbajza13",
+        "is_captain": false
+      }
+    }
+  ]
+}

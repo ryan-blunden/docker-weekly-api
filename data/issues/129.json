@@ -1,0 +1,252 @@
+{
+  "issue": 129,
+  "date": "March 30th, 2016",
+  "url": "https://goto.docker.com/Docker-Weekly-03302016.html",
+  "count": -1,
+  "notes": "",
+  "articles": [
+    {
+      "title": "Introduction to Docker",
+      "url": "http://kjanshair.azurewebsites.net/Blog/IntroToDocker",
+      "contributor": {
+        "name": "Janshair Khan",
+        "url": "https://twitter.com/kjanshair",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Beginner's Guide to Docker",
+      "url": "http://tutorials.pluralsight.com/devops/docker-s-beginner-guide",
+      "contributor": {
+        "name": "Baisan Marius",
+        "url": "https://twitter.com/GrvMariobyn",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "How Docker Helps Your DevOps Infrastructure",
+      "url": "http://www.spkaa.com/how-docker-helps-your-devops-infrastructure",
+      "contributor": {
+        "name": "Brad Tinder",
+        "url": "https://twitter.com/spkaa",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Let's build a PicoCluster for Docker Swarm",
+      "url": "http://blog.hypriot.com/post/lets-build-a-pi-docker-picocluster/",
+      "contributor": {
+        "name": "Dieter Reuter",
+        "url": "https://twitter.com/Quintus23M",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker for Windows Beta announced",
+      "url": "http://www.hanselman.com/blog/DockerForWindowsBetaAnnounced.aspx",
+      "contributor": {
+        "name": "Scott Hanselman",
+        "url": "https://twitter.com/shanselman",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "The Maven plugins that will expose your Git passwords and how Docker helps prove it",
+      "url": "http://damnhandy.com/2016/03/26/the-maven-plugins-that-will-expose-your-git-passwords-and-how-docker-helps-prove-it/",
+      "contributor": {
+        "name": "Ryan McDonough",
+        "url": "https://twitter.com/damnhandy",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "sFlow: Network and system analytics as a Docker microservice",
+      "url": "http://blog.sflow.com/2016/03/network-and-system-analytics-as-docker.html",
+      "contributor": {
+        "name": "Peter Phaal",
+        "url": "https://twitter.com/sFlow",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "How we use Docker",
+      "url": "https://500.keboola.com/how-we-use-docker-ff75fe44ae57#.qrvmvyjr4",
+      "contributor": {
+        "name": "Ond\u0159ej Popelka",
+        "url": "https://twitter.com/Keboola_Support",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Understanding the Docker Ecosystem",
+      "url": "http://blog.codeship.com/understanding-the-docker-ecosystem/",
+      "contributor": {
+        "name": "Chris Chinch",
+        "url": "https://twitter.com/ChrisChinch",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Why I am excited to join the Cloud Native Computing Foundation Technical Oversight Board",
+      "url": "https://blog.docker.com/2016/03/cncf-technical-oversight-board",
+      "contributor": {
+        "name": "Solomon Hykes",
+        "url": "https://twitter.com/solomonstre",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Close Encounters of the Third Kind, or Microsoft Windows meets Docker ARM Containers for IoT",
+      "url": "http://blog.hypriot.com/post/close-encounters-of-the-third-kind/",
+      "contributor": {
+        "name": "Dieter Reuter",
+        "url": "https://twitter.com/Quintus23M",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Networking basics with Docker",
+      "url": "https://scene-si.org/2016/03/12/networking-basics-with-docker/",
+      "contributor": {
+        "name": "Tit Petric",
+        "url": "https://twitter.com/TitPetric",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Swarm: Flat File Engine Discovery",
+      "url": "https://medium.com/on-docker/docker-swarm-flat-file-engine-discovery-2b23516c71d4#.n6725kgcg",
+      "contributor": {
+        "name": "Jeff Nickoloff",
+        "url": "https://twitter.com/allingeek",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Introduction to Docker Compose Tool for Multi-Container Applications",
+      "url": "https://www.linux.com/learn/tutorials/893685-introduction-to-docker-compose-tool-for-multi-container-applications",
+      "contributor": {
+        "name": "Sebastien Goasguen",
+        "url": "https://twitter.com/sebgoa",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "GitLab Runner 1.1 with Autoscaling",
+      "url": "https://about.gitlab.com/2016/03/29/gitlab-runner-1-1-released/",
+      "contributor": {
+        "name": "Kamil Trzci\u0144ski",
+        "url": "https://twitter.com/ayufanpl",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Scalable Spark/HDFS Setup using Docker",
+      "url": "https://medium.com/@ivanermilov/scalable-spark-hdfs-setup-using-docker-2fd0ffa1d6bf#.omqb4l4w3",
+      "contributor": {
+        "name": "Ivan Ermilov",
+        "url": "https://medium.com/@ivanermilov",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Tutorial: PipelineDB Persistence with Flocker and Docker Swarm",
+      "url": "https://clusterhq.com/2016/03/24/pipelinedb-persistance/",
+      "contributor": {
+        "name": "Stephen Nguyen",
+        "url": "https://twitter.com/Stephenitis",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker For Windows Beta Released",
+      "url": "https://blogs.msdn.microsoft.com/stevelasker/2016/03/24/docker-for-windows-beta-released/",
+      "contributor": {
+        "name": "Steve Lasker",
+        "url": "https://twitter.com/SteveLasker",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Birthday #3 Partners Share Why Diversity in Tech is Important",
+      "url": "https://blog.docker.com/2016/03/diversity-in-tech-dockerbday/",
+      "contributor": {
+        "name": "Adam Herzog",
+        "url": "https://twitter.com/ah3rz",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Las Vegas Celebrates Docker's Third Birthday",
+      "url": "http://www.infosiftr.com/2016/03/22/docker-las-vegas-celebrates-dockers-third-birthday/",
+      "contributor": {
+        "name": "Steven Andrew",
+        "url": "https://twitter.com/infosiftr",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Using Docker Machine with AWS",
+      "url": "http://blog.scottlowe.org/2016/03/22/using-docker-machine-with-aws/",
+      "contributor": {
+        "name": "Scott Lowe",
+        "url": "https://twitter.com/scott_lowe",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Easily sync and stream your entire music collection using docker",
+      "url": "http://arielelkin.github.io/articles/easily-sync-and-stream-your-entire-music-collection-using-docker",
+      "contributor": {
+        "name": "Ariel Elkin",
+        "url": "https://twitter.com/AriVocals",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "How Docker Makes Testing More Efficient",
+      "url": "http://blog.codeship.com/testing-with-docker/",
+      "contributor": {
+        "name": "Manuel Wise",
+        "url": "https://twitter.com/manualwise",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Docker Quicktip #7: docker ps --format",
+      "url": "http://www.container42.com/2016/03/27/docker-quicktip-7-psformat/",
+      "contributor": {
+        "name": "Brian Goff",
+        "url": "https://twitter.com/cpuguy83",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "First Touch Down with Docker for Mac",
+      "url": "http://blog.hypriot.com/post/first-touch-down-with-docker-for-mac/",
+      "contributor": {
+        "name": "Dieter Reuter",
+        "url": "https://twitter.com/Quintus23M",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Brand new Docker Machine for Azure",
+      "url": "https://azure.microsoft.com/en-us/blog/docker-machine-azure-driver/",
+      "contributor": {
+        "name": "Ahmet Alp Balkan",
+        "url": "https://twitter.com/AhmetAlpBalkan",
+        "is_captain": false
+      }
+    },
+    {
+      "title": "Say Hello to Docker for Mac",
+      "url": "https://medium.com/@tiffanyfayj/say-hello-to-docker-for-mac-dec4a45b03d3#.sjqrku7f7",
+      "contributor": {
+        "name": "Tiffany Jernigan",
+        "url": "https://twitter.com/tiffanyfayj",
+        "is_captain": false
+      }
+    }
+  ]
+}
