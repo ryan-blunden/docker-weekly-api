@@ -12,7 +12,8 @@
         "name": "Ian Miell",
         "url": "https://twitter.com/ianmiell",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Clustering with Docker Swarm",
@@ -21,7 +22,8 @@
         "name": "Giovanni Toraldo",
         "url": "https://twitter.com/gionn",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Simple Clustering with Docker Swarm and Nginx",
@@ -30,7 +32,8 @@
         "name": "Anders Janmyr",
         "url": "https://twitter.com/andersjanmyr",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "100% Unattended install of Docker\u2019s UCP",
@@ -39,7 +42,8 @@
         "name": "Matthieu Fronton",
         "url": "https://twitter.com/frntn",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Swarm 1.0 with Multi-host Networking: Manual Setup",
@@ -48,7 +52,8 @@
         "name": "Mike Goelzer",
         "url": "https://twitter.com/mikegoelzer",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Use Docker Swarm with a data persistence layer",
@@ -57,7 +62,8 @@
         "name": "Jonas Rosland",
         "url": "https://twitter.com/jonasrosland",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "One year+ feedback of using Docker and Swarm in DEV and QA environments",
@@ -66,7 +72,8 @@
         "name": "Matthieu Fronton",
         "url": "https://twitter.com/frntn",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Deploying Containers with Docker Swarm and Docker Networking",
@@ -75,7 +82,8 @@
         "name": "Viktor Farcic",
         "url": "https://twitter.com/vfarcic",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Machine, Swarm and Compose for multi-container and multi-host applications with Couchbase and WildFly",
@@ -84,7 +92,8 @@
         "name": "Arun Gupta",
         "url": "https://twitter.com/arungupta",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Effortless Docker Swarm Clusters on Azure",
@@ -93,7 +102,8 @@
         "name": "Ahmet Alp Balkan",
         "url": "https://twitter.com/ahmetalpbalkan",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Swarm With AWS VPC",
@@ -102,7 +112,8 @@
         "name": "Dan Yoder",
         "url": "https://twitter.com/dyoder",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Using Docker Swarm in Production",
@@ -111,7 +122,8 @@
         "name": "Phillip Tribble",
         "url": "https://twitter.com/rusher81572",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Run a local Windows Docker Swarm",
@@ -120,7 +132,8 @@
         "name": "Stefan Scherer",
         "url": "https://twitter.com/stefscherer",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "SA Homes Loans Trusts Docker Datacenter with Embedded Swarm To Enable Microservices and Portability",
@@ -129,7 +142,8 @@
         "name": "Mark Dand",
         "url": "https://twitter.com/markdand",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker as a Service: Swarm clustering and Cross-container Networking",
@@ -138,7 +152,8 @@
         "name": "Venkata Nagesh Devarapalli",
         "url": "https://www.linkedin.com/in/dvnagesh",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Introduction to container orchestration with Docker Swarm",
@@ -147,7 +162,8 @@
         "name": "Betty Junod",
         "url": "https://twitter.com/BettyJunod",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Swarm and Kubernetes",
@@ -156,7 +172,8 @@
         "name": "David Gageot",
         "url": "https://twitter.com/dgageot",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Setting up a Flocker-powered Swarm Cluster in less than 30 minutes on AWS",
@@ -165,7 +182,8 @@
         "name": "Stephen Nguyen",
         "url": "https://twitter.com/Stephenitis",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Build Docker Swarm binary for Windows the \"Docker way\"",
@@ -174,7 +192,8 @@
         "name": "Stefan Scherer",
         "url": "https://twitter.com/stefscherer",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Evaluating Container Platforms at Scale",
@@ -183,7 +202,8 @@
         "name": "Jeff Nickoloff",
         "url": "https://twitter.com/allingeek",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Swarm scales docker for free",
@@ -192,7 +212,8 @@
         "name": "Gianluca Arbezzano",
         "url": "https://twitter.com/GianArb",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Swarm: Collecting Metrics, Events & Logs",
@@ -201,7 +222,8 @@
         "name": "Stefan Thies",
         "url": "https://twitter.com/seti321",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How to deploy swarm on a cluster with multi-hosts network",
@@ -210,7 +232,8 @@
         "name": "Ma\u00ebl Auzias",
         "url": "https://twitter.com/_auzias",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Swarm",
@@ -219,7 +242,8 @@
         "name": "Olivier Robert",
         "url": "https://twitter.com/XwaldRob",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "HealthDirect Uses Docker Swarm for Blue Green Deployments",
@@ -228,7 +252,8 @@
         "name": "Scott Coulton",
         "url": "https://twitter.com/scottcoulton",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Running a Distributed Docker Swarm on AWS",
@@ -237,7 +262,8 @@
         "name": "Jay Johnson",
         "url": "https://twitter.com/jayphjohnson",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Getting Started with Docker Swarm",
@@ -246,7 +272,8 @@
         "name": "Ajeet Singha Raina",
         "url": "https://twitter.com/ajeetsraina",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Using Swarm with Calico on Docker Machine",
@@ -255,7 +282,8 @@
         "name": "Brendan Fosberry",
         "url": "https://twitter.com/brendanfosberry",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Clustering Tools Compared: Kubernetes vs Docker Swarm",
@@ -264,7 +292,8 @@
         "name": "Viktor Farcic",
         "url": "https://twitter.com/vfarcic",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Using binpack with Docker Swarm",
@@ -273,7 +302,8 @@
         "name": "Adrian Mouat",
         "url": "https://twitter.com/adrianmouat",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "wagl: Service Discovery for Docker Swarm",
@@ -282,7 +312,8 @@
         "name": "Ahmet Alp Balkan",
         "url": "https://twitter.com/ahmetalpbalkan",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Rescheduling containers on node failures with Docker Swarm 1.1",
@@ -291,7 +322,8 @@
         "name": "Max Sch\u00f6fmann",
         "url": "https://twitter.com/schoefmann",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Load Balancing with Docker Swarm",
@@ -300,7 +332,8 @@
         "name": "Hanzel Jesheen",
         "url": "https://twitter.com/hanzeljesheen",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Swarm Cluster using Consul",
@@ -309,7 +342,8 @@
         "name": "Arun Gupta",
         "url": "https://twitter.com/arungupta",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "An Example of Docker Multi-Host Networking With Hadoop",
@@ -318,7 +352,8 @@
         "name": "Joshua Davis",
         "url": "https://twitter.com/joshuad2",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "ScoutaPark Runs Production on Docker Swarm with Carina",
@@ -327,7 +362,8 @@
         "name": "Dan Sheppard",
         "url": "https://twitter.com/Danerisms",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "The state of the swarm",
@@ -336,7 +372,8 @@
         "name": "Mathieu Buffenoir",
         "url": "https://twitter.com/MBuffenoir",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Video Tutorials to Join Your First Docker Swarm Cluster",
@@ -345,7 +382,8 @@
         "name": "Betty Junod",
         "url": "https://twitter.com/BettyJunod",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Toward a Production-Ready Docker Swarm Cluster with Consul",
@@ -354,7 +392,8 @@
         "name": "Jacob Blain Christen",
         "url": "https://twitter.com/dweomer",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Blue-Green Deployment To Docker Swarm with Jenkins Workflow Plugin",
@@ -363,7 +402,8 @@
         "name": "Viktor Farcic",
         "url": "https://twitter.com/vfarcic",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

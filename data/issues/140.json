@@ -12,7 +12,8 @@
         "name": "Mario David",
         "url": "https://twitter.com/mariomddavid",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Writing tests for Docker images",
@@ -21,7 +22,8 @@
         "name": "Sergej Jevsejev",
         "url": "https://github.com/sjevs",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How to Automate Web Application Testing With Docker and Travis",
@@ -30,7 +32,8 @@
         "name": "Mathieu Buffenoir",
         "url": "https://twitter.com/mbuffenoir",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "The Absurdly Compelling Business Case For The Docker Datacenter",
@@ -39,7 +42,8 @@
         "name": "Benjamin Wootton",
         "url": "https://twitter.com/benjaminwootton",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "A Beginner's Guide to DockerCon",
@@ -48,7 +52,8 @@
         "name": "Laura Frank",
         "url": "https://twitter.com/rhein_wein",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "First Look at Docker SwarmKit",
@@ -57,7 +62,8 @@
         "name": "Marc Campbell",
         "url": "https://twitter.com/mccode",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker was well received at Germany's biggest Raspberry Pi Jam",
@@ -66,7 +72,8 @@
         "name": "Govinda Fichtner",
         "url": "https://twitter.com/_beagile_",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Cloud: The Story of the Whales on the Wing!",
@@ -75,7 +82,8 @@
         "name": "Can Y\u00fccel",
         "url": "https://twitter.com/canthefason",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Build, Ship, Run #Containers on Windows Server 2016 TP5 with #Docker",
@@ -84,7 +92,8 @@
         "name": "Nicholas Dille",
         "url": "https://twitter.com/nicholasdille",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Massively Scalable with Docker SwarmKit",
@@ -93,7 +102,8 @@
         "name": "Chanwit Kaewkasi",
         "url": "https://twitter.com/chanwit",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Deploy Docker Swarm cluster on one host",
@@ -102,7 +112,8 @@
         "name": "Nan Xiao",
         "url": "https://twitter.com/NanXiao2",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "What to Inspect When You are Inspecting!",
@@ -111,7 +122,8 @@
         "name": "Jerry Gamblin",
         "url": "https://twitter.com/JGamblin",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Integrating Docker Hub In Your Application Build Process",
@@ -120,7 +132,8 @@
         "name": "Mathieu Buffenoir",
         "url": "https://twitter.com/mbuffenoir",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Meet me at DockerCon",
@@ -129,7 +142,8 @@
         "name": "Alex Ellis",
         "url": "https://twitter.com/alexellisuk",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Datadog",
@@ -138,7 +152,8 @@
         "name": "IBM",
         "url": "https://twitter.com/IBM",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Using Shipyard To Manage Docker Containers",
@@ -147,7 +162,8 @@
         "name": "Jerry Gamblin",
         "url": "https://twitter.com/JGamblin",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Running .NET Core (RC2) in Docker on Ubuntu",
@@ -156,7 +172,8 @@
         "name": "Ivan Sieder",
         "url": "https://twitter.com/ivansieder/",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Developing and Deploying with Docker Cloud",
@@ -165,7 +182,8 @@
         "name": "Jesse Vander Does",
         "url": "https://twitter.com/freakTheMight",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Unsung Heroes: Bringing Docker to IBM\u2019s \u201cBig Iron\u201d",
@@ -174,7 +192,8 @@
         "name": "Phil Estes",
         "url": "https://twitter.com/estesp",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Explaining Docker Image IDs",
@@ -183,7 +202,8 @@
         "name": "Nigel Brown",
         "url": "https://twitter.com/n_brownuk",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Microservices Bliss with Docker and Traefik",
@@ -192,7 +212,8 @@
         "name": "Govinda Fichtner",
         "url": "https://twitter.com/_beagile_",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "7 DockerCon Speakers Pick the Top Sessions You Shouldn't Miss",
@@ -201,7 +222,8 @@
         "name": "Daniel Berman",
         "url": "https://twitter.com/proudboffin",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Setup Automatic Deployment, Updates and Backups of Multiple Web Applications with Docker on Scaleway",
@@ -210,7 +232,8 @@
         "name": "Boris Serebrov",
         "url": "https://github.com/serebrov",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Using Docker tools for Visual Studio with a Hyper-V based Docker host",
@@ -219,7 +242,8 @@
         "name": "Kees Verhaar",
         "url": "https://twitter.com/kverhaar",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Why container technology is the secret ingredient for business success",
@@ -228,7 +252,8 @@
         "name": "Luke Bond",
         "url": "https://twitter.com/lukeb0nd",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Hub, save and share your docker images",
@@ -237,7 +262,8 @@
         "name": "Rafael Salerno",
         "url": "https://twitter.com/salerno_rafael",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Polyglot serverless computing using Docker and OpenWhisk",
@@ -246,7 +272,8 @@
         "name": "Carl Osipov",
         "url": "https://twitter.com/Osipov",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Debugging node.js in Docker using Node Inspector",
@@ -255,7 +282,8 @@
         "name": "Rhys Arkins",
         "url": "https://twitter.com/rarkins",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

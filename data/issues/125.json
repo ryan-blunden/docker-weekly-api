@@ -12,7 +12,8 @@
         "name": "Steve Grosbois",
         "url": "https://twitter.com/kwiky",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Dockerize your Development Workstation",
@@ -21,7 +22,8 @@
         "name": "Armin Coralic",
         "url": "https://twitter.com/acoralic",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Compose and Networking: Easy, secure apps at scale",
@@ -30,7 +32,8 @@
         "name": "Mano Marks",
         "url": "https://twitter.com/ManoMarks",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "TensorFlow for Poets",
@@ -39,7 +42,8 @@
         "name": "Pete Warden",
         "url": "https://twitter.com/petewarden",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Getting Docker running on a high-density ARMv8 development board from HiSilicon",
@@ -48,7 +52,8 @@
         "name": "Dieter Reuter",
         "url": "https://twitter.com/Quintus23M",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker and Jenkins",
@@ -57,7 +62,8 @@
         "name": "Alex Soto",
         "url": "https://twitter.com/alexsotob",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Not your grandmother\u2019s Docker environment",
@@ -66,7 +72,8 @@
         "name": "Matthieu Fronton",
         "url": "https://twitter.com/frntn",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Creating a Docker Build Manifest",
@@ -75,7 +82,8 @@
         "name": "Michael S. Hansen",
         "url": "https://twitter.com/ReconstructThis",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "0 to Microservice in 5 minutes with Go, go-microservice-template and Minke",
@@ -84,7 +92,8 @@
         "name": "Nic Jackson",
         "url": "https://twitter.com/sheriffjackson",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker monitoring with Docker Datacenter & Sysdig",
@@ -93,7 +102,8 @@
         "name": "Apurva Dav\u00e9",
         "url": "https://twitter.com/ApurvaBDave",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "When Whales Fly \u2013 Building a Wireless Pentest Environment using Docker",
@@ -102,7 +112,8 @@
         "name": "Brandon Edmunds",
         "url": "https://twitter.com/awhitehatter",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "CI as Code Part III: Dynamic Jenkins-Swarm Example",
@@ -111,7 +122,8 @@
         "name": "Ian Miell",
         "url": "https://twitter.com/ianmiell",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Incident Handling with Docker Containers",
@@ -120,7 +132,8 @@
         "name": "Xavier Mertens",
         "url": "https://twitter.com/xme",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How to Create a Docker Business Case",
@@ -129,7 +142,8 @@
         "name": "Brian Christner",
         "url": "https://twitter.com/idomyowntricks",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "None",
@@ -138,7 +152,8 @@
         "name": "None",
         "url": "https://cloud.docker.com/",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How to pass proper DNS to your Docker containers",
@@ -147,7 +162,8 @@
         "name": "Nilesh Nimkar",
         "url": "https://twitter.com/nimkar",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Multi-Host Networking: Overlays to the Rescue",
@@ -156,7 +172,8 @@
         "name": "Don Mills",
         "url": "https://twitter.com/SingleStoneCX",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "One year+ feedback of using Docker and Swarm in DEV and QA environments",
@@ -165,7 +182,8 @@
         "name": "Matthieu Fronton",
         "url": "https://twitter.com/frntn",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Deployment Diagram - Django with Docker",
@@ -174,7 +192,8 @@
         "name": "Manuel Morej\u00f3n",
         "url": "https://twitter.com/morejon85",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Orchestrate FMW Environments with Docker Compose",
@@ -183,7 +202,8 @@
         "name": "Justin Paul",
         "url": "https://twitter.com/OracleMiddle",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Creating a good, secure Docker base image",
@@ -192,7 +212,8 @@
         "name": "Moritz Heiber",
         "url": "https://twitter.com/moritzheiber",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Using the Private NPM Registry with Docker",
@@ -201,7 +222,8 @@
         "name": "Gergely Nemeth",
         "url": "https://twitter.com/nthgergo",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker on Windows",
@@ -210,7 +232,8 @@
         "name": "Stefan Scherer",
         "url": "https://twitter.com/stefscherer",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Run a local Windows Docker Swarm",
@@ -219,7 +242,8 @@
         "name": "Stefan Scherer",
         "url": "https://twitter.com/stefscherer",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "What Docker Datacenter means to DevOps and the Industry",
@@ -228,7 +252,8 @@
         "name": "Sven Dummer",
         "url": "https://twitter.com/svendum",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How Docker is changing the world for development and operations",
@@ -237,7 +262,8 @@
         "name": "Iain Gray",
         "url": "https://twitter.com/iaincgray",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker UCP and Cloud-init with Nutanix",
@@ -246,7 +272,8 @@
         "name": "Dwayne Lessner",
         "url": "https://twitter.com/dlink7",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Image Reduction Techniques and Tools",
@@ -255,7 +282,8 @@
         "name": "Chris Stump",
         "url": "https://twitter.com/ccstump",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Import a Docker Container in Python",
@@ -264,7 +292,8 @@
         "name": "Noah Shutty",
         "url": "https://twitter.com/noajshu",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Working with Docker",
@@ -273,7 +302,8 @@
         "name": "Mark J. Miller",
         "url": "https://twitter.com/dvMENTALmadness",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Getting Started with Tutum (aka, Docker Cloud)",
@@ -282,7 +312,8 @@
         "name": "Jason Kriss",
         "url": "https://twitter.com/jasonkriss",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How to deploy Elasticsearch with Docker in 10 steps",
@@ -291,7 +322,8 @@
         "name": "Sacheendra Talluri",
         "url": "https://medium.appbase.io/",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

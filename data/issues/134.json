@@ -12,7 +12,8 @@
         "name": "Nick Janetakis",
         "url": "https://twitter.com/nickjanetakis",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Using Docker as a Personal Productivity Tool \u2013 Running Command Line Apps Bundled in Docker Containers",
@@ -21,7 +22,8 @@
         "name": "Tony Hirst",
         "url": "https://twitter.com/psychemedia",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Windows Server 2016 using VirtualBox for Docker Containers",
@@ -30,7 +32,8 @@
         "name": "Arun Gupta",
         "url": "https://twitter.com/arungupta",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Using Caddy with Docker",
@@ -39,7 +42,8 @@
         "name": "Sean Kilgarriff",
         "url": "https://twitter.com/SeanKilgarriff",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Cloning Docker data volumes",
@@ -48,7 +52,8 @@
         "name": "Guido Diepen",
         "url": "https://twitter.com/gdiepen",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Operations Getting Down With DJ RunC & ContainerD",
@@ -57,7 +62,8 @@
         "name": "Dwayne Lessner",
         "url": "https://twitter.com/dlink7",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Getting started with Docker and Wordpress",
@@ -66,7 +72,8 @@
         "name": "James Wade",
         "url": "https://twitter.com/jpswade",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker for Windows Beta review",
@@ -75,7 +82,8 @@
         "name": "Laurent Kemp\u00e9",
         "url": "https://twitter.com/laurentkempe",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Dockerize ASP.NET Core",
@@ -84,7 +92,8 @@
         "name": "Janshair Khan",
         "url": "https://twitter.com/kjanshair",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Setup Docker on Windows Server 2016",
@@ -93,7 +102,8 @@
         "name": "Arun Gupta",
         "url": "https://twitter.com/arungupta",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Setup a local Windows 2016 TP5 Docker VM",
@@ -102,7 +112,8 @@
         "name": "Stefan Scherer",
         "url": "https://twitter.com/stefscherer",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Swarm",
@@ -111,7 +122,8 @@
         "name": "Petr Michalec",
         "url": "https://twitter.com/epcim/",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Effective Elasticsearch Plugin Management with Docker",
@@ -120,7 +132,8 @@
         "name": "Tyler Langlois",
         "url": "https://twitter.com/leothrix",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "VorlonJS \u2013 A Journey to DevOps: publish image in the Docker Hub using Visual Studio Team Services",
@@ -129,7 +142,8 @@
         "name": "Julien Corioland",
         "url": "https://twitter.com/jcorioland",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Comparison of Docker Cleanup Scripts",
@@ -138,7 +152,8 @@
         "name": "Brian Christner",
         "url": "https://twitter.com/idomyowntricks",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Extend Docker Via Plugin",
@@ -147,7 +162,8 @@
         "name": "Lorenzo Fontana",
         "url": "https://twitter.com/fntlnz",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Ghost blog on Docker in 5 mins",
@@ -156,7 +172,8 @@
         "name": "Alex Ellis",
         "url": "https://twitter.com/alexellisuk",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Windows Docker Containers",
@@ -165,7 +182,8 @@
         "name": "Gabriel Schenker",
         "url": "https://twitter.com/gnschenker",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Getting started with containers and Docker on Windows Server 2016 Technical Preview 5",
@@ -174,7 +192,8 @@
         "name": "Julien Corioland",
         "url": "https://twitter.com/jcorioland",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Deploying your Django API in one Docker Container in AWS",
@@ -183,7 +202,8 @@
         "name": "Edilio Gallardo",
         "url": "https://twitter.com/ediliogallardo",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Service Discovery with Docker and Consul: part 2",
@@ -192,7 +212,8 @@
         "name": "Jos Dirksen",
         "url": "https://twitter.com/josdirksen",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Jenkins 2.0 : First Impressions",
@@ -201,7 +222,8 @@
         "name": "Alex Ellis",
         "url": "https://twitter.com/alexellisuk",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Using docker for django development",
@@ -210,7 +232,8 @@
         "name": "Davide Bove",
         "url": "https://twitter.com/TheDbof",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

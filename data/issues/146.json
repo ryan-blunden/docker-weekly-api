@@ -12,7 +12,8 @@
         "name": "Arun Gupta",
         "url": "https://twitter.com/arungupta",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Common Dockerfile Mistakes",
@@ -21,7 +22,8 @@
         "name": "Derek Chamorro",
         "url": "https://developer.atlassian.com/blog/authors/dchamorro/",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Load Balancing Containers In Docker Swarm Mode With Nginx",
@@ -30,7 +32,8 @@
         "name": "Rick Nelson",
         "url": "https://www.linkedin.com/in/rick-nelson-900567",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Function as a service for Docker",
@@ -39,7 +42,8 @@
         "name": "Chanwit Kaewkasi",
         "url": "https://twitter.com/chanwit",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Life and death of a container",
@@ -48,7 +52,8 @@
         "name": "Luis Herrera Ben\u00edtez",
         "url": "https://twitter.com/lherrerabenitez",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Service Discovery under Docker Engine 1.12",
@@ -57,7 +62,8 @@
         "name": "Ajeet Singh Raina",
         "url": "https://twitter.com/ajeetsraina",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Consistent Selenium testing with Docker",
@@ -66,7 +72,8 @@
         "name": "Garren Smith",
         "url": "https://twitter.com/GarrenSmith",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Jenkins meets the corporate proxy",
@@ -75,7 +82,8 @@
         "name": "Alex Ellis",
         "url": "https://twitter.com/alexellisuk",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Tunes Up Engine Orchestration",
@@ -84,7 +92,8 @@
         "name": "Richard Adhikari",
         "url": "https://plus.google.com/+RichardAdhikari/posts",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Using Docker to Proxy WebSockets on AWS ELBs",
@@ -93,7 +102,8 @@
         "name": "Michael Irwin",
         "url": "https://twitter.com/mikesir87",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "None",
@@ -102,7 +112,8 @@
         "name": "Eddy Mavungu",
         "url": "https://twitter.com/@mazembo",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Comparing microservices and monolithic applications from the perspective of monitoring",
@@ -111,7 +122,8 @@
         "name": "Peter Arijs",
         "url": "https://twitter.com/p_arijs",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Indiana University Uses Docker Datacenter for Production-Ready Orchestration",
@@ -120,7 +132,8 @@
         "name": "Christopher Hines",
         "url": "https://twitter.com/cchines",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

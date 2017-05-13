@@ -12,7 +12,8 @@
         "name": "John Zaccone",
         "url": "http://email.docker.com/Y0T6B0II400tk003KJF0kLj",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "We hosted Docker Global Mentor Week in London and New York! Here's what happened...",
@@ -21,7 +22,8 @@
         "name": "Benjamin Wootton",
         "url": "http://email.docker.com/GjJ0LB30kG6iF0TK00004It",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Get started with Docker on 64-bit ARM",
@@ -30,7 +32,8 @@
         "name": "Alex Ellis",
         "url": "http://email.docker.com/XTK04LJ0I000LB6kt03jFn0",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

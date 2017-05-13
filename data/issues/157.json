@@ -12,7 +12,8 @@
         "name": "Neependra Khare",
         "url": "https://twitter.com/neependra",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Read more.",
@@ -21,7 +22,8 @@
         "name": "None",
         "url": "https://blog.docker.com/2016/10/docker-announces-expansion-china-commercial-partnership-alibaba-cloud/",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Drupal dev environment on Docker",
@@ -30,7 +32,8 @@
         "name": "Janez Urevc",
         "url": "https://twitter.com/slashrsm",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

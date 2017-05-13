@@ -12,7 +12,8 @@
         "name": "Elder Moraes",
         "url": "https://twitter.com/elderjava",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Running ASP.NET Core 1.0-RC2 in Docker",
@@ -21,7 +22,8 @@
         "name": "Sergio Sisternes",
         "url": "https://twitter.com/sesispla",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Transfer docker data volume to another host",
@@ -30,7 +32,8 @@
         "name": "Guido Diepen",
         "url": "https://twitter.com/gdiepen",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "LEMP Stack in 90 seconds with Docker",
@@ -39,7 +42,8 @@
         "name": "Dominique Haas",
         "url": "https://twitter.com/Evild67",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Running .NET Core on Docker",
@@ -48,7 +52,8 @@
         "name": "Jurgis Pasukonis",
         "url": "https://www.linkedin.com/in/jurgispasukonis",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Implementing Multi-Host Docker Networking with Docker Datacenter",
@@ -57,7 +62,8 @@
         "name": "Ajeet Singh Raina",
         "url": "https://twitter.com/ajeetsraina",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Taming the Golang Stack Trace",
@@ -66,7 +72,8 @@
         "name": "Phil Estes",
         "url": "https://twitter.com/estesp",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Security Testing",
@@ -75,7 +82,8 @@
         "name": "Alexei Ledenev",
         "url": "https://twitter.com/alexeiled",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How to build a Node.js Nano Server Docker base image",
@@ -84,7 +92,8 @@
         "name": "Stefan Scherer",
         "url": "https://twitter.com/stefscherer",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Stowing away: Magic and Pirates",
@@ -93,7 +102,8 @@
         "name": "Alex Ellis",
         "url": "https://twitter.com/alexellisuk",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Dr. Jekyll and Mr. Docker",
@@ -102,7 +112,8 @@
         "name": "Diego Lavalle",
         "url": "https://twitter.com/coderlavalle",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Poor man\u2019s load balancing with Docker",
@@ -111,7 +122,8 @@
         "name": "Luis Herrera Ben\u00edtez",
         "url": "https://twitter.com/lherrerabenitez",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Sentient Clusters: Micro-services, Atlassian products, and the Docker Swarm",
@@ -120,7 +132,8 @@
         "name": "Nicola Paolucci",
         "url": "https://twitter.com/durdn",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker macvlan and ipvlan network plugins",
@@ -129,7 +142,8 @@
         "name": "Sreenivas Makam",
         "url": "https://twitter.com/srmakam",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Couchbase XDCR using Docker Swarm, Machine and Compose",
@@ -138,7 +152,8 @@
         "name": "Arun Gupta",
         "url": "https://twitter.com/arungupta",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Working with Docker Volumes",
@@ -147,7 +162,8 @@
         "name": "Hitesh Jethva",
         "url": "https://twitter.com/hostpresto",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "An Introduction to the Docker Trusted Registry",
@@ -156,7 +172,8 @@
         "name": "Chris Ward",
         "url": "https://twitter.com/chrischinch",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Deploying Drupal Sites with Docker Compose",
@@ -165,7 +182,8 @@
         "name": "Radium Zheng",
         "url": "https://twitter.com/ztl8702",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Riak TS Cluster with Docker",
@@ -174,7 +192,8 @@
         "name": "Garland Kan",
         "url": "https://twitter.com/gargar454",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

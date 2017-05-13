@@ -12,7 +12,8 @@
         "name": "Patricio Lopez",
         "url": "https://twitter.com/MrPatiwi",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Migrating Existing Services to Docker",
@@ -21,7 +22,8 @@
         "name": "Austin Peterson",
         "url": "https://twitter.com/akpwebdesign",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How to create a Docker Datacenter on Microsoft Azure",
@@ -30,7 +32,8 @@
         "name": "Fabien Dibot",
         "url": "https://twitter.com/fdibot",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Improved Options for Service Load Balancing in Docker 1.12.0",
@@ -39,7 +42,8 @@
         "name": "Hrishikesh Barua",
         "url": "https://twitter.com/talonx",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Setting up your Development Environment with Docker Compose",
@@ -48,7 +52,8 @@
         "name": "Ara Hayrabedian",
         "url": "https://twitter.com/ahayrabedian",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Hosting side-projects with Docker",
@@ -57,7 +62,8 @@
         "name": "Niels Ole Kuh",
         "url": "https://twitter.com/nielsole",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How to Implement Docker Swarm with PostgreSQL and Web-Services on Nutanix ACS Shared Volumes",
@@ -66,7 +72,8 @@
         "name": "Andre Leibovici",
         "url": "https://twitter.com/andreleibovici",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "5 Tips For Building Docker Image",
@@ -75,7 +82,8 @@
         "name": "Denny Zhang",
         "url": "https://twitter.com/dennyzhang001",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Building a Microservices Control Plane using NATS and Docker Engine v1.12",
@@ -84,7 +92,8 @@
         "name": "Wally Quevedo",
         "url": "https://twitter.com/wallyqs",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Scale ASP.NET Core apps with Docker Swarm Mode",
@@ -93,7 +102,8 @@
         "name": "Stefan Prodan",
         "url": "https://twitter.com/stefanprodan",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Kata 001 - into the swarm",
@@ -102,7 +112,8 @@
         "name": "Jesse White",
         "url": "https://twitter.com/Jesse_White",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "CIAOPS: Need to Know podcast\u2013Episode 111",
@@ -111,7 +122,8 @@
         "name": "Robert Crane",
         "url": "https://twitter.com/directorcia",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Run Multiple Docker Environments (qa, stage, prod) from the Same docker-compose File.",
@@ -120,7 +132,8 @@
         "name": "Jason Jarre",
         "url": "https://twitter.com/staxmanade",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

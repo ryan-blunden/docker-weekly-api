@@ -12,7 +12,8 @@
         "name": "Chris Hines",
         "url": "https://twitter.com/cchines",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Dockerise your PHP application with Nginx and PHP7-FPM",
@@ -21,7 +22,8 @@
         "name": "Mike Chernev",
         "url": "https://twitter.com/MikeChernev",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Deploying Docker Swarm with Puppet",
@@ -30,7 +32,8 @@
         "name": "Scott Coulton",
         "url": "https://twitter.com/scottcoulton",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Federated Clusters with Docker Swarm",
@@ -39,7 +42,8 @@
         "name": "Jeff Nickoloff",
         "url": "https://twitter.com/allingeek",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Build a Pi cluster with Docker Swarm",
@@ -48,7 +52,8 @@
         "name": "Alex Ellis",
         "url": "https://twitter.com/alexellisuk",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Adding Git and Docker Machine Awareness to OS X",
@@ -57,7 +62,8 @@
         "name": "Scott Lowe",
         "url": "https://twitter.com/scott_lowe",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Creating my blog with Docker, Hugo, and Caddy",
@@ -66,7 +72,8 @@
         "name": "Stephen Price",
         "url": "https://twitter.com/steeef",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Swarm and etcd with IPv6",
@@ -75,7 +82,8 @@
         "name": "Shannon McFarland",
         "url": "https://twitter.com/eyepv6",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "//build 2016 Container Announcements: Hyper-V Containers and Windows 10 and PowerShell For Docker!",
@@ -84,7 +92,8 @@
         "name": "Taylor Brown",
         "url": "https://twitter.com/Taylorb_msft",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Hello Docker Cloud World",
@@ -93,7 +102,8 @@
         "name": "Stefan Kapferer",
         "url": "https://twitter.com/stefankapferer",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Installing the Docker Client CLI on 32-bit Windows",
@@ -102,7 +112,8 @@
         "name": "Aaron Krauss",
         "url": "https://twitter.com/thecodeboss",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker and Travis-CI",
@@ -111,7 +122,8 @@
         "name": "Nir Galon",
         "url": "https://twitter.com/nirgn975",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker & Azure : Test driving the azure file storage volume driver",
@@ -120,7 +132,8 @@
         "name": "Karim Vaes",
         "url": "https://twitter.com/kvaes",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "R Docker tutorial",
@@ -129,7 +142,8 @@
         "name": "ropenscilabs",
         "url": "https://t.co/mZgjPK6l4p",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Using Multiple Docker Containers",
@@ -138,7 +152,8 @@
         "name": "Arun Gupta",
         "url": "https://twitter.com/arungupta",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Review - Docker for Mac",
@@ -147,7 +162,8 @@
         "name": "Brian Christner",
         "url": "https://twitter.com/idomyowntricks",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Running a Tor Hidden Service Using Docker",
@@ -156,7 +172,8 @@
         "name": "Jascha Wanger",
         "url": "https://twitter.com/jascha",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Using MozJPEG via Docker",
@@ -165,7 +182,8 @@
         "name": "Ariya Hidayat",
         "url": "https://twitter.com/AriyaHidayat",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Deploying REST APIs to Docker Using Ruby and Sinatra",
@@ -174,7 +192,8 @@
         "name": "James Higginbotham",
         "url": "https://twitter.com/launchany",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Multiple Deployments with Wercker",
@@ -183,7 +202,8 @@
         "name": "Arjen Schwarz",
         "url": "https://twitter.com/ArjenSchwarz",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How to live inside a docker container?",
@@ -192,7 +212,8 @@
         "name": "Tit Petric",
         "url": "https://twitter.com/TitPetric",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "9 Critical Decisions for Running Docker in Production",
@@ -201,7 +222,8 @@
         "name": "James Higginbotham",
         "url": "https://twitter.com/launchany",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Swarm on AWS using Docker Machine",
@@ -210,7 +232,8 @@
         "name": "Scott Lowe",
         "url": "https://twitter.com/scott_lowe",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Linux + .NET Core + ASP.NET Core + Docker",
@@ -219,7 +242,8 @@
         "name": "Tod Thomson",
         "url": "https://twitter.com/todthomson",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Building With Jenkins Inside an Ephemeral Docker Container",
@@ -228,7 +252,8 @@
         "name": "Maxfield Stewart",
         "url": "https://twitter.com/maxfields2000",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Semi-retirement for REST APIs with NGINX, Docker and Azure",
@@ -237,7 +262,8 @@
         "name": "Elton Stoneman",
         "url": "https://twitter.com/EltonStoneman",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How to Dockerize your Node application",
@@ -246,7 +272,8 @@
         "name": "Luca Mezzalira",
         "url": "https://twitter.com/lucamezzalira",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Cloud Monitoring & Logging",
@@ -255,7 +282,8 @@
         "name": "Stefan Thies",
         "url": "https://twitter.com/seti321",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Get started with brand new Jenkins 2.0 with Docker",
@@ -264,7 +292,8 @@
         "name": "Shashikant Jagtap",
         "url": "https://twitter.com/Shashikant86",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

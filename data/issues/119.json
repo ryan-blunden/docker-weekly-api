@@ -2,7 +2,6 @@
   "issue": 119,
   "date": "January 20th, 2016",
   "url": "https://goto.docker.com/Docker-Weekly-01202016.html",
-  "count": -1,
   "notes": "",
   "articles": [
     {
@@ -12,7 +11,8 @@
         "name": "Erick Matsen",
         "url": "https://twitter.com/ematsen",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Swarm: Collecting Metrics, Events & Logs",
@@ -21,7 +21,8 @@
         "name": "Stefan Thies",
         "url": "https://twitter.com/seti321",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Setting up docker with xhyve (OS X virtualization)",
@@ -30,7 +31,8 @@
         "name": "AJ",
         "url": "https://twitter.com/astrohckr",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Visualizing Docker Compose with Ardoq",
@@ -39,7 +41,8 @@
         "name": "Kristian Helgesen",
         "url": "https://twitter.com/ardoqCom",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "NGINX Reverse Proxy and Load Balancing for ASP.NET 5 Applications with Docker Compose",
@@ -48,7 +51,18 @@
         "name": "Tugberk Ugurlu",
         "url": "https://twitter.com/tourismgeek",
         "is_captain": false
-      }
+      },
+      "featured": true
+    },
+    {
+      "title": "Volume Plugins with Docker Toolbox and Boot2Docker ",
+      "url": "http://blog.emccode.com/2016/01/19/volume-plugins-with-docker-toolbox-and-boot2docker/?_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac",
+      "contributor": {
+        "name": "Clint Kitson",
+        "url": "https://twitter.com/clintonskitson",
+        "is_captain": false
+      },
+      "featured": false
     },
     {
       "title": "How To Install Prometheus using Docker on Ubuntu 14.04",
@@ -57,7 +71,8 @@
         "name": "Julius Volz",
         "url": "http://juliusv.com/",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Host your own 7mb DNS Server with Docker, Alpine Linux and Unbound",
@@ -66,7 +81,8 @@
         "name": "Philip Miglinci",
         "url": "https://twitter.com/pmigat",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "From Vagrant to Docker: How to use Docker for local web development",
@@ -75,7 +91,8 @@
         "name": "Yannick Chenot",
         "url": "https://twitter.com/osteel",
         "is_captain": false
-      }
+      },
+      "featured": true
     },
     {
       "title": "Create a Docker Swarm cluster using Azure Container Service",
@@ -84,7 +101,25 @@
         "name": "Julien Corioland",
         "url": "https://twitter.com/jcorioland",
         "is_captain": false
-      }
+      },
+      "featured": false
+    },
+    {
+      "title": "Containerized Neo4j: Automating Deployments with Docker on Azure",
+      "url": "http://neo4j.com/blog/neo4j-containers-docker-azure/?_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac",
+      "contributor": {
+        "0": {
+          "name": " David Makogon",
+          "url": "https://twitter.com/dmakogon",
+          "is_captain": false
+        },
+        "1": {
+          "name": "Patrick Chanezon",
+          "url": "https://twitter.com/chanezon",
+          "is_captain": false
+        }
+      },
+      "featured": false
     },
     {
       "title": "Static analysis build server for Android with Jenkins using Docker",
@@ -93,7 +128,8 @@
         "name": "Umar Nizamani",
         "url": "https://twitter.com/Rapchik",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker at the Scale of Enterprise",
@@ -102,7 +138,8 @@
         "name": "Darrell Breeden",
         "url": "https://www.linkedin.com/in/darrell-breeden-7713a617",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How to get Docker working your favorite ARM board with HypriotOS",
@@ -111,7 +148,8 @@
         "name": "Govinda Fichtner",
         "url": "https://twitter.com/_beagile_",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "First Meetup at University of Bamberg summons local Docker community",
@@ -120,7 +158,8 @@
         "name": "Mathias Renner",
         "url": "https://twitter.com/MathiasRenner",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker: portable environment",
@@ -129,7 +168,8 @@
         "name": "Tit Petric",
         "url": "https://twitter.com/TitPetric",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Using binpack with Docker Swarm",
@@ -138,7 +178,8 @@
         "name": "Adrian Mouat",
         "url": "https://twitter.com/adrianmouat",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Get started with Docker on Windows using Chocolatey",
@@ -147,7 +188,18 @@
         "name": "Stefan Scherer",
         "url": "https://twitter.com/stefscherer",
         "is_captain": false
-      }
+      },
+      "featured": true
+    },
+    {
+      "title": "Rethinking App Development and Delivery",
+      "url": "http://thenewstack.io/docker-rethinking-development-delivery-environments/",
+      "contributor": {
+        "name": "Scott Johnston",
+        "url": "https://twitter.com/scottcjohnston",
+        "is_captain": false
+      },
+      "featured": true
     },
     {
       "title": "Docker Container Management using Universal Control Plane",
@@ -156,7 +208,8 @@
         "name": "Ajeet Singh Raina",
         "url": "https://twitter.com/ajeetsraina",
         "is_captain": false
-      }
+      },
+      "featured": true
     },
     {
       "title": "Getting Started with Microservices using Ruby on Rails and Docker",
@@ -165,7 +218,8 @@
         "name": "Dirk Breuer",
         "url": "https://twitter.com/railsbros_dirk",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Office 365 addins as microservices on Docker containers",
@@ -174,7 +228,8 @@
         "name": "Karthik Ramamoorthy",
         "url": "https://twitter.com/spbreed",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Deploying and migrating an Elasticsearch-Logstash-Kibana stack using Docker Part 2",
@@ -183,7 +238,18 @@
         "name": "Ryan Wallner",
         "url": "https://twitter.com/RyanWallner",
         "is_captain": false
-      }
+      },
+      "featured": false
+    },
+    {
+      "title": "Software Engineering Daily: Simplifying Docker",
+      "url": "http://softwareengineeringdaily.com/2016/01/05/simplifying-docker-with-sean-li/?_tmc=p9YSlYM8PUi910_DgJBWHWy5TAOXitPRIcD-63k32ac",
+      "contributor": {
+        "name": "Sean Li",
+        "url": "https://twitter.com/lisean106",
+        "is_captain": false
+      },
+      "featured": false
     },
     {
       "title": "Create a Slack Docker proxy in Go - Part 1",
@@ -192,7 +258,8 @@
         "name": "Jos Dirksen",
         "url": "https://twitter.com/josdirksen",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker : Simple Image Linking with Redis",
@@ -201,7 +268,8 @@
         "name": "Chuck Sailer",
         "url": "https://twitter.com/ChuckSailer",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Building Docker Images with Distelli",
@@ -210,7 +278,8 @@
         "name": "Nimish Chandiramani",
         "url": "https://www.linkedin.com/in/nimishc",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

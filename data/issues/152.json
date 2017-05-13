@@ -12,7 +12,8 @@
         "name": "Sanjay Khirwadkar",
         "url": "https://www.linkedin.com/in/sanjay-khirwadkar-1589071a",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker cache on Travis and Docker 1.12",
@@ -21,7 +22,8 @@
         "name": "Giorgos Logiotatidis",
         "url": "https://twitter.com/glogiotatidis",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "The DevOps Toolkit Series Are Born",
@@ -30,7 +32,8 @@
         "name": "Viktor Farcic",
         "url": "https://twitter.com/vfarcic",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Wordpress in Docker on a Raspberry Pi",
@@ -39,7 +42,8 @@
         "name": "Justin Garrison",
         "url": "https://twitter.com/rothgar",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Deploying an IoT Swarm with Docker Machine",
@@ -48,7 +52,8 @@
         "name": "Dieter Reuter",
         "url": "https://twitter.com/Quintus23M",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Datacenter for AWS",
@@ -57,7 +62,8 @@
         "name": "Sreenivas Makam",
         "url": "https://twitter.com/srmakam",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Security In Production",
@@ -66,7 +72,8 @@
         "name": "Delve Labs",
         "url": "https://twitter.com/DelveLabs",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "DataStax Studio on Docker",
@@ -75,7 +82,8 @@
         "name": "Jeremie Vallee",
         "url": "https://twitter.com/jeremie.vallee",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Production Meteor and Node, Using Docker, Part VI",
@@ -84,7 +92,8 @@
         "name": "Stephen Pope",
         "url": "https://twitter.com/StephenGPope",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Kata 003: Live Debugging",
@@ -93,7 +102,8 @@
         "name": "Jesse White",
         "url": "https://twitter.com/Jesse_White",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker-machine for AWS",
@@ -102,7 +112,8 @@
         "name": "Sreenivas Makam",
         "url": "https://twitter.com/srmakam",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "ASP.NET Core continuous deployment with Docker Hub",
@@ -111,7 +122,8 @@
         "name": "Stefan Prodan",
         "url": "https://twitter.com/stefanprodan",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Exploring Docker Security \u2013 Part 1: The whale\u2019s anatomy",
@@ -120,7 +132,8 @@
         "name": "Patrick Kleindienst",
         "url": "https://twitter.com/Apophis1990",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Jenkins makes a UX splash with Blue Ocean",
@@ -129,7 +142,8 @@
         "name": "Alex Ellis",
         "url": "https://twitter.com/alexellisuk",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Overview in Peterborough",
@@ -138,7 +152,8 @@
         "name": "Alex Ellis",
         "url": "https://twitter.com/alexellisuk",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Kata 002: Stamp out clusters",
@@ -147,7 +162,8 @@
         "name": "Jesse White",
         "url": "https://twitter.com/Jesse_White",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Pimp my report with Docker",
@@ -156,7 +172,8 @@
         "name": "Gabriel Schenker",
         "url": "https://twitter.com/gnschenker",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Testing the Right Things with Docker",
@@ -165,7 +182,8 @@
         "name": "Laura Franck",
         "url": "https://twitter.com/rhein_wein",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

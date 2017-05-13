@@ -12,7 +12,8 @@
         "name": "Dominique Haas",
         "url": "https://twitter.com/evild67",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "NGINX as a Reverse Proxy for Docker Swarm Clusters",
@@ -21,7 +22,8 @@
         "name": "Lorenzo Fontana",
         "url": "https://twitter.com/fntlnz",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "What could be next for container orchestration?",
@@ -30,7 +32,8 @@
         "name": "Alexandre Beslic",
         "url": "http://www.abronan.com/what-could-be-next-for-container-orchestration/",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "More Microservices Bliss with Docker 1.12 and Swarm only",
@@ -39,7 +42,8 @@
         "name": "Govinda Fichtner",
         "url": "https://twitter.com/_beagile_",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Running stateful services in containers - ContainerDays Boston 2016",
@@ -48,7 +52,8 @@
         "name": "Jonas Rosland",
         "url": "https://twitter.com/jonasrosland",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "A Quick Demo of Apache Beam with Docker",
@@ -57,7 +62,8 @@
         "name": "Emanuele Cesena",
         "url": "https://twitter.com/emacesena",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Using Docker is not risky. But, there are things to look out for",
@@ -66,7 +72,8 @@
         "name": "Yoshioka Tsuneo",
         "url": "https://twitter.com/yoshiokatsuneo",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Hack the new features included in Docker 1.12",
@@ -75,7 +82,8 @@
         "name": "joining the Docker 1.12 Hackathon",
         "url": "http://docker112.devpost.com/",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Integration Testing With Docker Compose",
@@ -84,7 +92,8 @@
         "name": "Harrison Harnisch",
         "url": "https://twitter.com/hjharnis",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "A Quick Tour of Docker 1.12",
@@ -93,7 +102,8 @@
         "name": "Ian Miell",
         "url": "https://twitter.com/ianmiell",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Container Monitoring: Top Docker Metrics to Watch",
@@ -102,7 +112,8 @@
         "name": "Stefan Thies",
         "url": "https://twitter.com/seti321",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "5 Docker Monitoring Solutions on Show at DockerCon 2016",
@@ -111,7 +122,8 @@
         "name": "Daniel Berman",
         "url": "https://twitter.com/proudboffin",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Running Microservices in Production with Docker and Cloud 66",
@@ -120,7 +132,8 @@
         "name": "Dani\u00ebl van Gils",
         "url": "https://twitter.com/foldingbeauty",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "What you need to know about Storage in Docker 1.12",
@@ -129,7 +142,8 @@
         "name": "Chris Duchesne",
         "url": "https://twitter.com/chrisduchesne",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Running Java inside a Windows container on a Windows server",
@@ -138,7 +152,8 @@
         "name": "Alexandr Nikitin",
         "url": "https://twitter.com/nikitin_a_a",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Our road to Docker Swarm",
@@ -147,7 +162,8 @@
         "name": "H\u00e9ctor Paz",
         "url": "https://twitter.com/hdanniel",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Start with serverless computing on IBM Cloud",
@@ -156,7 +172,8 @@
         "name": "Carl Osipov",
         "url": "https://twitter.com/CloudsWithCarl",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Monitoring Docker Containers: What Does it Take to Get Started?",
@@ -165,7 +182,8 @@
         "name": "Maxime Petazzoni",
         "url": "https://twitter.com/mpetazzoni",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Developing Inside Docker Containers with OS X (2016)",
@@ -174,7 +192,8 @@
         "name": "Harrison Harnisch",
         "url": "https://twitter.com/hjharnis",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Add Free SSL to Existing WordPress Site with Docker and Let's Encrypt",
@@ -183,7 +202,8 @@
         "name": "Asep Bagja Priandana",
         "url": "https://twitter.com/bepitulaz",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "DockerCon 2016: What's New in Docker",
@@ -192,7 +212,8 @@
         "name": "Manuel Weiss",
         "url": "https://twitter.com/manualwise",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "SwarmKit Architecture",
@@ -201,7 +222,8 @@
         "name": "Rajdeep Dua",
         "url": "https://twitter.com/rajdeepdua",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Running Services in Docker 1.12",
@@ -210,7 +232,8 @@
         "name": "Laura Frank",
         "url": "https://twitter.com/rhein_wein",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Microservices Best Practices",
@@ -219,7 +242,8 @@
         "name": "Manuel Weiss",
         "url": "https://twitter.com/manualwise",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Function as a Service for Docker",
@@ -228,7 +252,8 @@
         "name": "Chanwit Kaewkasi",
         "url": "https://twitter.com/chanwit",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "What is Docker? Pure awesomeness!",
@@ -237,7 +262,8 @@
         "name": "Drew McMurry",
         "url": "https://twitter.com/KITTWiki",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Say Goodbye to the Noisy Neighbor when Using Docker",
@@ -246,7 +272,8 @@
         "name": "Carlos Carrero",
         "url": "https://twitter.com/ccarrero08",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "5 minutes dabbling with Docker Distributed Application Bundles (DAB)",
@@ -255,7 +282,8 @@
         "name": "Lachlan Evenson",
         "url": "https://twitter.com/LachlanEvenson",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Using Docker tools for Visual Studio with a Hyper-V based Docker host",
@@ -264,7 +292,8 @@
         "name": "Kees Verhaar",
         "url": "https://twitter.com/kverhaar",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Create application server + database at once with Docker Compose",
@@ -273,7 +302,8 @@
         "name": "Konstantinos Giannousis",
         "url": "http://blog.codingtimes.com/",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Raises the Bar on Orchestration Front",
@@ -282,7 +312,8 @@
         "name": "Nigel Poulton",
         "url": "https://twitter.com/nigelpoulton",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Democratizing Docker for Enterprise",
@@ -291,7 +322,8 @@
         "name": "Manuel Weiss",
         "url": "https://twitter.com/manualwise",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Dockercon 2016 Speaker notes",
@@ -300,7 +332,8 @@
         "name": "Alex Ellis",
         "url": "https://twitter.com/alexellisuk",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Minimal Docker Nodejs image with support of private repositories",
@@ -309,7 +342,8 @@
         "name": "Sergej Jevsejev",
         "url": "https://twitter.com/mr_kreativity",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Deploying Spring Boot microservices using Docker 1.12 orchestration",
@@ -318,7 +352,8 @@
         "name": "Chris Richardson",
         "url": "https://twitter.com/crichardson",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "15 minutes with Docker Swarm Mode",
@@ -327,7 +362,8 @@
         "name": "Lachlan Evenson",
         "url": "https://twitter.com/LachlanEvenson",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Host a Technical Blog with Docker",
@@ -336,7 +372,8 @@
         "name": "Jay Johnson",
         "url": "https://twitter.com/jayphjohnson",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "DockerCon 2016 - What is new in Docker 1.12",
@@ -345,7 +382,8 @@
         "name": "Tom Verelst",
         "url": "https://twitter.com/tomverelst",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

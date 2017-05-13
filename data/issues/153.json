@@ -12,7 +12,8 @@
         "name": "Jason Jarrett",
         "url": "https://twitter.com/staxmanade",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Read more.",
@@ -21,7 +22,8 @@
         "name": "None",
         "url": "https://blog.docker.com/2016/09/docker-authorized-partner-program/",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Orchestrating Linux Containers while tolerating failures",
@@ -30,7 +32,8 @@
         "name": "Nishant Totla",
         "url": "https://twitter.com/nishanttotla",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Building a Microservices solution using Docker, .NET and Windows Server 2016",
@@ -39,7 +42,8 @@
         "name": "Tech Ed",
         "url": "https://twitter.com/teched_na",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Multiplayer Minecraft in Moments with Docker",
@@ -48,7 +52,8 @@
         "name": "Akira Wong",
         "url": "https://twitter.com/akiraw95",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Service Discovery Inside A Docker Swarm Cluster",
@@ -57,7 +62,8 @@
         "name": "Viktor Farcic",
         "url": "https://twitter.com/vfarcic",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Learn the basics of Docker",
@@ -66,7 +72,8 @@
         "name": "Coder Journey",
         "url": "https://twitter.com/coderjourney",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

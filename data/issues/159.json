@@ -12,7 +12,8 @@
         "name": "Nick McCrory",
         "url": "https://twitter.com/nickmccrory",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Forwarding Logs From All Containers Running Anywhere Inside A Docker Swarm Cluster",
@@ -21,7 +22,8 @@
         "name": "Viktor Farcic",
         "url": "https://twitter.com/vfarcic",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

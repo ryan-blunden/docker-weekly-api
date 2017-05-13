@@ -12,7 +12,8 @@
         "name": "None",
         "url": "https://blog.docker.com/2016/06/dockercon-2106-livestream/",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Dr. Jekyll and Mr. Docker",
@@ -21,7 +22,8 @@
         "name": "Diego Lavalle",
         "url": "https://twitter.com/coderlavalle",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Securing the server programs hiding in your Docker containers",
@@ -30,7 +32,8 @@
         "name": "Steven J. Vaughan-Nichols",
         "url": "https://twitter.com/sjvn",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Running Example Voting App in Docker Cloud",
@@ -39,7 +42,8 @@
         "name": "Ilkka Anttonen",
         "url": "https://twitter.com/IlkkaAnttonen",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Pythons in A Container - Lessons Learned Dockerizing Python Micro-Services",
@@ -48,7 +52,8 @@
         "name": "Dorian Pula",
         "url": "https://twitter.com/dorianpula",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "What is Docker? Pure awesomeness!",
@@ -57,7 +62,8 @@
         "name": "Drew McCurry",
         "url": "https://twitter.com/drewswaycool",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Using Docker Swarm to Create an Overlay Network",
@@ -66,7 +72,8 @@
         "name": "Sebastien Goasguen",
         "url": "https://twitter.com/sebgoa",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Running ELK on docker - full solution",
@@ -75,7 +82,8 @@
         "name": "Avi Tzurel",
         "url": "https://twitter.com/kensodev",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Sravanthi Sinha",
@@ -84,7 +92,8 @@
         "name": "Steven Garcia",
         "url": "https://twitter.com/stevengrcia",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Monitoring Dell infrastructure using Docker containers and microservices",
@@ -93,7 +102,8 @@
         "name": "Ajeet Singh Raina",
         "url": "https://twitter.com/ajeetsraina",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Getting Started with Docker Engine",
@@ -102,7 +112,8 @@
         "name": "Deepak Vohra",
         "url": "https://twitter.com/Dell_Toad",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Learn Docker by Building a Microservice",
@@ -111,7 +122,8 @@
         "name": "Dave Kerr",
         "url": "https://twitter.com/dwmkerr",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Building a CI/CD Pipeline with Docker and Calm: Part 1",
@@ -120,7 +132,8 @@
         "name": "Balaji Janakiram",
         "url": "https://twitter.com/baljanak",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Distributing Docker Cache across Hosts",
@@ -129,7 +142,8 @@
         "name": "Anand Patel",
         "url": "https://twitter.com/anandAKAdjfaze",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "KaliBrowser",
@@ -138,7 +152,8 @@
         "name": "Jerry Gamblin",
         "url": "https://twitter.com/JGamblin",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Monitoring Java Applications Running Inside Docker Containers",
@@ -147,7 +162,8 @@
         "name": "Sean Tong",
         "url": "https://twitter.com/jamasoftware",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Exploring Docker",
@@ -156,7 +172,8 @@
         "name": "Luis Herrera Ben\u00edtez",
         "url": "https://twitter.com/lherrerabenitez",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Building Microservice applications on Docker-Datacenter (DDC) using Docker Compose",
@@ -165,7 +182,8 @@
         "name": "Ajeet Singh Raina",
         "url": "https://twitter.com/ajeetsraina",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Testing the Docker for Mac Beta",
@@ -174,7 +192,8 @@
         "name": "Dave Kerr",
         "url": "https://twitter.com/dwmkerr",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Microservices Bliss with Docker and Traefik",
@@ -183,7 +202,8 @@
         "name": "Govinda Fichtner",
         "url": "https://twitter.com/_beagile_",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Migrating to Docker: The Final Results",
@@ -192,7 +212,8 @@
         "name": "Tim Miller",
         "url": "https://twitter.com/Miller_Tim",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "ASP.NET Core in Docker on Linux in Azure",
@@ -201,7 +222,8 @@
         "name": "Mark Rendle",
         "url": "https://twitter.com/markrendle",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Running .NET Core on Docker",
@@ -210,7 +232,8 @@
         "name": "Jurgis Pasukonis",
         "url": "https://twitter.com/TrafiTechBeat",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Puppet in Docker: running Puppet on container-centric infrastructure",
@@ -219,7 +242,8 @@
         "name": "Gareth Rushgrove",
         "url": "https://twitter.com/garethr",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Create and run Hyper-V containers using Docker on Windows 10 desktop",
@@ -228,7 +252,8 @@
         "name": "Julien Corioland",
         "url": "https://twitter.com/jcorioland",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Volume Driver for vSphere",
@@ -237,7 +262,8 @@
         "name": "Cormac Hogan",
         "url": "https://twitter.com/CormacJHogan",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "A Nonprofit Case for Docker",
@@ -246,7 +272,8 @@
         "name": "Phillip Shipsley",
         "url": "https://twitter.com/phillipshipley",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "A Docker Container To Capture All Traffic From Host",
@@ -255,7 +282,8 @@
         "name": "Jerry Gamblin",
         "url": "https://twitter.com/JGamblin",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Things I Learnt From Dockerising My Development",
@@ -264,7 +292,8 @@
         "name": "Simon Emms",
         "url": "https://twitter.com/RiggerTheGeek",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Brendan Wolfe",
@@ -273,7 +302,8 @@
         "name": "Kelly Boeckman",
         "url": "https://twitter.com/kellyboeckman",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

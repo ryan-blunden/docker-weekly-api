@@ -12,7 +12,8 @@
         "name": "Jay Johnson",
         "url": "https://twitter.com/jayphjohnson",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "DevOps Basics: Introduction to Docker Registry and Images",
@@ -21,7 +22,8 @@
         "name": "Julien Stroheker",
         "url": "https://twitter.com/Ju_Stroh",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Debugging a ES6 Node.js application in a Docker container using Visual Studio Code",
@@ -30,7 +32,8 @@
         "name": "Alexander Zeitler",
         "url": "https://twitter.com/alexzeitler_",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Machine Port Forwarding",
@@ -39,7 +42,8 @@
         "name": "Johan Haleby",
         "url": "https://twitter.com/johanhaleby",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "5 reasons to use Docker for productivity software installation",
@@ -48,7 +52,8 @@
         "name": "Tatiana Kochedykova",
         "url": "https://twitter.com/tati_koch7",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Why Banks Need The Docker Datacenter",
@@ -57,7 +62,8 @@
         "name": "Benjamin Wootton",
         "url": "https://twitter.com/benjaminwootton",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Austin: How Do I Even Swarm?",
@@ -66,7 +72,8 @@
         "name": "Everett Toews",
         "url": "https://twitter.com/everett_toews",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Flow: Proxy \u2013 On-Demand HAProxy Service Discovery and Reconfiguration",
@@ -75,7 +82,8 @@
         "name": "Viktor Farcic",
         "url": "https://twitter.com/vfarcic",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Cache Ugly Reporting Queries With Materialized Views and Docker",
@@ -84,7 +92,8 @@
         "name": "Joshua Bloom",
         "url": "https://twitter.com/profjsb",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Weave + Docker for Mac: The bridge between local and remote services",
@@ -93,7 +102,8 @@
         "name": "Anand Patel",
         "url": "https://twitter.com/anandAKAdjfaze",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "User Namespaces: Sharing the Docker UNIX socket",
@@ -102,7 +112,8 @@
         "name": "Phil Estes",
         "url": "https://twitter.com/estesp",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Distributed Data Analysis with Plain UNIX Commands and Docker Swarm",
@@ -111,7 +122,8 @@
         "name": "Lorenzo Fontana",
         "url": "https://twitter.com/fntlnz",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "One container to rule them all",
@@ -120,7 +132,8 @@
         "name": "J\u00e9r\u00f4me Petazzoni",
         "url": "https://twitter.com/jpetazzo",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Preparing an environment with Docker Compose",
@@ -129,7 +142,8 @@
         "name": "Anton Arhipov",
         "url": "https://twitter.com/antonarhipov",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Dockerized background image processing with docker, codeship and iron.io workers",
@@ -138,7 +152,8 @@
         "name": "Aur\u00e9lien Herv\u00e9",
         "url": "https://twitter.com/aurel_herve",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "With Every Crash Comes a New Cycle of Opportunity",
@@ -147,7 +162,8 @@
         "name": "Jerry Murdock",
         "url": "https://twitter.com/aspenjfm",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "The Brutally Honest Guide to Docker Graphdrivers",
@@ -156,7 +172,8 @@
         "name": "Jessie Frazelle",
         "url": "https://twitter.com/frazelledazzell",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Running a secure docker registry",
@@ -165,7 +182,8 @@
         "name": "Christian Speckner",
         "url": "https://twitter.com/mayflowerphp",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Running GUI Apps in Docker on Mac OS X",
@@ -174,7 +192,8 @@
         "name": "Darren Hale",
         "url": "https://twitter.com/darrenhale",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Pumba \u2014 Chaos Testing for Docker",
@@ -183,7 +202,8 @@
         "name": "Alexei Ledenev",
         "url": "https://twitter.com/alexeiled",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Hands-On Docker released",
@@ -192,7 +212,8 @@
         "name": "Alex Ellis",
         "url": "https://twitter.com/alexellisuk",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Postgres Container Access with a SQL Client",
@@ -201,7 +222,8 @@
         "name": "Chris Stump",
         "url": "https://twitter.com/ccstump",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Swarm: The perfect environment to deploy and scale distributed applications in containers",
@@ -210,7 +232,8 @@
         "name": "J\u00e9r\u00f4me Petazzoni",
         "url": "https://twitter.com/jpetazzo",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Monitoring Docker Containers - docker stats, cAdvisor, Universal Control Plane",
@@ -219,7 +242,8 @@
         "name": "Arun Gupta",
         "url": "https://twitter.com/arungupta",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

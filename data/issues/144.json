@@ -12,7 +12,8 @@
         "name": "Luc Juggery",
         "url": "https://twitter.com/lucjuggery",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Dockerize a Rails 5, Postgres, Redis, Sidekiq and Action Cable Application",
@@ -21,7 +22,8 @@
         "name": "Nick Janetakis",
         "url": "https://twitter.com/nickjanetakis",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How I setup a Raspberry Pi 3 Cluster Using The New Docker Swarm Mode In 29 Minutes",
@@ -30,7 +32,8 @@
         "name": "Malcolm Jones",
         "url": "https://twitter.com/bossjones",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Our Review of Docker for Mac! - Usersnap",
@@ -39,7 +42,8 @@
         "name": "Thomas Peham",
         "url": "https://twitter.com/tompeham",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Production Meteor and Node, Using Docker, Part V",
@@ -48,7 +52,8 @@
         "name": "Kevin Kaland",
         "url": "https://twitter.com/wizonesolutions",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Now Streaming: Booz Allen Hamilton\u2019s Nirmal Mehta Talks Jenkins, Docker, DevOps and More on DevOps Radio",
@@ -57,7 +62,8 @@
         "name": "Heidi Gilmore",
         "url": "https://twitter.com/hgilmore",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Using Honcho to Create a Multi-Process Docker Container",
@@ -66,7 +72,8 @@
         "name": "Benjamin Cane",
         "url": "https://twitter.com/madflojo",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Services, Stack and Distributed Application Bundle",
@@ -75,7 +82,8 @@
         "name": "Arun Gupta",
         "url": "https://twitter.com/arungupta",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Life and death of a container \u2014 Medium",
@@ -84,7 +92,8 @@
         "name": "Luis Herrera",
         "url": "https://twitter.com/lherrerabenitez",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Get Bash completion for Docker Mac",
@@ -93,7 +102,8 @@
         "name": "Alex Ellis",
         "url": "https://twitter.com/alexellisuk",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Daemon Log with Docker for Mac",
@@ -102,7 +112,8 @@
         "name": "Arun Gupta",
         "url": "https://twitter.com/arungupta",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Deploy ELK with Docker | Exoscale blog",
@@ -111,7 +122,8 @@
         "name": "Mathieu Buffenoir",
         "url": "https://twitter.com/mbuffenoir",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "A checklist for Docker in the Enterprise",
@@ -120,7 +132,8 @@
         "name": "Ian Miell",
         "url": "https://twitter.com/ianmiell/",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Getting Started with Docker for AWS and Scaling Nodes",
@@ -129,7 +142,8 @@
         "name": "Arun Gupta",
         "url": "https://twitter.com/search?q=Arun%20Gupta&src=typd",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker: Taming the Beast - Part I",
@@ -138,7 +152,8 @@
         "name": "Nicolas Schoemaeker",
         "url": "https://twitter.com/ns_schoe?ref_src=twsrc%5Etfw",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

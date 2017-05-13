@@ -12,7 +12,8 @@
         "name": "Raphael",
         "url": "http://email.docker.com/P000I0TFKJ00e00f00jLj03",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

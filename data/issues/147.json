@@ -12,7 +12,8 @@
         "name": "John Zaccone",
         "url": "https://twitter.com/JohnZaccone",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Setting up a Mail Forwarder in Docker",
@@ -21,7 +22,8 @@
         "name": "Brian Christner",
         "url": "https://twitter.com/idomyowntricks",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Demonstrating Docker 1.12 Service Discovery with Docker Compose",
@@ -30,7 +32,8 @@
         "name": "Ajeet Singh Raina",
         "url": "https://twitter.com/ajeetsraina",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Develop a Docker Authorization Plugin in Python",
@@ -39,7 +42,8 @@
         "name": "Everett Toews",
         "url": "https://twitter.com/everett_toews?ref_src=twsrc%5Etfw",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Jenkins meets: the corporate proxy",
@@ -48,7 +52,8 @@
         "name": "Alex Ellis",
         "url": "https://twitter.com/alexellisuk",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Swarm - An Analysis Of A Very-Large-Scale Container System",
@@ -57,7 +62,8 @@
         "name": "Chanwit Kaewkasi",
         "url": "https://twitter.com/chanwit",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "ghost-blog docker install on a debian 8 VPS running apache2",
@@ -66,7 +72,8 @@
         "name": "Gr\u00e9goire Molveau",
         "url": "https://twitter.com/GregoireMolveau",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker 1.12 The Game Changer",
@@ -75,7 +82,8 @@
         "name": "Nigel Poulton",
         "url": "https://twitter.com/nigelpoulton",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Podcast",
@@ -84,7 +92,8 @@
         "name": "soundcloud",
         "url": "https://soundcloud.com/docker-run",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Deploy Horizon Using Docker Cloud & DigitalOcean",
@@ -93,7 +102,8 @@
         "name": "Chris Asche",
         "url": "http://tutorials.pluralsight.com/author/casche",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Analysing Docker projects on Github with BigQuery",
@@ -102,7 +112,8 @@
         "name": "David Gageot",
         "url": "https://twitter.com/dgageot",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How-to monitor Docker hosts ?",
@@ -111,7 +122,8 @@
         "name": "Valentin Ouvrard",
         "url": "https://valentin.ouvrard.it",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Dockerizando applications - Competition",
@@ -120,7 +132,8 @@
         "name": "Rafael Gomes",
         "url": "https://twitter.com/gomex",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker 1.12, Swarm Mode and orchestration",
@@ -129,7 +142,8 @@
         "name": "Gianluca Arbezzano",
         "url": "https://twitter.com/gianarb",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Easy Docker Orchestration With Docker 1.12, AWS EFS And The Swarm Mode",
@@ -138,7 +152,8 @@
         "name": "Aymen El Amri",
         "url": "https://twitter.com/eon01",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Service Discovery and Load balancing Internals in Docker 1.12",
@@ -147,7 +162,8 @@
         "name": "Sreenivas Makam",
         "url": "https://twitter.com/srmakam",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker as a (workstation) service",
@@ -156,7 +172,8 @@
         "name": "Kofi Gumbs",
         "url": "https://twitter.com/hkgumbs",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Weekly Roundup: Top 5 Most Popular Posts",
@@ -165,7 +182,8 @@
         "name": "Cari Scardina",
         "url": "https://twitter.com/Cari_Marilyn",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How Service Discovery works under Docker Engine 1.12",
@@ -174,7 +192,8 @@
         "name": "Ajeet Singh Raina",
         "url": "https://twitter.com/ajeetsraina",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Building a CaaS for the enterprise. Part 2",
@@ -183,7 +202,8 @@
         "name": "Scott Coulton",
         "url": "https://twitter.com/scottcoulton",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Bring Linux apps to the Mac Desktop with Docker",
@@ -192,7 +212,8 @@
         "name": "Alex Ellis",
         "url": "https://twitter.com/alexellisuk",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

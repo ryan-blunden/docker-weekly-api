@@ -12,7 +12,8 @@
         "name": "Nathan LeClaire",
         "url": "https://twitter.com/upthecyberpunks/",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Convince Your Boss to Send You to DockerCon 2016",
@@ -21,7 +22,8 @@
         "name": "Ashlynn Polini",
         "url": "https://twitter.com/ashlynnpolini",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "API-Driven DevOps: Spotlight on Docker",
@@ -30,7 +32,8 @@
         "name": "Vassili van der Mer",
         "url": "https://twitter.com/vassvdm",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Running Jekyll in Windows Using Docker",
@@ -39,7 +42,8 @@
         "name": "James Sturtevant",
         "url": "https://twitter.com/Aspenwilder",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Continuous Delivery at Docker Age",
@@ -48,7 +52,8 @@
         "name": "Adrien Blind",
         "url": "https://twitter.com/AdrienBlind",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Build, Ship, Run with Docker Datacenter",
@@ -57,7 +62,8 @@
         "name": "Jay Johnson",
         "url": "https://twitter.com/jayphjohnson",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Tooling in Eclipse Video",
@@ -66,7 +72,8 @@
         "name": "Arun Gupta",
         "url": "https://twitter.com/arungupta",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Using Carina to Mimic IRCcloud",
@@ -75,7 +82,8 @@
         "name": "JJ Asghar",
         "url": "https://twitter.com/jjasghar",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Swarm: Collecting Metrics, Events & Logs",
@@ -84,7 +92,8 @@
         "name": "Stefan Thies",
         "url": "https://twitter.com/seti321",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Get Started with Docker Quickly, using Kitematic",
@@ -93,7 +102,8 @@
         "name": "Trevor Sullivan",
         "url": "https://twitter.com/pcgeek86",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How we happily dockerized our development environment (part 1/2)",
@@ -102,7 +112,8 @@
         "name": "Aur\u00e9lien Herv\u00e9",
         "url": "https://twitter.com/aurel_herve",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Dockerizing a PHP Application",
@@ -111,7 +122,8 @@
         "name": "Younes Rafie",
         "url": "https://twitter.com/RAFIEYounes",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Getting Started with Docker Swarm",
@@ -120,7 +132,8 @@
         "name": "John Ray",
         "url": "https://twitter.com/theYarNhoj",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Exciting Docker Swarm experiments in the Hypriot Cluster Lab",
@@ -129,7 +142,8 @@
         "name": "Govinda Fichtner",
         "url": "https://twitter.com/_beagile_",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Clustering on a Raspberry Pi",
@@ -138,7 +152,8 @@
         "name": "Cody Bunch",
         "url": "https://twitter.com/cody_bunch",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "SwarmWeek Part 2: Rescheduling Redis with Swarm",
@@ -147,7 +162,8 @@
         "name": "Ryan Wallner",
         "url": "https://twitter.com/RyanWallner",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Building a photo search in a weekend - Elasticsearch + Docker (Part 1)",
@@ -156,7 +172,8 @@
         "name": "Sandeep Chivukula",
         "url": "https://twitter.com/_sandeep",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Automated End-To-End Testing with Protractor, Docker and Jenkins",
@@ -165,7 +182,8 @@
         "name": "Marco Pajares Silva",
         "url": "https://twitter.com/Smaato",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Creating containerized build environments with the Jenkins Pipeline plugin and Docker. Well, almost.",
@@ -174,7 +192,8 @@
         "name": "Ryan McDonough",
         "url": "https://twitter.com/damnhandy",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Zoe on Swarm in production \u2013 first impressions",
@@ -183,7 +202,8 @@
         "name": "Daniele Venzano",
         "url": "https://twitter.com/EURECOM",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Tips: Save Time with this Quick Typing Hack",
@@ -192,7 +212,8 @@
         "name": "Brian Christner",
         "url": "https://twitter.com/idomyowntricks",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Rails 5 and Docker: Lessons Learnt",
@@ -201,7 +222,8 @@
         "name": "Lauri Nevala",
         "url": "https://twitter.com/nevalau",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "#SwarmWeek: Five Tips for the Advanced Swarm User",
@@ -210,7 +232,8 @@
         "name": "Mike Goelzer",
         "url": "https://twitter.com/mikegoelzer",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Community Spotlight: Arun Gupta",
@@ -219,7 +242,8 @@
         "name": "Adam Herzog",
         "url": "https://twitter.com/ah3rz",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker: How to use it in a practical way - Part 3",
@@ -228,7 +252,8 @@
         "name": "Bill Toulas",
         "url": "https://twitter.com/howtoforgecom",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Running a web application using Docker + Nginx on Ubuntu 14.04",
@@ -237,7 +262,8 @@
         "name": "Aymen El Amri",
         "url": "https://twitter.com/eon01",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

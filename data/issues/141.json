@@ -12,7 +12,8 @@
         "name": "Alex Ellis",
         "url": "https://twitter.com/alexellisuk",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Running Services in Docker 1.12",
@@ -21,7 +22,8 @@
         "name": "Laura Frank",
         "url": "https://twitter.com/rhein_wein",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Engine 1.12 comes with built-in Distribution & Orchestration System",
@@ -30,7 +32,8 @@
         "name": "Ajeet Singh Raina",
         "url": "https://twitter.com/ajeetsraina",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Trying the new docker 1.12 swarm mode locally using machine",
@@ -39,7 +42,8 @@
         "name": "Marcos Lilljedahl",
         "url": "https://twitter.com/marcosnils",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Swarm Reboot in Docker 1.12",
@@ -48,7 +52,8 @@
         "name": "Sebastien Goasguen",
         "url": "https://twitter.com/sebgoa",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Containerize All the Multi-Platform Things!",
@@ -57,7 +62,8 @@
         "name": "Phil Estes",
         "url": "https://twitter.com/estesp",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Introducing Experimental Distributed Application Bundles",
@@ -66,7 +72,8 @@
         "name": "Michael Friis",
         "url": "https://twitter.com/manomarks",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How to use Docker 1.12 Built-In Orchestration and Service Creation",
@@ -75,7 +82,8 @@
         "name": "Brian Christner",
         "url": "https://twitter.com/idomyowntricks",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Building Serverless Apps with Docker",
@@ -84,7 +92,8 @@
         "name": "Ben Firshman",
         "url": "https://twitter.com/bfirsh",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Scale a real microservice with Docker 1.12 Swarm Mode",
@@ -93,7 +102,8 @@
         "name": "Alex Ellis",
         "url": "https://twitter.com/alexellisuk",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Democratizing orchestration with Docker",
@@ -102,7 +112,8 @@
         "name": "Christian Jacobsen",
         "url": "https://twitter.com/chribben",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Developer Bliss with Docker for Mac & Docker for Windows",
@@ -111,7 +122,8 @@
         "name": "Dan Wahlin",
         "url": "https://twitter.com/danwahlin",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Announcing the Docker for Mac and Windows Public Beta",
@@ -120,7 +132,8 @@
         "name": "Mano Marks",
         "url": "https://twitter.com/manomarks",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker 1.12: Now with Built-in Orchestration!",
@@ -129,7 +142,8 @@
         "name": "Docker Core Engineering",
         "url": "https://twitter.com/docker",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "All Hail the New Docker Swarm",
@@ -138,7 +152,8 @@
         "name": "Adrian Mouat",
         "url": "https://twitter.com/adrianmouat",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker 1.12 orchestration built-in",
@@ -147,7 +162,8 @@
         "name": "Gianluca Arbezzano",
         "url": "https://twitter.com/GianArb",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Datacenter in AWS and Azure in a few clicks",
@@ -156,7 +172,8 @@
         "name": "Trisha McCanna",
         "url": "https://twitter.com/trishthedish99",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Introducing the Docker Store Private Beta",
@@ -165,7 +182,8 @@
         "name": "Krish Garimella",
         "url": "https://twitter.com/wol4max",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Register Now for the Docker 1.12 Hackathon",
@@ -174,7 +192,8 @@
         "name": "Michelle Antebi",
         "url": "https://twitter.com/michantebi",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

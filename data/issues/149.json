@@ -12,7 +12,8 @@
         "name": "Scott Coulton",
         "url": "https://twitter.com/scottcoulton",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Node failures in Docker Swarm",
@@ -21,7 +22,8 @@
         "name": "John Zaccone",
         "url": "https://twitter.com/JohnZaccone",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "A brief history of Docker at Demonware",
@@ -30,7 +32,8 @@
         "name": "Thomas Shaw",
         "url": "https://twitter.com/tomwillfixit",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "What's new in Docker 1.12 load-balancing feature",
@@ -39,7 +42,8 @@
         "name": "Ajeet Singh Raina",
         "url": "https://twitter.com/ajeetsraina",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker for Azure private Beta preview",
@@ -48,7 +52,8 @@
         "name": "Alex Ellis",
         "url": "https://twitter.com/alexellisuk",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "5 minutes with the Docker captains",
@@ -57,7 +62,8 @@
         "name": "Jenny Burcio",
         "url": "https://twitter.com/TheBurce",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Swarm2K Analysis Pipeline",
@@ -66,7 +72,8 @@
         "name": "Chanwit Kaewkasi",
         "url": "https://twitter.com/chanwit",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Adding Hyper-V support to 2016 TP5 Docker VM",
@@ -75,7 +82,8 @@
         "name": "Stefan Scherer",
         "url": "https://twitter.com/stefscherer",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

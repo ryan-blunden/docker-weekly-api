@@ -12,7 +12,8 @@
         "name": "Arun Gupta",
         "url": "https://twitter.com/arungupta",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How to get started with data science in containers",
@@ -21,7 +22,8 @@
         "name": "Jamie Hall",
         "url": "https://twitter.com/jamie_hall",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Refactoring a Dockerfile for image size",
@@ -30,7 +32,8 @@
         "name": "Marc Campbell",
         "url": "https://twitter.com/mccode",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker From Scratch",
@@ -39,7 +42,8 @@
         "name": "Giacomo Vacca",
         "url": "https://twitter.com/giavac",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Compose 1.6: New Compose file for defining networks and volumes",
@@ -48,7 +52,8 @@
         "name": "Aanand Prasad",
         "url": "https://twitter.com/aanand",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Test, build and package Docker for ARM the official way",
@@ -57,7 +62,8 @@
         "name": "Govinda Fichtner",
         "url": "https://twitter.com/_beagile_",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Using Docker with your spring-boot application",
@@ -66,7 +72,8 @@
         "name": "Tom Barlow",
         "url": "https://twitter.com/tomwbarlow",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "4 useful tips, you may not know about",
@@ -75,7 +82,8 @@
         "name": "Yani Iliev",
         "url": "https://twitter.com/YaniIliev",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Setting up a Flocker-powered Swarm Cluster in less than 30 minutes on AWS",
@@ -84,7 +92,8 @@
         "name": "Stephen Nguyen",
         "url": "https://twitter.com/Stephenitis",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Multi-host containerised HPC cluster",
@@ -93,7 +102,8 @@
         "name": "Christian Kniep",
         "url": "https://twitter.com/cqnib",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Storage Internals",
@@ -102,7 +112,8 @@
         "name": "Amit Shukla",
         "url": "https://twitter.com/amits",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Migrate Jenkins to a Docker Service",
@@ -111,7 +122,8 @@
         "name": "Manuel Morej\u00f3n",
         "url": "https://twitter.com/morejon85",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Swarm",
@@ -120,7 +132,8 @@
         "name": "Olivier Robert",
         "url": "https://twitter.com/XwaldRob",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How Docker volume plugins were born and how to write your own",
@@ -129,7 +142,8 @@
         "name": "Luke Marsden",
         "url": "https://twitter.com/lmarsden",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Introduction to Azure Docker Extension",
@@ -138,7 +152,8 @@
         "name": "Ahmet Alp Balkan",
         "url": "https://twitter.com/AhmetAlpBalkan",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Configuring and Running Django + Celery in Docker Containers",
@@ -147,7 +162,8 @@
         "name": "Justyna Ilczuk",
         "url": "https://twitter.com/attilczuk",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "docker-cheat-sheet",
@@ -156,7 +172,8 @@
         "name": "Will Sargent",
         "url": "https://twitter.com/will_sargent",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Getting started with Docker",
@@ -165,7 +182,8 @@
         "name": "Victor Recio",
         "url": "https://twitter.com/vsrecio",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "The Ultimate NodeJS Development Setup with Docker",
@@ -174,7 +192,8 @@
         "name": "Caleb Sotelo",
         "url": "https://twitter.com/paislee_tweets",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Usage Patterns",
@@ -183,7 +202,8 @@
         "name": "Benjamin Fernandes",
         "url": "https://twitter.com/LotharSee",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "What You Need to Know About Storage in Docker 1.10",
@@ -192,7 +212,8 @@
         "name": "Kenny Coleman",
         "url": "https://twitter.com/KendrickColeman",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Automated, Heroku-like Deployments with Docker and Drone",
@@ -201,7 +222,8 @@
         "name": "Joel Weirauch",
         "url": "https://twitter.com/JoelWeirauch",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Deploy Docker to Amazon Cloud using Tutum",
@@ -210,7 +232,8 @@
         "name": "Arun Gupta",
         "url": "https://twitter.com/arungupta",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

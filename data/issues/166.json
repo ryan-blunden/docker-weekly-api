@@ -12,7 +12,8 @@
         "name": "Joseph Tsidulko",
         "url": "http://email.docker.com/eI0kIL03000JF90t6kFK40T",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How Docker Streamlines Production Deployments",
@@ -21,7 +22,8 @@
         "name": "Matthew Setter",
         "url": "http://email.docker.com/f009T0K0kM00kJ3tFILJ406",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "The new containerd: An open governance driven embeddable container runtime",
@@ -30,7 +32,8 @@
         "name": "Phil Estes",
         "url": "http://email.docker.com/NJ00fFtT000k49L0cI60k3K",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker is supported on the $9 C.H.I.P. computer",
@@ -39,7 +42,8 @@
         "name": "Dieter Reuter",
         "url": "http://email.docker.com/gr0k6IK0t30kJL0TF000o94",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Elton Stoneman",
@@ -48,7 +52,8 @@
         "name": "None",
         "url": "http://email.docker.com/ZJI640kzT0000t0kC30KLF9",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "None",
@@ -57,7 +62,8 @@
         "name": "Alex Ellis",
         "url": "http://email.docker.com/R00K6kkJtT003040FpL9mI0",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Lightweight Docker Images in 5 Steps",
@@ -66,7 +72,8 @@
         "name": "Igor \u0160ar\u010devi\u0107",
         "url": "http://email.docker.com/XTK04HJ0I000L96kt03kFK0",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

@@ -12,7 +12,8 @@
         "name": "Janshair Khan",
         "url": "https://twitter.com/kjanshair",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Beginner's Guide to Docker",
@@ -21,7 +22,8 @@
         "name": "Baisan Marius",
         "url": "https://twitter.com/GrvMariobyn",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How Docker Helps Your DevOps Infrastructure",
@@ -30,7 +32,8 @@
         "name": "Brad Tinder",
         "url": "https://twitter.com/spkaa",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Let's build a PicoCluster for Docker Swarm",
@@ -39,7 +42,8 @@
         "name": "Dieter Reuter",
         "url": "https://twitter.com/Quintus23M",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker for Windows Beta announced",
@@ -48,7 +52,8 @@
         "name": "Scott Hanselman",
         "url": "https://twitter.com/shanselman",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "The Maven plugins that will expose your Git passwords and how Docker helps prove it",
@@ -57,7 +62,8 @@
         "name": "Ryan McDonough",
         "url": "https://twitter.com/damnhandy",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "sFlow: Network and system analytics as a Docker microservice",
@@ -66,7 +72,8 @@
         "name": "Peter Phaal",
         "url": "https://twitter.com/sFlow",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How we use Docker",
@@ -75,7 +82,8 @@
         "name": "Ond\u0159ej Popelka",
         "url": "https://twitter.com/Keboola_Support",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Understanding the Docker Ecosystem",
@@ -84,7 +92,8 @@
         "name": "Chris Chinch",
         "url": "https://twitter.com/ChrisChinch",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Why I am excited to join the Cloud Native Computing Foundation Technical Oversight Board",
@@ -93,7 +102,8 @@
         "name": "Solomon Hykes",
         "url": "https://twitter.com/solomonstre",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Close Encounters of the Third Kind, or Microsoft Windows meets Docker ARM Containers for IoT",
@@ -102,7 +112,8 @@
         "name": "Dieter Reuter",
         "url": "https://twitter.com/Quintus23M",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Networking basics with Docker",
@@ -111,7 +122,8 @@
         "name": "Tit Petric",
         "url": "https://twitter.com/TitPetric",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Swarm: Flat File Engine Discovery",
@@ -120,7 +132,8 @@
         "name": "Jeff Nickoloff",
         "url": "https://twitter.com/allingeek",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Introduction to Docker Compose Tool for Multi-Container Applications",
@@ -129,7 +142,8 @@
         "name": "Sebastien Goasguen",
         "url": "https://twitter.com/sebgoa",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "GitLab Runner 1.1 with Autoscaling",
@@ -138,7 +152,8 @@
         "name": "Kamil Trzci\u0144ski",
         "url": "https://twitter.com/ayufanpl",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Scalable Spark/HDFS Setup using Docker",
@@ -147,7 +162,8 @@
         "name": "Ivan Ermilov",
         "url": "https://medium.com/@ivanermilov",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Tutorial: PipelineDB Persistence with Flocker and Docker Swarm",
@@ -156,7 +172,8 @@
         "name": "Stephen Nguyen",
         "url": "https://twitter.com/Stephenitis",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker For Windows Beta Released",
@@ -165,7 +182,8 @@
         "name": "Steve Lasker",
         "url": "https://twitter.com/SteveLasker",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Birthday #3 Partners Share Why Diversity in Tech is Important",
@@ -174,7 +192,8 @@
         "name": "Adam Herzog",
         "url": "https://twitter.com/ah3rz",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Las Vegas Celebrates Docker's Third Birthday",
@@ -183,7 +202,8 @@
         "name": "Steven Andrew",
         "url": "https://twitter.com/infosiftr",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Using Docker Machine with AWS",
@@ -192,7 +212,8 @@
         "name": "Scott Lowe",
         "url": "https://twitter.com/scott_lowe",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Easily sync and stream your entire music collection using docker",
@@ -201,7 +222,8 @@
         "name": "Ariel Elkin",
         "url": "https://twitter.com/AriVocals",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How Docker Makes Testing More Efficient",
@@ -210,7 +232,8 @@
         "name": "Manuel Wise",
         "url": "https://twitter.com/manualwise",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Quicktip #7: docker ps --format",
@@ -219,7 +242,8 @@
         "name": "Brian Goff",
         "url": "https://twitter.com/cpuguy83",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "First Touch Down with Docker for Mac",
@@ -228,7 +252,8 @@
         "name": "Dieter Reuter",
         "url": "https://twitter.com/Quintus23M",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Brand new Docker Machine for Azure",
@@ -237,7 +262,8 @@
         "name": "Ahmet Alp Balkan",
         "url": "https://twitter.com/AhmetAlpBalkan",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Say Hello to Docker for Mac",
@@ -246,7 +272,8 @@
         "name": "Tiffany Jernigan",
         "url": "https://twitter.com/tiffanyfayj",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

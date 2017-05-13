@@ -12,7 +12,8 @@
         "name": "Daniel Whitenack",
         "url": "https://twitter.com/dwhitena",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Getting Started with Concourse CI and Docker Part 3",
@@ -21,7 +22,8 @@
         "name": "Benjamin Guttmann",
         "url": "https://twitter.com/Benjamin_AVTQ",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Fun with ASP.NET 5, Linux & Docker, Part 3",
@@ -30,7 +32,8 @@
         "name": "Mark Rendle",
         "url": "https://twitter.com/markrendle",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "CI, CD with Docker, Jenkins and Tutum",
@@ -39,7 +42,8 @@
         "name": "Sreenivas Makam",
         "url": "https://www.linkedin.com/in/sreenivasmakam",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Legion of Heroes: haproxy, nginx, Angular 2, ASP.NET Core, Redis and Docker",
@@ -48,7 +52,8 @@
         "name": "Shayne Boyer",
         "url": "https://twitter.com/spboyer",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Measuring Docker IO overhead",
@@ -57,7 +62,8 @@
         "name": "Vadim Tkachenko",
         "url": "https://twitter.com/VadimTk",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker features and tools",
@@ -66,7 +72,8 @@
         "name": "Tom Verelst",
         "url": "https://twitter.com/tomverelst",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "ASP.NET 5 : Continuous Integration with Travis-CI, Tutum, Docker, Webhooks and Azure",
@@ -75,7 +82,8 @@
         "name": "Shayne Boyer",
         "url": "https://twitter.com/spboyer",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Create static websites with Hugo, Docker, and Amazon S3",
@@ -84,7 +92,8 @@
         "name": "Ahmed Alani",
         "url": "https://twitter.com/skMed",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Create Amazing Stat Dashboards for Your App Locally Using Docker and Grafana",
@@ -93,7 +102,8 @@
         "name": "Sam Atkinson",
         "url": "https://twitter.com/sambahk",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Community Passes Two Billion Pulls!",
@@ -102,7 +112,8 @@
         "name": "Mario Ponticello",
         "url": "https://www.linkedin.com/in/marioponticello",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "GUI apps in Docker on OSX",
@@ -111,7 +122,8 @@
         "name": "Benny Cornelissen",
         "url": "https://twitter.com/whieee",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker enables communication between development and IT operations",
@@ -120,7 +132,8 @@
         "name": "Dean Mraz",
         "url": "https://twitter.com/mrazdean",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "An Example of Docker Multi-Host Networking with Hadoop - Part 2",
@@ -129,7 +142,8 @@
         "name": "Joshua Davis",
         "url": "https://twitter.com/joshuad2",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Official Release of the Splunk Logging Driver in Docker",
@@ -138,7 +152,8 @@
         "name": "Marc Ch\u00e9n\u00e9",
         "url": "https://twitter.com/marcchene",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker use cases I like",
@@ -147,7 +162,8 @@
         "name": "Bjorn Stange",
         "url": "https://twitter.com/bjorn_248",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Rescheduling containers on node failures with Docker Swarm 1.1",
@@ -156,7 +172,8 @@
         "name": "Max Sch\u00f6fmann",
         "url": "https://twitter.com/schoefmann",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Minimal Docker Containers for Node.js",
@@ -165,7 +182,8 @@
         "name": "Gergely Nemeth",
         "url": "https://twitter.com/nthgergo",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "ASP.NET 5 on Docker",
@@ -174,7 +192,8 @@
         "name": "Mark Rendle",
         "url": "https://twitter.com/markrendle",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Web Development with Docker on Mac OS X",
@@ -183,7 +202,8 @@
         "name": "Brent Kearney",
         "url": "https://twitter.com/brentkearney",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How I Used Apache Spark and Docker in a Hackathon to Build a Weather App",
@@ -192,7 +212,8 @@
         "name": "Radek Ostrowski",
         "url": "https://twitter.com/radek1st",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Turbocharged Science on BOINC (with Docker)",
@@ -201,7 +222,8 @@
         "name": "Marius Millea",
         "url": "http://cosmicmar.com/",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Working with Docker volumes in the Docker Universal Control Plane (UCP)",
@@ -210,7 +232,8 @@
         "name": "Ryan Wallner",
         "url": "https://twitter.com/ryanwallner",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Dockerized Location Tracker",
@@ -219,7 +242,8 @@
         "name": "Mano Marks",
         "url": "https://twitter.com/ManoMarks",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Building a Docker Image for Apache Zeppelin using Layers",
@@ -228,7 +252,8 @@
         "name": "Jon Brisbin",
         "url": "https://twitter.com/j_brisbin",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

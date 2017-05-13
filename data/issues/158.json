@@ -12,7 +12,8 @@
         "name": "Justin Warren",
         "url": "https://twitter.com/jpwarren",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker for AWS - Docker Singapore",
@@ -21,7 +22,8 @@
         "name": "Vincent De Smet",
         "url": "https://twitter.com/vincentdesmet",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Keeping Shipping your blog with Docker volumes",
@@ -30,7 +32,8 @@
         "name": "Alex Ellis",
         "url": "https://twitter.com/alexellisuk",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

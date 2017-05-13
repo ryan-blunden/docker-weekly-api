@@ -12,7 +12,8 @@
         "name": "Part 2",
         "url": "https://blog.docker.com/2016/06/dockercon-part-2-top-10-video/",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

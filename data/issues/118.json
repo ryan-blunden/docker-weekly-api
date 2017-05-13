@@ -2,7 +2,6 @@
   "issue": 118,
   "date": "January 13th, 2016",
   "url": "https://goto.docker.com/Docker-Weekly-01132016.html",
-  "count": -1,
   "notes": "",
   "articles": [
     {
@@ -12,7 +11,8 @@
         "name": "Lauri Hartikka",
         "url": "https://twitter.com/lhartikk",
         "is_captain": false
-      }
+      },
+      "featured": true
     },
     {
       "title": "How the ThreadFix Team Uses Docker for QA and Support",
@@ -21,7 +21,8 @@
         "name": "Ryan Timmons",
         "url": "https://twitter.com/timmonsryan",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker, Salt, and Travis CI",
@@ -30,7 +31,8 @@
         "name": "Forrest Alvarez",
         "url": "https://twitter.com/failvarez",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "So you want to grow your meetup group?",
@@ -39,7 +41,8 @@
         "name": "Mark Coleman",
         "url": "https://twitter.com/mrmrcoleman",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Development Environments with Docker",
@@ -48,7 +51,8 @@
         "name": "Jeff Nickoloff",
         "url": "https://twitter.com/allingeek",
         "is_captain": false
-      }
+      },
+      "featured": true
     },
     {
       "title": "The state of the swarm",
@@ -57,7 +61,8 @@
         "name": "Mathieu Buffenoir",
         "url": "https://twitter.com/MBuffenoir",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "A Tale of Three Docker Anti-Patterns",
@@ -66,7 +71,8 @@
         "name": "Erik Dasque",
         "url": "https://twitter.com/edasque",
         "is_captain": false
-      }
+      },
+      "featured": true
     },
     {
       "title": "Dockerizing Commands",
@@ -75,7 +81,8 @@
         "name": "Chris Tankersley",
         "url": "https://twitter.com/dragonmantank",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Cgroups, namespaces, and beyond: what are containers made from?",
@@ -84,7 +91,8 @@
         "name": "J\u00e9r\u00f4me Petazzoni",
         "url": "https://twitter.com/jpetazzo",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Running NancyFx in a Docker container, a beginner's guide to build and run .NET applications in Docker",
@@ -93,7 +101,8 @@
         "name": "Dustin Moris Gorski",
         "url": "https://twitter.com/dustinmoris",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Building a Rasperry Pi based Smart Gateway for IoT",
@@ -102,7 +111,8 @@
         "name": "Patrick Steiner",
         "url": "https://twitter.com/PatrickSteiner",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker: What Will 2016 Bring for Containers?",
@@ -111,7 +121,8 @@
         "name": "David Messina",
         "url": "https://www.linkedin.com/in/davidmessina",
         "is_captain": false
-      }
+      },
+      "featured": true
     },
     {
       "title": "Getting started with Docker",
@@ -120,7 +131,8 @@
         "name": "Pawe\u0142 S\u0142omka",
         "url": "https://www.linkedin.com/in/pawelslomka",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Static sites with Docker",
@@ -129,7 +141,8 @@
         "name": "Ilkka Laukkanen",
         "url": "https://twitter.com/ilkkalaukkanen",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Taking Control of Your Docker Image",
@@ -138,7 +151,8 @@
         "name": "Maxfield Stewart",
         "url": "https://twitter.com/maxfields2000",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Swarm and Kubernetes",
@@ -147,7 +161,8 @@
         "name": "David Gageot",
         "url": "https://twitter.com/dgageot",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Avoiding pitfalls running Mongo 3.2 in Docker on OSX",
@@ -156,7 +171,8 @@
         "name": "Iain Hunter",
         "url": "https://twitter.com/hunt3ri",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Security is maturing in the Docker ecosystem",
@@ -165,7 +181,8 @@
         "name": "Sebastiaan van Steenis",
         "url": "https://twitter.com/svsteenis",
         "is_captain": false
-      }
+      },
+      "featured": true
     },
     {
       "title": "Docker for Beginners",
@@ -174,7 +191,8 @@
         "name": "Prakhar Srivastav",
         "url": "https://twitter.com/prakharsriv9",
         "is_captain": false
-      }
+      },
+      "featured": true
     },
     {
       "title": "Discovering Docker Volume Plugins and Applications with VirtualBox",
@@ -183,7 +201,45 @@
         "name": "Clint Kitson",
         "url": "https://twitter.com/clintonskitson",
         "is_captain": false
-      }
+      },
+      "featured": false
+    },
+    {
+      "title": "Monitoring docker container and dockerized applications",
+      "url": "http://www.slideshare.net/AnanthCB/monitoring-docker-container-and-dockerized-applications?_tmc=oC-fMVZxskFghRKSlk9pTVFD01VR86mu9Oh8jvazNhc",
+      "contributor": {
+        "0": {
+          "name": "Anantha Padmanabhan CB",
+          "url": "https://twitter.com/cbananth",
+          "is_captain": false
+        },
+        "1": {
+          "name": "Rahul Krishna Upadhyaya",
+          "url": "https://twitter.com/rakrup_",
+          "is_captain": false
+        },
+        "2": {
+          "name": "Satya Sanjivani Routray",
+          "url": "https://twitter.com/er_sanj007",
+          "is_captain": false
+        },
+        "3": {
+          "name": "Meenakshi Sundaram Lakshmanan",
+          "url": "https://twitter.com/lxmeenakshi1",
+          "is_captain": false
+        }
+      },
+      "featured": false
+    },
+    {
+      "title": "Using Travis CI to test Docker builds",
+      "url": "http://bencane.com/2016/01/11/using-travis-ci-to-test-docker-builds/?_tmc=oC-fMVZxskFghRKSlk9pTVFD01VR86mu9Oh8jvazNhc",
+      "contributor": {
+        "name": "Benjamin Cane",
+        "url": "https://twitter.com/madflojo",
+        "is_captain": false
+      },
+      "featured": false
     }
   ]
 }

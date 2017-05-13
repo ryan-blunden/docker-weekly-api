@@ -2,7 +2,6 @@
   "issue": 117,
   "date": "January 6th, 2016",
   "url": "https://goto.docker.com/Docker-Weekly-01062016.html",
-  "count": -1,
   "notes": "",
   "articles": [
     {
@@ -12,7 +11,8 @@
         "name": "Bruno Borges",
         "url": "https://twitter.com/brunoborges",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How the ThreadFix Team Uses Docker for QA and Support",
@@ -21,7 +21,8 @@
         "name": "Ryan Timmons",
         "url": "https://twitter.com/timmonsryan",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "JUnit integration testing with Docker and Testcontainers",
@@ -30,7 +31,8 @@
         "name": "Richard North",
         "url": "https://twitter.com/whichrich",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Static Sites with Docker",
@@ -39,7 +41,8 @@
         "name": "Ilkka Laukkanen",
         "url": "https://twitter.com/ilkkalaukkanen",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How to dockerize your CUBA app",
@@ -48,7 +51,8 @@
         "name": "Mario David",
         "url": "https://twitter.com/mariomddavid",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Lifecycle Management - Or how to upgrade containers?",
@@ -57,7 +61,8 @@
         "name": "Karim Vaes",
         "url": "https://twitter.com/kvaes",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Splunk Logging Driver for Docker",
@@ -66,7 +71,8 @@
         "name": "Denis Gladkikh",
         "url": "https://twitter.com/outcoldman",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Has Turned Us All into SysAdmins",
@@ -75,7 +81,8 @@
         "name": "Rich Gall",
         "url": "https://twitter.com/richggall",
         "is_captain": false
-      }
+      },
+      "featured": true
     },
     {
       "title": "Deploying the LAMP Stack on Docker Containers",
@@ -84,7 +91,8 @@
         "name": "Tejaswi Juturu",
         "url": "https://www.linkedin.com/in/tejaswi-juturu-64141b31",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Integration test with Docker",
@@ -93,7 +101,8 @@
         "name": "Cristian Arcaroli",
         "url": "https://twitter.com/espinhogr",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Creating a PageRank Analytics Platform Using Spring Boot Microservices",
@@ -102,7 +111,8 @@
         "name": "Kenny Bastani",
         "url": "https://twitter.com/kennybastani",
         "is_captain": false
-      }
+      },
+      "featured": true
     },
     {
       "title": "Containerize golang apps with Docker and Bluemix",
@@ -111,7 +121,8 @@
         "name": "Sing Li",
         "url": "https://plus.google.com/u/0/103041644450979112914/about",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Containers Will Change the Game Server Hosting Industry",
@@ -120,7 +131,8 @@
         "name": "Brendan Fosberry",
         "url": "https://twitter.com/brendanfosberry",
         "is_captain": false
-      }
+      },
+      "featured": true
     },
     {
       "title": "Securing Docker with TLS certificates",
@@ -129,7 +141,8 @@
         "name": "Paul Czarkowski",
         "url": "https://twitter.com/pczarkowski",
         "is_captain": false
-      }
+      },
+      "featured": true
     },
     {
       "title": "Continuous Delivery Pipeline with Docker and Jenkins",
@@ -138,7 +151,8 @@
         "name": "Camilo Ribeiro",
         "url": "https://twitter.com/camiloribeiro",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Introducing dumb-init, an init system for Docker containers",
@@ -147,7 +161,35 @@
         "name": "Chris Kuehl",
         "url": "https://github.com/chriskuehl",
         "is_captain": false
-      }
+      },
+      "featured": true
+    },
+    {
+      "title": "Docker and Security: How do they fit together?",
+      "url": "https://jaxenter.com/docker-and-security-how-do-they-fit-together-122333.html",
+      "contributor": {
+        "0": {
+          "name": "Andreas Schmidt",
+          "url": "https://twitter.com/aschmidt75",
+          "is_captain": false
+        },
+        "1": {
+          "name": "Dustin Huptas",
+          "url": "https://twitter.com/dhpts",
+          "is_captain": false
+        }
+      },
+      "featured": true
+    },
+    {
+      "title": "Docker 101",
+      "url": "https://www.youtube.com/watch?v=YgFPr2F8Ong&feature=youtu.be",
+      "contributor": {
+        "name": "Mike Long",
+        "url": "https://twitter.com/meekrosoft",
+        "is_captain": false
+      },
+      "featured": true
     }
   ]
 }

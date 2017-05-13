@@ -12,7 +12,8 @@
         "name": "Ajeet Singh Raina",
         "url": "https://twitter.com/ajeetsraina",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Getting started with Docker Datacenter",
@@ -21,7 +22,8 @@
         "name": "Vishnu Bharathi",
         "url": "https://twitter.com/scriptnull",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "TensorFlow on Azure Using Docker",
@@ -30,7 +32,8 @@
         "name": "Mike Lanzetta",
         "url": "https://twitter.com/noodlefrenzy",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How To Deploy a Go Web Application with Docker",
@@ -39,7 +42,8 @@
         "name": "Kulshekhar Kabra",
         "url": "https://twitter.com/semaphoreci",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Tackling the app sec white whale with Docker Datacenter and Twistlock",
@@ -48,7 +52,8 @@
         "name": "John Morello",
         "url": "https://twitter.com/twistlockteam",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Alpine Linux and Docker Nautilus Protect Crate Images",
@@ -57,7 +62,8 @@
         "name": "Nils Magnus",
         "url": "https://twitter.com/CrateIO",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker for Mac - Windows",
@@ -66,7 +72,8 @@
         "name": "Antonis Kalipetis",
         "url": "https://twitter.com/akalipetis",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Introduction to Docker",
@@ -75,7 +82,8 @@
         "name": "Adam \u0160tip\u00e1k",
         "url": "https://twitter.com/new_POPE",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker: Run Azure Command-Line Client Container",
@@ -84,7 +92,8 @@
         "name": "Mark J. Miller",
         "url": "https://twitter.com/dvMENTALmadness",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker and .NET Core CLR Release Candidate 2",
@@ -93,7 +102,8 @@
         "name": "Mano Marks",
         "url": "https://twitter.com/manomarks",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker: making our bioinformatics easier and more reproducible",
@@ -102,7 +112,8 @@
         "name": "Alicia Mastretta-Yanes",
         "url": "https://twitter.com/AliciaMstt",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Running Keboola Connection backend in Docker",
@@ -111,7 +122,8 @@
         "name": "Vladim\u00edr Kri\u0161ka",
         "url": "https://twitter.com/ujovlado",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How to Dockerize your Node application",
@@ -120,7 +132,8 @@
         "name": "Luca Mezzalira",
         "url": "https://twitter.com/lucamezzalira",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Booz Allen Helps the GSA Put Your DevOps to Shame",
@@ -129,7 +142,8 @@
         "name": "Chris Riley",
         "url": "https://twitter.com/HoardingInfo",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Running IIS in Windows Docker Container in Amazon EC2",
@@ -138,7 +152,8 @@
         "name": "Prakash P",
         "url": "https://twitter.com/pprakash",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Couchbase Cluster on Docker Swarm using Docker Compose and Docker Machine",
@@ -147,7 +162,8 @@
         "name": "Arun Gupta",
         "url": "https://twitter.com/arungupta",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "The WordPress developer's introduction to Docker",
@@ -156,7 +172,8 @@
         "name": "Toma\u017e Zaman",
         "url": "https://twitter.com/TomazZaman",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "PX-Developer Beta: Scale-Out Storage, Container First",
@@ -165,7 +182,8 @@
         "name": "Eric Han",
         "url": "https://twitter.com/portwx",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Production Docker Swarm on Azure: Why You Should Use PowerShell and Docker Machine",
@@ -174,7 +192,8 @@
         "name": "Elton Stoneman",
         "url": "https://twitter.com/EltonStoneman",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Rapid prototyping with docker-compose",
@@ -183,7 +202,8 @@
         "name": "Alex Ellis",
         "url": "https://twitter.com/alexellisuk",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Have Docker, Will Swarm",
@@ -192,7 +212,8 @@
         "name": "Jacob Blain Christen",
         "url": "https://twitter.com/dweomer",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker \u2764 Parse",
@@ -201,7 +222,8 @@
         "name": "Debokeh",
         "url": "https://twitter.com/katopz",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

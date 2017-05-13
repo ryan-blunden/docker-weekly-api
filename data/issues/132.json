@@ -12,7 +12,8 @@
         "name": "Kenny Bastani",
         "url": "https://twitter.com/kennybastani",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How to deploy RESTful APIs using Node, Express 4 and Docker",
@@ -21,7 +22,8 @@
         "name": "James Higginbotham",
         "url": "https://twitter.com/launchany",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker for your users - Introducing user namespace",
@@ -30,7 +32,8 @@
         "name": "Jean-Tiare Le Bigot",
         "url": "https://twitter.com/oyadutaf",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Automatic Geo-IP Enrichment for Docker Logs",
@@ -39,7 +42,8 @@
         "name": "Stefan Thies",
         "url": "https://twitter.com/seti321",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Deploying Go applications with Docker",
@@ -48,7 +52,8 @@
         "name": "Tit Petric",
         "url": "https://twitter.com/TitPetric",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker and ASP.NET Core: A Webcast",
@@ -57,7 +62,8 @@
         "name": "Shawn Wildermuth",
         "url": "https://twitter.com/ShawnWildermuth",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Monitoring Kafka on Docker Cloud",
@@ -66,7 +72,8 @@
         "name": "Stefan Thies",
         "url": "https://twitter.com/seti321",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "There's Application Virtualization and There's Docker",
@@ -75,7 +82,8 @@
         "name": "Mike Coleman",
         "url": "https://twitter.com/mikegcoleman",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "FairFly Makes Deployment Super Easy with Docker Cloud",
@@ -84,7 +92,8 @@
         "name": "Chris Hines",
         "url": "https://twitter.com/cchines",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "What you need to know about Storage in Docker 1.11 and Swarm 1.2",
@@ -93,7 +102,8 @@
         "name": "Clint Kitson",
         "url": "https://twitter.com/clintonskitson/",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Devops workflow: Node.js + Docker Cloud",
@@ -102,7 +112,8 @@
         "name": "Fran Rios",
         "url": "http://www.franrios.me/",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Quick Start Docker/Swarm on PI Zero",
@@ -111,7 +122,8 @@
         "name": "Alex Ellis",
         "url": "https://twitter.com/alexellisuk",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "The Modern Software Supply Chain Runs on Docker",
@@ -120,7 +132,8 @@
         "name": "Marc Holmes",
         "url": "https://twitter.com/marcholmes",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Alpine based Docker images make a difference in real world apps",
@@ -129,7 +142,8 @@
         "name": "Nick Janetakis",
         "url": "https://twitter.com/nickjanetakis",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Video Whiteboard Series for Docker Universal Control Plane",
@@ -138,7 +152,8 @@
         "name": "Betty Junod",
         "url": "https://twitter.com/bettyjunod",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "How Hedvig software-defined storage integrates with Docker Datacenter",
@@ -147,7 +162,8 @@
         "name": "Suhani Gupta",
         "url": "https://twitter.com/HedvigInc",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Networking",
@@ -156,7 +172,8 @@
         "name": "Samir Bennacer",
         "url": "https://twitter.com/bennacersamir",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Flow \u2013 Walkthrough",
@@ -165,7 +182,8 @@
         "name": "Viktor Farcic",
         "url": "https://twitter.com/vfarcic",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Security, Hardened Containers and a Layered Strategy",
@@ -174,7 +192,8 @@
         "name": "Aater Suleman",
         "url": "https://twitter.com/FutureChips",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }

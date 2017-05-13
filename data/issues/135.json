@@ -12,7 +12,8 @@
         "name": "Sander Verhagen",
         "url": "https://twitter.com/jamasoftware",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker as a Personal Application Runner",
@@ -21,7 +22,8 @@
         "name": "Tony Hirst",
         "url": "https://twitter.com/psychemedia",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Static sites with Docker",
@@ -30,7 +32,8 @@
         "name": "Ilkka Laukkanen",
         "url": "https://twitter.com/ilkkalaukkanen",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker for Mac: First Impressions",
@@ -39,7 +42,8 @@
         "name": "Tom Elliott",
         "url": "https://twitter.com/theotherelliott",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "DevOps Basics: Provisioning Docker in Azure via one Command Line",
@@ -48,7 +52,8 @@
         "name": "Julien Stroheker",
         "url": "https://twitter.com/Ju_Stroh",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Getting Towards Real Sandbox Containers",
@@ -57,7 +62,8 @@
         "name": "Jessie Frazelle",
         "url": "https://twitter.com/jessfraz",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Alpine Linux and Docker Nautilus Protect Crate Images",
@@ -66,7 +72,8 @@
         "name": "Nils Magnus",
         "url": "https://twitter.com/craternils",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "MariaDB and Docker use cases, Part 1",
@@ -75,7 +82,8 @@
         "name": "Guillaume Lefranc",
         "url": "https://twitter.com/tanji",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Building Bridges for Better Cancer Treatment with the Fred Hutchinson Cancer Research Center",
@@ -84,7 +92,8 @@
         "name": "Jeff Barr",
         "url": "https://twitter.com/jeffbarr",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Chaos Monkey for Fun and Profit",
@@ -93,7 +102,8 @@
         "name": "Mathias Lafeldt",
         "url": "https://twitter.com/mlafeldt",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Windows Container Networking",
@@ -102,7 +112,8 @@
         "name": "Jason Messer",
         "url": "https://www.linkedin.com/in/jason-messer-287b0b86",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker Beta for Windows + Microservices project",
@@ -111,7 +122,8 @@
         "name": "Federico Resnizky",
         "url": "https://twitter.com/fresnizky",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Self-hosting a blog with Ghost and Docker",
@@ -120,7 +132,8 @@
         "name": "Erin Dachtler",
         "url": "https://blog.erindachtler.me/",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Official Consul Docker Image",
@@ -129,7 +142,8 @@
         "name": "James Philips",
         "url": "https://twitter.com/slackpad",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Docker inside docker and overview about Jenkins 2",
@@ -138,7 +152,8 @@
         "name": "Gianluca Arbezzano",
         "url": "https://twitter.com/GianArb",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "The agenda for DockerCon 2016 agenda is live",
@@ -147,7 +162,8 @@
         "name": "DockerCon 2016",
         "url": "http://2016.dockercon.com/",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Production Ready Jenkins 2.0 in Two Steps with Docker",
@@ -156,7 +172,8 @@
         "name": "Garland Kan",
         "url": "https://twitter.com/gargar454",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "Containers in Windows Server 2016 TP5",
@@ -165,7 +182,8 @@
         "name": "Mark Wragg",
         "url": "https://twitter.com/markwragg",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "A round-up of my JaxDevOps experience",
@@ -174,7 +192,8 @@
         "name": "Dani\u00ebl van Gils",
         "url": "https://twitter.com/foldingbeauty",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "10 Tips & Tricks with Docker",
@@ -183,7 +202,8 @@
         "name": "Dominique Haas",
         "url": "https://twitter.com/Evild67",
         "is_captain": false
-      }
+      },
+      "featured": false
     },
     {
       "title": "RSpec For Ops Part 4: Test driven Docker",
@@ -192,7 +212,8 @@
         "name": "David Danzilio",
         "url": "https://twitter.com/djdanzilio",
         "is_captain": false
-      }
+      },
+      "featured": false
     }
   ]
 }
