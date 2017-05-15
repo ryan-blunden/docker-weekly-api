@@ -24,7 +24,7 @@ def get_contributors():
                                re.match(ISSUE_FILE_REGEX, issue) is not None]
 
     captains: Dict[str, Dict] = {}
-    with open('data/captains.json', 'r') as f:
+    with open('data/captains/index.json', 'r') as f:
         captains = {captain['name']: captain for captain in json.load(f)}
 
     for issue_file in issues_files:

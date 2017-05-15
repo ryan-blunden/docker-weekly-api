@@ -3,312 +3,364 @@
     "number": 168,
     "title": "Docker Weekly: #168: December 28th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly_12282016.html",
-    "date": "December 28th, 2016"
+    "date": "December 28th, 2016",
+    "link": "/api/v1/issues/168"
   },
   {
     "number": 167,
     "title": "Docker Weekly: #167: December 21st, 2016",
     "url": "https://goto.docker.com/Docker-Weekly_12212016.html",
-    "date": "December 21st, 2016"
+    "date": "December 21st, 2016",
+    "link": "/api/v1/issues/167"
   },
   {
     "number": 166,
     "title": "Docker Weekly: #166: December 14th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly_12142016.html",
-    "date": "December 14th, 2016"
+    "date": "December 14th, 2016",
+    "link": "/api/v1/issues/166"
   },
   {
     "number": 165,
     "title": "Docker Weekly: #165: December 7th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly_1212016.html",
-    "date": "December 7th, 2016"
+    "date": "December 7th, 2016",
+    "link": "/api/v1/issues/165"
   },
   {
     "number": 164,
     "title": "Docker Weekly: #164: November 30rd, 2016",
     "url": "https://goto.docker.com/Docker-Weekly_11302016.html",
-    "date": "November 30rd, 2016"
+    "date": "November 30rd, 2016",
+    "link": "/api/v1/issues/164"
   },
   {
     "number": 163,
     "title": "Docker Weekly: #163: November 23rd, 2016",
     "url": "https://goto.docker.com/Docker-Weekly_11232016.html",
-    "date": "November 23rd, 2016"
+    "date": "November 23rd, 2016",
+    "link": "/api/v1/issues/163"
   },
   {
     "number": 162,
     "title": "Docker Weekly: #162: November 16th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly_11232016.html",
-    "date": "November 16th, 2016"
+    "date": "November 16th, 2016",
+    "link": "/api/v1/issues/162"
   },
   {
     "number": 161,
     "title": "Docker Weekly: #161: November 9th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly_1192016.html",
-    "date": "November 9th, 2016"
+    "date": "November 9th, 2016",
+    "link": "/api/v1/issues/161"
   },
   {
     "number": 160,
     "title": "Docker Weekly: #160: November 3rd, 2016",
     "url": "https://goto.docker.com/Docker-Weekly_1132016.html",
-    "date": "November 3rd, 2016"
+    "date": "November 3rd, 2016",
+    "link": "/api/v1/issues/160"
   },
   {
     "number": 159,
     "title": "Docker Weekly: #159: October 26th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly_10252016.html",
-    "date": "October 26th, 2016"
+    "date": "October 26th, 2016",
+    "link": "/api/v1/issues/159"
   },
   {
     "number": 158,
     "title": "Docker Weekly: #158: October 19th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly_10192016.html",
-    "date": "October 19th, 2016"
+    "date": "October 19th, 2016",
+    "link": "/api/v1/issues/158"
   },
   {
     "number": 157,
     "title": "Docker Weekly: #157: October 12th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly_10122016.html",
-    "date": "October 12th, 2016"
+    "date": "October 12th, 2016",
+    "link": "/api/v1/issues/157"
   },
   {
     "number": 156,
     "title": "Docker Weekly: #156: October 5th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly_1052016.html",
-    "date": "October 5th, 2016"
+    "date": "October 5th, 2016",
+    "link": "/api/v1/issues/156"
   },
   {
     "number": 155,
     "title": "Docker Weekly: #155: September 28th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly_9282016.html",
-    "date": "September 28th, 2016"
+    "date": "September 28th, 2016",
+    "link": "/api/v1/issues/155"
   },
   {
     "number": 154,
     "title": "Docker Weekly: #154: September 22nd, 2016",
     "url": "https://goto.docker.com/Docker-Weekly_9212016.html",
-    "date": "September 22nd, 2016"
+    "date": "September 22nd, 2016",
+    "link": "/api/v1/issues/154"
   },
   {
     "number": 153,
     "title": "Docker Weekly: #153: September 14th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly_9142016.html",
-    "date": "September 14th, 2016"
+    "date": "September 14th, 2016",
+    "link": "/api/v1/issues/153"
   },
   {
     "number": 152,
     "title": "Docker Weekly #152: September 7th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly_9-7-2016.html",
-    "date": "September 7th, 2016"
+    "date": "September 7th, 2016",
+    "link": "/api/v1/issues/152"
   },
   {
     "number": 151,
     "title": "Docker Weekly #151: August 31st, 2016",
     "url": "https://goto.docker.com/Docker-Weekly_8-31-2016.html",
-    "date": "August 31st, 2016"
+    "date": "August 31st, 2016",
+    "link": "/api/v1/issues/151"
   },
   {
     "number": 150,
     "title": "Docker Weekly #150: August 24th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly_8-24-2016.html",
-    "date": "August 24th, 2016"
+    "date": "August 24th, 2016",
+    "link": "/api/v1/issues/150"
   },
   {
     "number": 149,
     "title": "Docker Weekly #149: August 17th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly_Weekly---8-17-2016.html",
-    "date": "August 17th, 2016"
+    "date": "August 17th, 2016",
+    "link": "/api/v1/issues/149"
   },
   {
     "number": 148,
     "title": "Docker Weekly #148: August 10th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-08102016.html",
-    "date": "August 10th, 2016"
+    "date": "August 10th, 2016",
+    "link": "/api/v1/issues/148"
   },
   {
     "number": 147,
     "title": "Docker Weekly #147: August 3rd, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-08032016.html",
-    "date": "August 3rd, 2016"
+    "date": "August 3rd, 2016",
+    "link": "/api/v1/issues/147"
   },
   {
     "number": 146,
     "title": "Docker Weekly #146: July 28th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-07282016.html",
-    "date": "July 28th, 2016"
+    "date": "July 28th, 2016",
+    "link": "/api/v1/issues/146"
   },
   {
     "number": 145,
     "title": "Docker Weekly #145: July 20th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-07202016.html",
-    "date": "July 20th, 2016"
+    "date": "July 20th, 2016",
+    "link": "/api/v1/issues/145"
   },
   {
     "number": 144,
     "title": "Docker Weekly #144: July 13th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-07132016.html",
-    "date": "July 13th, 2016"
+    "date": "July 13th, 2016",
+    "link": "/api/v1/issues/144"
   },
   {
     "number": 143,
     "title": "Docker Weekly #143: July 6th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-07062016.html",
-    "date": "July 6th, 2016"
+    "date": "July 6th, 2016",
+    "link": "/api/v1/issues/143"
   },
   {
     "number": 142,
     "title": "Docker Weekly #142: June 29th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-06292016.html",
-    "date": "June 29th, 2016"
+    "date": "June 29th, 2016",
+    "link": "/api/v1/issues/142"
   },
   {
     "number": 141,
     "title": "Docker Weekly #141: June 24th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-06242016.html",
-    "date": "June 24th, 2016"
+    "date": "June 24th, 2016",
+    "link": "/api/v1/issues/141"
   },
   {
     "number": 140,
     "title": "Docker Weekly #140: June 15th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-06152016.html",
-    "date": "June 15th, 2016"
+    "date": "June 15th, 2016",
+    "link": "/api/v1/issues/140"
   },
   {
     "number": 139,
     "title": "Docker Weekly #139: June 8th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-06082016.html",
-    "date": "June 8th, 2016"
+    "date": "June 8th, 2016",
+    "link": "/api/v1/issues/139"
   },
   {
     "number": 138,
     "title": "Docker Weekly #138: June 1st, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-06012016.html",
-    "date": "June 1st, 2016"
+    "date": "June 1st, 2016",
+    "link": "/api/v1/issues/138"
   },
   {
     "number": 137,
     "title": "Docker Weekly #137: May 26th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-05262016.html",
-    "date": "May 26th, 2016"
+    "date": "May 26th, 2016",
+    "link": "/api/v1/issues/137"
   },
   {
     "number": 136,
     "title": "Docker Weekly #136: May 18th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-05182016.html",
-    "date": "May 18th, 2016"
+    "date": "May 18th, 2016",
+    "link": "/api/v1/issues/136"
   },
   {
     "number": 135,
     "title": "Docker Weekly #135: May 11th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-05112016.html",
-    "date": "May 11th, 2016"
+    "date": "May 11th, 2016",
+    "link": "/api/v1/issues/135"
   },
   {
     "number": 134,
     "title": "Docker Weekly #134: May 4th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-05042016.html",
-    "date": "May 4th, 2016"
+    "date": "May 4th, 2016",
+    "link": "/api/v1/issues/134"
   },
   {
     "number": 133,
     "title": "Docker Weekly #133: April 27th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-04272016.html",
-    "date": "April 27th, 2016"
+    "date": "April 27th, 2016",
+    "link": "/api/v1/issues/133"
   },
   {
     "number": 132,
     "title": "Docker Weekly #132: April 20th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-04202016.html",
-    "date": "April 20th, 2016"
+    "date": "April 20th, 2016",
+    "link": "/api/v1/issues/132"
   },
   {
     "number": 131,
     "title": "Docker Weekly #131: April 13th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-04132016.html",
-    "date": "April 13th, 2016"
+    "date": "April 13th, 2016",
+    "link": "/api/v1/issues/131"
   },
   {
     "number": 130,
     "title": "Docker Weekly #130: April 6th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-04062016.html",
-    "date": "April 6th, 2016"
+    "date": "April 6th, 2016",
+    "link": "/api/v1/issues/130"
   },
   {
     "number": 129,
     "title": "Docker Weekly #129: March 30th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-03302016.html",
-    "date": "March 30th, 2016"
+    "date": "March 30th, 2016",
+    "link": "/api/v1/issues/129"
   },
   {
     "number": 128,
     "title": "Docker Weekly #128: March 23rd, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-03232016.html",
-    "date": "March 23rd, 2016"
+    "date": "March 23rd, 2016",
+    "link": "/api/v1/issues/128"
   },
   {
     "number": 127,
     "title": "Docker Weekly #127: March 16th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-03162016.html",
-    "date": "March 16th, 2016"
+    "date": "March 16th, 2016",
+    "link": "/api/v1/issues/127"
   },
   {
     "number": 126,
     "title": "Docker Weekly #126: March 9th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-03092016.html",
-    "date": "March 9th, 2016"
+    "date": "March 9th, 2016",
+    "link": "/api/v1/issues/126"
   },
   {
     "number": 125,
     "title": "Docker Weekly #125: March 2nd, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-03022016.html",
-    "date": "March 2nd, 2016"
+    "date": "March 2nd, 2016",
+    "link": "/api/v1/issues/125"
   },
   {
     "number": 124,
     "title": "Docker Weekly #124: February 24th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-02242016.html",
-    "date": "February 24th, 2016"
+    "date": "February 24th, 2016",
+    "link": "/api/v1/issues/124"
   },
   {
     "number": 123,
     "title": "Docker Weekly #123: February 17th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-02172016.html",
-    "date": "February 17th, 2016"
+    "date": "February 17th, 2016",
+    "link": "/api/v1/issues/123"
   },
   {
     "number": 122,
     "title": "Docker Weekly #122: February 10th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-02102016.html",
-    "date": "February 10th, 2016"
+    "date": "February 10th, 2016",
+    "link": "/api/v1/issues/122"
   },
   {
     "number": 121,
     "title": "Docker Weekly #121: February 3rd, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-02032016.html",
-    "date": "February 3rd, 2016"
+    "date": "February 3rd, 2016",
+    "link": "/api/v1/issues/121"
   },
   {
     "number": 120,
     "title": "Docker Weekly #120: January 27th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-01272016.html",
-    "date": "January 27th, 2016"
+    "date": "January 27th, 2016",
+    "link": "/api/v1/issues/120"
   },
   {
     "number": 119,
     "title": "Docker Weekly #119: January 20th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-01202016.html",
-    "date": "January 20th, 2016"
+    "date": "January 20th, 2016",
+    "link": "/api/v1/issues/119"
   },
   {
     "number": 118,
     "title": "Docker Weekly #118: January 13th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-01132016.html",
-    "date": "January 13th, 2016"
+    "date": "January 13th, 2016",
+    "link": "/api/v1/issues/118"
   },
   {
     "number": 117,
     "title": "Docker Weekly #117: January 6th, 2016",
     "url": "https://goto.docker.com/Docker-Weekly-01062016.html",
-    "date": "January 6th, 2016"
+    "date": "January 6th, 2016",
+    "link": "/api/v1/issues/117"
   }
 ]

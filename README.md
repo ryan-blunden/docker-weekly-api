@@ -44,3 +44,9 @@ Then in the root of the project, execute `export PYTHONPATH=$PWD` so Python will
 This project is in its infancy and exists as Open Source more for transparency reasons than anything else. As a result, it's not really yet ready for contributors, unless they're ok with the complete lack of documentation about how to get started.
 
 But, this will change once the service is online, working and providing value. At that point, I'll switch gears and focus on how others can take this shell of an idea and turn into something great that hopefully, provides real value to the Docker community.
+
+## WARNING Beware the `bin/get_issue.py` script
+
+Running the `bin/get_issue.py` script may result in replacing complete data with incomplete data!
+
+As not all Docker Weekly issues were able to be automatically parsed, manual work copy-and-paste work was done to finish the population of the `data/issues` files.

@@ -1,0 +1,6 @@
+docker-weekly-api:
+  container_name: docker-weekly-api
+  build: ./
+  ports:
+  - '8080:8080'
+  restart: always
