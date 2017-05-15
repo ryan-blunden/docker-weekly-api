@@ -8,222 +8,266 @@
     {
       "title": "How to run a Windows Docker Engine in Azure",
       "url": "http://sco.lt/72HqE5?_tmc=tnIvurmyraXMBIdoFZjkS7W2KBGNtDqwezjaRA2shtM&track=1",
-      "contributor": {
-        "name": "Stefan Scherer",
-        "url": "https://twitter.com/stefscherer",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Stefan Scherer",
+          "url": "https://twitter.com/stefscherer",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Persistent PostgreSQL inside Docker",
       "url": "http://sco.lt/5aab7h?_tmc=tnIvurmyraXMBIdoFZjkS7W2KBGNtDqwezjaRA2shtM&track=1",
-      "contributor": {
-        "name": "Alen Komljen",
-        "url": "https://twitter.com/crondevelopment",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Alen Komljen",
+          "url": "https://twitter.com/crondevelopment",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Managing Container Configuration with Metadata",
       "url": "http://sco.lt/69mrFh?_tmc=tnIvurmyraXMBIdoFZjkS7W2KBGNtDqwezjaRA2shtM&track=1",
-      "contributor": {
-        "name": "Gareth Rushgrove",
-        "url": "https://twitter.com/garethr",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Gareth Rushgrove",
+          "url": "https://twitter.com/garethr",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Running your own Parse with Azure and Docker",
       "url": "http://sco.lt/50FwTR?_tmc=tnIvurmyraXMBIdoFZjkS7W2KBGNtDqwezjaRA2shtM&track=1",
-      "contributor": {
-        "name": "Felix Rieseberg",
-        "url": "https://twitter.com/felixrieseberg",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Felix Rieseberg",
+          "url": "https://twitter.com/felixrieseberg",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "12 Factor Config for .Net on Mono in a Docker",
       "url": "http://sco.lt/4i5c9J?_tmc=tnIvurmyraXMBIdoFZjkS7W2KBGNtDqwezjaRA2shtM&track=1",
-      "contributor": {
-        "name": "Barry Williams",
-        "url": "https://twitter.com/bazwilliams",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Barry Williams",
+          "url": "https://twitter.com/bazwilliams",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Host your own data with Docker, Owncloud, Caddy and Let's Encrypt",
       "url": "http://sco.lt/8V7Tqj?_tmc=tnIvurmyraXMBIdoFZjkS7W2KBGNtDqwezjaRA2shtM&track=1",
-      "contributor": {
-        "name": "Carlos P\u00e9rez-Aradros",
-        "url": "https://twitter.com/exekias",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Carlos P\u00e9rez-Aradros",
+          "url": "https://twitter.com/exekias",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Orchestrate Docker containers with Tutum",
       "url": "http://sco.lt/6k7Vtx?_tmc=tnIvurmyraXMBIdoFZjkS7W2KBGNtDqwezjaRA2shtM&track=1",
-      "contributor": {
-        "name": "Hanzel Jesheen",
-        "url": "https://github.com/botleg",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Hanzel Jesheen",
+          "url": "https://github.com/botleg",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Building Tiny, Reliable Docker Container Images",
       "url": "http://sco.lt/8Cx9Wb?_tmc=tnIvurmyraXMBIdoFZjkS7W2KBGNtDqwezjaRA2shtM&track=1",
-      "contributor": {
-        "name": "Karl Matthias",
-        "url": "https://twitter.com/relistan",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Karl Matthias",
+          "url": "https://twitter.com/relistan",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Dockerize SQL Server using Windows Server 2016 Containers",
       "url": "http://sco.lt/7umpCT?_tmc=tnIvurmyraXMBIdoFZjkS7W2KBGNtDqwezjaRA2shtM&track=1",
-      "contributor": {
-        "name": "Buc Rogers",
-        "url": "https://twitter.com/BucRogers26th",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Buc Rogers",
+          "url": "https://twitter.com/BucRogers26th",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Register now for early bird pricing",
       "url": "http://2016.dockercon.com/",
-      "contributor": {
-        "name": "submit speaking proposals",
-        "url": "http://2016.dockercon.com/",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "submit speaking proposals",
+          "url": "http://2016.dockercon.com/",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Enable SSL in Jenkins in Docker",
       "url": "http://sco.lt/6AvFlx?_tmc=tnIvurmyraXMBIdoFZjkS7W2KBGNtDqwezjaRA2shtM&track=1",
-      "contributor": {
-        "name": "Johan Haleby",
-        "url": "https://twitter.com/johanhaleby",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Johan Haleby",
+          "url": "https://twitter.com/johanhaleby",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "How to Build for GitHub Enterprise",
       "url": "http://sco.lt/73QEkL?_tmc=tnIvurmyraXMBIdoFZjkS7W2KBGNtDqwezjaRA2shtM&track=1",
-      "contributor": {
-        "name": "Andrew Homeyer",
-        "url": "https://twitter.com/andrewhomeyer",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Andrew Homeyer",
+          "url": "https://twitter.com/andrewhomeyer",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Dockerizing a Ruby on Rails Application",
       "url": "http://sco.lt/6lFuQD?_tmc=tnIvurmyraXMBIdoFZjkS7W2KBGNtDqwezjaRA2shtM&track=1",
-      "contributor": {
-        "name": "Nick Janetakis",
-        "url": "https://twitter.com/nickjanetakis",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Nick Janetakis",
+          "url": "https://twitter.com/nickjanetakis",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Workflows: using Docker Machine and Docker Compose together in development",
       "url": "https://alexanderzeitler.com/articles/docker-machine-and-docker-compose-developer-workflows/",
-      "contributor": {
-        "name": "Alexander Zeitler",
-        "url": "https://twitter.com/alexzeitler_",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Alexander Zeitler",
+          "url": "https://twitter.com/alexzeitler_",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Three New Official Repos Join the Docker Library",
       "url": "http://blog.docker.com/2016/01/three-new-official-repos-join-the-docker-library/",
-      "contributor": {
-        "name": "Mario Ponticello",
-        "url": "https://www.linkedin.com/in/marioponticello",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Mario Ponticello",
+          "url": "https://www.linkedin.com/in/marioponticello",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Playing with Docker Compose and Erlang",
       "url": "http://sco.lt/7ccUsL?_tmc=tnIvurmyraXMBIdoFZjkS7W2KBGNtDqwezjaRA2shtM&track=1",
-      "contributor": {
-        "name": "Christopher Smith",
-        "url": "https://twitter.com/cjsmithie",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Christopher Smith",
+          "url": "https://twitter.com/cjsmithie",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "How to Get Started with Cloudera",
       "url": "http://sco.lt/5IQGnZ?_tmc=tnIvurmyraXMBIdoFZjkS7W2KBGNtDqwezjaRA2shtM&track=1",
-      "contributor": {
-        "name": "Ajitesh Kumar",
-        "url": "https://twitter.com/vitalflux",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Ajitesh Kumar",
+          "url": "https://twitter.com/vitalflux",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Dockerizing Sinatra",
       "url": "http://sco.lt/7KSAYD?_tmc=tnIvurmyraXMBIdoFZjkS7W2KBGNtDqwezjaRA2shtM&track=1",
-      "contributor": {
-        "name": "Jan David",
-        "url": "https://twitter.com/mostawesomejd",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Jan David",
+          "url": "https://twitter.com/mostawesomejd",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Get more out of Bamboo with Docker \u2013 Part 1",
       "url": "http://sco.lt/6T5a65?_tmc=tnIvurmyraXMBIdoFZjkS7W2KBGNtDqwezjaRA2shtM&track=1",
-      "contributor": {
-        "name": "Sander Brienen",
-        "url": "https://twitter.com/gelmir",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Sander Brienen",
+          "url": "https://twitter.com/gelmir",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Runc Containers on the Desktop",
       "url": "http://sco.lt/95S8Uz?_tmc=tnIvurmyraXMBIdoFZjkS7W2KBGNtDqwezjaRA2shtM&track=1",
-      "contributor": {
-        "name": "Jessie Frazelle",
-        "url": "https://twitter.com/frazelledazzell",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Jessie Frazelle",
+          "url": "https://twitter.com/frazelledazzell",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Immutable Delivery",
       "url": "http://sco.lt/8nHoAr?_tmc=tnIvurmyraXMBIdoFZjkS7W2KBGNtDqwezjaRA2shtM&track=1",
-      "contributor": {
-        "name": "John Willis",
-        "url": "https://twitter.com/botchagalupe",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "John Willis",
+          "url": "https://twitter.com/botchagalupe",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Integration Tests with Docker",
       "url": "http://sco.lt/6RxBZp?_tmc=tnIvurmyraXMBIdoFZjkS7W2KBGNtDqwezjaRA2shtM&track=1",
-      "contributor": {
-        "name": "Tom Linford",
-        "url": "https://twitter.com/TomLinford",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Tom Linford",
+          "url": "https://twitter.com/TomLinford",
+          "is_captain": false
+        }
+      ]
     }
   ]
 }

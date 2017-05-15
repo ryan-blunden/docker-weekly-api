@@ -8,212 +8,254 @@
     {
       "title": "3 Node Swarm Cluster in 30 seconds (Docker 1.12)",
       "url": "http://www.johnzaccone.io/3-node-cluster-in-30-seconds/",
-      "contributor": {
-        "name": "John Zaccone",
-        "url": "https://twitter.com/JohnZaccone",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "John Zaccone",
+          "url": "https://twitter.com/JohnZaccone",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Setting up a Mail Forwarder in Docker",
       "url": "https://www.brianchristner.io/setting-up-a-mail-forwarder-in-docker/",
-      "contributor": {
-        "name": "Brian Christner",
-        "url": "https://twitter.com/idomyowntricks",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Brian Christner",
+          "url": "https://twitter.com/idomyowntricks",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Demonstrating Docker 1.12 Service Discovery with Docker Compose",
       "url": "http://collabnix.com/archives/1545",
-      "contributor": {
-        "name": "Ajeet Singh Raina",
-        "url": "https://twitter.com/ajeetsraina",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Ajeet Singh Raina",
+          "url": "https://twitter.com/ajeetsraina",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Develop a Docker Authorization Plugin in Python",
       "url": "http://blog.phymata.com/2016/07/30/develop-a-docker-authz-plugin-in-python/",
-      "contributor": {
-        "name": "Everett Toews",
-        "url": "https://twitter.com/everett_toews?ref_src=twsrc%5Etfw",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Everett Toews",
+          "url": "https://twitter.com/everett_toews?ref_src=twsrc%5Etfw",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Jenkins meets: the corporate proxy",
       "url": "http://blog.alexellis.io/jenkins-meets-the-proxy/",
-      "contributor": {
-        "name": "Alex Ellis",
-        "url": "https://twitter.com/alexellisuk",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Alex Ellis",
+          "url": "https://twitter.com/alexellisuk",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker Swarm - An Analysis Of A Very-Large-Scale Container System",
       "url": "https://blog.online.net/2016/07/29/docker-swarm-an-analysis-of-a-very-large-scale-container-system/",
-      "contributor": {
-        "name": "Chanwit Kaewkasi",
-        "url": "https://twitter.com/chanwit",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Chanwit Kaewkasi",
+          "url": "https://twitter.com/chanwit",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "ghost-blog docker install on a debian 8 VPS running apache2",
       "url": "https://elsebreak.info/ghost-blog-docker/",
-      "contributor": {
-        "name": "Gr\u00e9goire Molveau",
-        "url": "https://twitter.com/GregoireMolveau",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Gr\u00e9goire Molveau",
+          "url": "https://twitter.com/GregoireMolveau",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker 1.12 The Game Changer",
       "url": "http://blog.nigelpoulton.com/docker-1-12-the-game-changer/#utm_source=feed&utm_medium=feed&utm_campaign=feed",
-      "contributor": {
-        "name": "Nigel Poulton",
-        "url": "https://twitter.com/nigelpoulton",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Nigel Poulton",
+          "url": "https://twitter.com/nigelpoulton",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker Podcast",
       "url": "https://soundcloud.com/docker-run",
-      "contributor": {
-        "name": "soundcloud",
-        "url": "https://soundcloud.com/docker-run",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "soundcloud",
+          "url": "https://soundcloud.com/docker-run",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Deploy Horizon Using Docker Cloud & DigitalOcean",
       "url": "http://tutorials.pluralsight.com/devops/deploy-horizon-using-docker-cloud-digitalocean#bAfwkQxFwCUX8gOT.99",
-      "contributor": {
-        "name": "Chris Asche",
-        "url": "http://tutorials.pluralsight.com/author/casche",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Chris Asche",
+          "url": "http://tutorials.pluralsight.com/author/casche",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Analysing Docker projects on Github with BigQuery",
       "url": "http://blog.javabien.net/2016/08/01/analysing-docker-projects-on-github-with-bigquery/",
-      "contributor": {
-        "name": "David Gageot",
-        "url": "https://twitter.com/dgageot",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "David Gageot",
+          "url": "https://twitter.com/dgageot",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "How-to monitor Docker hosts ?",
       "url": "https://opsnotice.xyz/how-to-monitor-docker-hosts/",
-      "contributor": {
-        "name": "Valentin Ouvrard",
-        "url": "https://valentin.ouvrard.it",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Valentin Ouvrard",
+          "url": "https://valentin.ouvrard.it",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Dockerizando applications - Competition",
       "url": "http://techfree.com.br",
-      "contributor": {
-        "name": "Rafael Gomes",
-        "url": "https://twitter.com/gomex",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Rafael Gomes",
+          "url": "https://twitter.com/gomex",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker 1.12, Swarm Mode and orchestration",
       "url": "https://youtu.be/h7a7vhzjElo",
-      "contributor": {
-        "name": "Gianluca Arbezzano",
-        "url": "https://twitter.com/gianarb",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Gianluca Arbezzano",
+          "url": "https://twitter.com/gianarb",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Easy Docker Orchestration With Docker 1.12, AWS EFS And The Swarm Mode",
       "url": "https://medium.com/@eon01/easy-docker-orchestration-with-docker-1-12-aws-efs-and-the-swarm-mode-87d51b6d5ad2#.q1wr34drc",
-      "contributor": {
-        "name": "Aymen El Amri",
-        "url": "https://twitter.com/eon01",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Aymen El Amri",
+          "url": "https://twitter.com/eon01",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Service Discovery and Load balancing Internals in Docker 1.12",
       "url": "https://sreeninet.wordpress.com/2016/07/29/service-discovery-and-load-balancing-internals-in-docker-1-12/",
-      "contributor": {
-        "name": "Sreenivas Makam",
-        "url": "https://twitter.com/srmakam",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Sreenivas Makam",
+          "url": "https://twitter.com/srmakam",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker as a (workstation) service",
       "url": "https://8thlight.com/blog/kofi-gumbs/2016/07/27/docker-as-a-workstation-service.html",
-      "contributor": {
-        "name": "Kofi Gumbs",
-        "url": "https://twitter.com/hkgumbs",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Kofi Gumbs",
+          "url": "https://twitter.com/hkgumbs",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Weekly Roundup: Top 5 Most Popular Posts",
       "url": "https://blog.docker.com/2016/07/weekly-roundup-top-5-most-popular-posts/",
-      "contributor": {
-        "name": "Cari Scardina",
-        "url": "https://twitter.com/Cari_Marilyn",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Cari Scardina",
+          "url": "https://twitter.com/Cari_Marilyn",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "How Service Discovery works under Docker Engine 1.12",
       "url": "http://collabnix.com/archives/1504",
-      "contributor": {
-        "name": "Ajeet Singh Raina",
-        "url": "https://twitter.com/ajeetsraina",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Ajeet Singh Raina",
+          "url": "https://twitter.com/ajeetsraina",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Building a CaaS for the enterprise. Part 2",
       "url": "https://scottydoesntknow.io/building-a-caas-for-the-enterprise-part-2/",
-      "contributor": {
-        "name": "Scott Coulton",
-        "url": "https://twitter.com/scottcoulton",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Scott Coulton",
+          "url": "https://twitter.com/scottcoulton",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Bring Linux apps to the Mac Desktop with Docker",
       "url": "http://blog.alexellis.io/linux-desktop-on-mac/",
-      "contributor": {
-        "name": "Alex Ellis",
-        "url": "https://twitter.com/alexellisuk",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Alex Ellis",
+          "url": "https://twitter.com/alexellisuk",
+          "is_captain": false
+        }
+      ]
     }
   ]
 }

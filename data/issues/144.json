@@ -8,152 +8,182 @@
     {
       "title": "Deploy a service with Swarm mode of Engine 1.12",
       "url": "http://lucjuggery.com/blog/?p=582",
-      "contributor": {
-        "name": "Luc Juggery",
-        "url": "https://twitter.com/lucjuggery",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Luc Juggery",
+          "url": "https://twitter.com/lucjuggery",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Dockerize a Rails 5, Postgres, Redis, Sidekiq and Action Cable Application",
       "url": "http://nickjanetakis.com/blog/dockerize-a-rails-5-postgres-redis-sidekiq-action-cable-app-with-docker-compose",
-      "contributor": {
-        "name": "Nick Janetakis",
-        "url": "https://twitter.com/nickjanetakis",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Nick Janetakis",
+          "url": "https://twitter.com/nickjanetakis",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "How I setup a Raspberry Pi 3 Cluster Using The New Docker Swarm Mode In 29 Minutes",
       "url": "https://medium.com/@bossjones/how-i-setup-a-raspberry-pi-3-cluster-using-the-new-docker-swarm-mode-in-29-minutes-aa0e4f3b1768#.q85p03kl4",
-      "contributor": {
-        "name": "Malcolm Jones",
-        "url": "https://twitter.com/bossjones",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Malcolm Jones",
+          "url": "https://twitter.com/bossjones",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Our Review of Docker for Mac! - Usersnap",
       "url": "http://usersnap.com/blog/docker-mac-review/",
-      "contributor": {
-        "name": "Thomas Peham",
-        "url": "https://twitter.com/tompeham",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Thomas Peham",
+          "url": "https://twitter.com/tompeham",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Production Meteor and Node, Using Docker, Part V",
       "url": "https://projectricochet.com/blog/production-meteor-and-node-using-docker-part-v#.V4QxFZMrJE4",
-      "contributor": {
-        "name": "Kevin Kaland",
-        "url": "https://twitter.com/wizonesolutions",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Kevin Kaland",
+          "url": "https://twitter.com/wizonesolutions",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Now Streaming: Booz Allen Hamilton\u2019s Nirmal Mehta Talks Jenkins, Docker, DevOps and More on DevOps Radio",
       "url": "https://www.cloudbees.com/blog/booz-allen-hamilton-nirmal-mehta-talks-jenkins-docker-devops-and-more-devops-radio",
-      "contributor": {
-        "name": "Heidi Gilmore",
-        "url": "https://twitter.com/hgilmore",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Heidi Gilmore",
+          "url": "https://twitter.com/hgilmore",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Using Honcho to Create a Multi-Process Docker Container",
       "url": "https://blog.codeship.com/using-honcho-create-multi-process-docker-container/",
-      "contributor": {
-        "name": "Benjamin Cane",
-        "url": "https://twitter.com/madflojo",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Benjamin Cane",
+          "url": "https://twitter.com/madflojo",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker Services, Stack and Distributed Application Bundle",
       "url": "http://blog.couchbase.com/2016/july/docker-services-stack-distributed-application-bundle",
-      "contributor": {
-        "name": "Arun Gupta",
-        "url": "https://twitter.com/arungupta",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Arun Gupta",
+          "url": "https://twitter.com/arungupta",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Life and death of a container \u2014 Medium",
       "url": "https://medium.com/@lherrera/life-and-death-of-a-container-146dfc62f808#.ukndvdrj8",
-      "contributor": {
-        "name": "Luis Herrera",
-        "url": "https://twitter.com/lherrerabenitez",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Luis Herrera",
+          "url": "https://twitter.com/lherrerabenitez",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Get Bash completion for Docker Mac",
       "url": "http://blog.alexellis.io/docker-mac-bash-completion/",
-      "contributor": {
-        "name": "Alex Ellis",
-        "url": "https://twitter.com/alexellisuk",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Alex Ellis",
+          "url": "https://twitter.com/alexellisuk",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker Daemon Log with Docker for Mac",
       "url": "http://blog.couchbase.com/2016/july/docker-daemon-log-mac",
-      "contributor": {
-        "name": "Arun Gupta",
-        "url": "https://twitter.com/arungupta",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Arun Gupta",
+          "url": "https://twitter.com/arungupta",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Deploy ELK with Docker | Exoscale blog",
       "url": "https://www.exoscale.ch/syslog/2016/07/11/elk-docker/",
-      "contributor": {
-        "name": "Mathieu Buffenoir",
-        "url": "https://twitter.com/mbuffenoir",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Mathieu Buffenoir",
+          "url": "https://twitter.com/mbuffenoir",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "A checklist for Docker in the Enterprise",
       "url": "https://zwischenzugs.wordpress.com/2016/07/08/a-checklist-for-docker-in-the-enterprise/",
-      "contributor": {
-        "name": "Ian Miell",
-        "url": "https://twitter.com/ianmiell/",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Ian Miell",
+          "url": "https://twitter.com/ianmiell/",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Getting Started with Docker for AWS and Scaling Nodes",
       "url": "http://blog.couchbase.com/2016/july/docker-for-aws-getting-started-scaling-nodes",
-      "contributor": {
-        "name": "Arun Gupta",
-        "url": "https://twitter.com/search?q=Arun%20Gupta&src=typd",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Arun Gupta",
+          "url": "https://twitter.com/search?q=Arun%20Gupta&src=typd",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker: Taming the Beast - Part I",
       "url": "http://nschoe.com/articles/2016-05-26-Docker-Taming-the-Beast-Part-1.html",
-      "contributor": {
-        "name": "Nicolas Schoemaeker",
-        "url": "https://twitter.com/ns_schoe?ref_src=twsrc%5Etfw",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Nicolas Schoemaeker",
+          "url": "https://twitter.com/ns_schoe?ref_src=twsrc%5Etfw",
+          "is_captain": false
+        }
+      ]
     }
   ]
 }

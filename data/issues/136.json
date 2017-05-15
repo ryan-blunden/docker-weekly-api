@@ -8,222 +8,266 @@
     {
       "title": "Implementing Docker-Datacenter-In-A-Box (Container-as-a-Service) on VMware ESXi platform",
       "url": "http://collabnix.com/archives/1149",
-      "contributor": {
-        "name": "Ajeet Singh Raina",
-        "url": "https://twitter.com/ajeetsraina",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Ajeet Singh Raina",
+          "url": "https://twitter.com/ajeetsraina",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Getting started with Docker Datacenter",
       "url": "http://blog.shippable.com/getting-started-with-docker-datacenter",
-      "contributor": {
-        "name": "Vishnu Bharathi",
-        "url": "https://twitter.com/scriptnull",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Vishnu Bharathi",
+          "url": "https://twitter.com/scriptnull",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "TensorFlow on Azure Using Docker",
       "url": "http://www.mikelanzetta.com/2015/12/tensorflow-on-azure-using-docker/",
-      "contributor": {
-        "name": "Mike Lanzetta",
-        "url": "https://twitter.com/noodlefrenzy",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Mike Lanzetta",
+          "url": "https://twitter.com/noodlefrenzy",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "How To Deploy a Go Web Application with Docker",
       "url": "https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker",
-      "contributor": {
-        "name": "Kulshekhar Kabra",
-        "url": "https://twitter.com/semaphoreci",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Kulshekhar Kabra",
+          "url": "https://twitter.com/semaphoreci",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Tackling the app sec white whale with Docker Datacenter and Twistlock",
       "url": "https://www.twistlock.com/2016/05/17/tackling-app-sec-white-whale-docker-datacenter-twistlock/",
-      "contributor": {
-        "name": "John Morello",
-        "url": "https://twitter.com/twistlockteam",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "John Morello",
+          "url": "https://twitter.com/twistlockteam",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Alpine Linux and Docker Nautilus Protect Crate Images",
       "url": "https://crate.io/a/alpine-linux-and-docker-nautilus-protect-crate/",
-      "contributor": {
-        "name": "Nils Magnus",
-        "url": "https://twitter.com/CrateIO",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Nils Magnus",
+          "url": "https://twitter.com/CrateIO",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker for Mac - Windows",
       "url": "https://speakerdeck.com/akalipetis/docker-for-mac-windows",
-      "contributor": {
-        "name": "Antonis Kalipetis",
-        "url": "https://twitter.com/akalipetis",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Antonis Kalipetis",
+          "url": "https://twitter.com/akalipetis",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Introduction to Docker",
       "url": "http://www.slideshare.net/AdamStipak/itroduction-to-docker",
-      "contributor": {
-        "name": "Adam \u0160tip\u00e1k",
-        "url": "https://twitter.com/new_POPE",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Adam \u0160tip\u00e1k",
+          "url": "https://twitter.com/new_POPE",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker: Run Azure Command-Line Client Container",
       "url": "http://www.developmentalmadness.com/2016/05/17/docker-run-azure-command-line-client-container/",
-      "contributor": {
-        "name": "Mark J. Miller",
-        "url": "https://twitter.com/dvMENTALmadness",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Mark J. Miller",
+          "url": "https://twitter.com/dvMENTALmadness",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker and .NET Core CLR Release Candidate 2",
       "url": "https://blog.docker.com/2016/05/docker-net-core-clr-rc2/",
-      "contributor": {
-        "name": "Mano Marks",
-        "url": "https://twitter.com/manomarks",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Mano Marks",
+          "url": "https://twitter.com/manomarks",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker: making our bioinformatics easier and more reproducible",
       "url": "http://www.molecularecologist.com/2016/05/docker-making-our-bioinformatics-easier-and-more-reproducible/",
-      "contributor": {
-        "name": "Alicia Mastretta-Yanes",
-        "url": "https://twitter.com/AliciaMstt",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Alicia Mastretta-Yanes",
+          "url": "https://twitter.com/AliciaMstt",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Running Keboola Connection backend in Docker",
       "url": "https://500.keboola.com/running-keboola-connection-backend-in-docker-13336979a13e#.nxl20zic5",
-      "contributor": {
-        "name": "Vladim\u00edr Kri\u0161ka",
-        "url": "https://twitter.com/ujovlado",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Vladim\u00edr Kri\u0161ka",
+          "url": "https://twitter.com/ujovlado",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "How to Dockerize your Node application",
       "url": "https://lucamezzalira.com/2016/04/03/how-to-dockerize-your-node-application/",
-      "contributor": {
-        "name": "Luca Mezzalira",
-        "url": "https://twitter.com/lucamezzalira",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Luca Mezzalira",
+          "url": "https://twitter.com/lucamezzalira",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Booz Allen Helps the GSA Put Your DevOps to Shame",
       "url": "http://devops.com/2016/05/13/booz-allen-helps-gsa-put-devops-shame/",
-      "contributor": {
-        "name": "Chris Riley",
-        "url": "https://twitter.com/HoardingInfo",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Chris Riley",
+          "url": "https://twitter.com/HoardingInfo",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Running IIS in Windows Docker Container in Amazon EC2",
       "url": "https://pprakash.me/tech/2016/05/15/running-iis-in-windows-docker-container-in-amazon-ec2/",
-      "contributor": {
-        "name": "Prakash P",
-        "url": "https://twitter.com/pprakash",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Prakash P",
+          "url": "https://twitter.com/pprakash",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Couchbase Cluster on Docker Swarm using Docker Compose and Docker Machine",
       "url": "http://blog.couchbase.com/2016/may/couchbase-cluster-docker-swarm-compose-machine",
-      "contributor": {
-        "name": "Arun Gupta",
-        "url": "https://twitter.com/arungupta",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Arun Gupta",
+          "url": "https://twitter.com/arungupta",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "The WordPress developer's introduction to Docker",
       "url": "https://codeable.io/wordpress-developers-intro-docker/",
-      "contributor": {
-        "name": "Toma\u017e Zaman",
-        "url": "https://twitter.com/TomazZaman",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Toma\u017e Zaman",
+          "url": "https://twitter.com/TomazZaman",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "PX-Developer Beta: Scale-Out Storage, Container First",
       "url": "http://portworx.com/px-dev-beta/",
-      "contributor": {
-        "name": "Eric Han",
-        "url": "https://twitter.com/portwx",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Eric Han",
+          "url": "https://twitter.com/portwx",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Production Docker Swarm on Azure: Why You Should Use PowerShell and Docker Machine",
       "url": "https://blog.sixeyed.com/production-docker-swarm-on-azure-why-you-should-use-powershell-and-docker-machine/",
-      "contributor": {
-        "name": "Elton Stoneman",
-        "url": "https://twitter.com/EltonStoneman",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Elton Stoneman",
+          "url": "https://twitter.com/EltonStoneman",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Rapid prototyping with docker-compose",
       "url": "http://blog.alexellis.io/rapid-prototype-docker-compose/",
-      "contributor": {
-        "name": "Alex Ellis",
-        "url": "https://twitter.com/alexellisuk",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Alex Ellis",
+          "url": "https://twitter.com/alexellisuk",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Have Docker, Will Swarm",
       "url": "https://medium.com/on-docker/have-docker-will-swarm-eafae7b58461#.gn3q1uxbh",
-      "contributor": {
-        "name": "Jacob Blain Christen",
-        "url": "https://twitter.com/dweomer",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Jacob Blain Christen",
+          "url": "https://twitter.com/dweomer",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker \u2764 Parse",
       "url": "https://medium.com/@katopz/docker-parse-782d27761e24#.uych3qkdx",
-      "contributor": {
-        "name": "Debokeh",
-        "url": "https://twitter.com/katopz",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Debokeh",
+          "url": "https://twitter.com/katopz",
+          "is_captain": false
+        }
+      ]
     }
   ]
 }

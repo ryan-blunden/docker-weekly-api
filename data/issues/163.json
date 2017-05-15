@@ -8,32 +8,38 @@
     {
       "title": "Get started with Docker on 64-bit ARM",
       "url": "http://email.docker.com/qjLF0T0kKQ0I6B03J04s00t",
-      "contributor": {
-        "name": "Alex Ellis",
-        "url": "http://email.docker.com/XTK04LJ0I000LB6kt03jFn0",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Alex Ellis",
+          "url": "http://email.docker.com/XTK04LJ0I000LB6kt03jFn0",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "We hosted Docker Global Mentor Week in London and New York! Here's what happened...",
       "url": "http://email.docker.com/v06k0IBh0TKLF4FjJ03t000",
-      "contributor": {
-        "name": "Benjamin Wootton",
-        "url": "http://email.docker.com/GjJ0LB30kG6iF0TK00004It",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Benjamin Wootton",
+          "url": "http://email.docker.com/GjJ0LB30kG6iF0TK00004It",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Global Mentor Week Success",
       "url": "http://email.docker.com/Lt63LJ00j0jB0FHk40K0T0I",
-      "contributor": {
-        "name": "John Zaccone",
-        "url": "http://email.docker.com/Y0T6B0II400tk003KJF0kLj",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "John Zaccone",
+          "url": "http://email.docker.com/Y0T6B0II400tk003KJF0kLj",
+          "is_captain": false
+        }
+      ]
     }
   ]
 }

@@ -8,152 +8,182 @@
     {
       "title": "Dockerizing a multi-component Open Data app",
       "url": "http://www.slideshare.net/stergiosAth/dockerizing-a-multicomponent-open-data-app",
-      "contributor": {
-        "name": "Stergios Tsiafou",
-        "url": "https://twitter.com/StergiosTsiafou",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Stergios Tsiafou",
+          "url": "https://twitter.com/StergiosTsiafou",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Automated Docker Image Builds With Multiple Tags",
       "url": "http://www.windsock.io/automated-docker-image-builds-with-multiple-tags/",
-      "contributor": {
-        "name": "Nigel Brown",
-        "url": "https://twitter.com/n_brownuk",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Nigel Brown",
+          "url": "https://twitter.com/n_brownuk",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Raspberry Pi Hive Mind",
       "url": "http://hackaday.com/2016/08/29/raspberry-pi-hive-mind/",
-      "contributor": {
-        "name": "Hackaday",
-        "url": "https://twitter.com/hackaday",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Hackaday",
+          "url": "https://twitter.com/hackaday",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Higher Order Infrastructure - Microservices on the Docker Swarm",
       "url": "https://www.youtube.com/watch?v=eQ-XMDzuvxY",
-      "contributor": {
-        "name": "Nicolas Paolucci",
-        "url": "https://twitter.com/durdn",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Nicolas Paolucci",
+          "url": "https://twitter.com/durdn",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "A Beginner's Guide to the Dockerfile",
       "url": "https://blog.codeship.com/a-beginners-guide-to-the-dockerfile/",
-      "contributor": {
-        "name": "Chris Chinch",
-        "url": "https://twitter.com/ChrisChinch",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Chris Chinch",
+          "url": "https://twitter.com/ChrisChinch",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "How To Build Docker Images Automatically With Jenkins Pipeline",
       "url": "http://blog.nimbleci.com/2016/08/31/how-to-build-docker-images-automatically-with-jenkins-pipeline/",
-      "contributor": {
-        "name": "Emmet O'Grady",
-        "url": "https://twitter.com/EmmetOGrady",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Emmet O'Grady",
+          "url": "https://twitter.com/EmmetOGrady",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "How To Build a Local Development Environment Using Docker",
       "url": "http://www.masterzendframework.com/docker-development-environment/",
-      "contributor": {
-        "name": "Matthew Setter",
-        "url": "https://twitter.com/@settermjd",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Matthew Setter",
+          "url": "https://twitter.com/@settermjd",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker 1.12 \u2014 A Swarm In A Teacup",
       "url": "https://medium.com/@benjaminwootton/docker-1-12-a-swarm-in-a-teacup-bc2f5a6fe3db#.oz471c1hq",
-      "contributor": {
-        "name": "Benjamin Woottton",
-        "url": "https://twitter.com/benjaminwootton",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Benjamin Woottton",
+          "url": "https://twitter.com/benjaminwootton",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "What\u2019s New in Docker 1.12? The Top 5 Features You Should Know",
       "url": "http://blog.takipi.com/whats-new-in-docker-1-12-the-top-5-features-you-should-know/",
-      "contributor": {
-        "name": "OverOps",
-        "url": "https://twitter.com/takipid",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "OverOps",
+          "url": "https://twitter.com/takipid",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Enforcing Segregation Of Duty With Docker UCP & DTR",
       "url": "http://blog.contino.io/blog/enforcing-segregation-of-duty-access-control-with-docker-universal-control-plane-trusted-registry",
-      "contributor": {
-        "name": "Benjamin Woottton",
-        "url": "https://twitter.com/benjaminwootton",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Benjamin Woottton",
+          "url": "https://twitter.com/benjaminwootton",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Hadoop for .NET Developers with Docker",
       "url": "https://blog.sixeyed.com/hadoop-for-net-developers/",
-      "contributor": {
-        "name": "Elton Stoneman",
-        "url": "https://twitter.com/EltonStoneman",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Elton Stoneman",
+          "url": "https://twitter.com/EltonStoneman",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "A Peek into the Ultra-Exclusive Docker Captains Community",
       "url": "http://thenewstack.io/a-peek-into-the-ultra-exclusive-docker-captains-community/",
-      "contributor": {
-        "name": "TC Currie",
-        "url": "https://twitter.com/TCCurrie",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "TC Currie",
+          "url": "https://twitter.com/TCCurrie",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "What Is Docker?",
       "url": "http://techfieldday.com/video/what-is-docker-with-mike-coleman/",
-      "contributor": {
-        "name": "Tech Field Day",
-        "url": "http://techfieldday.com/video/what-is-docker-with-mike-coleman/",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Tech Field Day",
+          "url": "http://techfieldday.com/video/what-is-docker-with-mike-coleman/",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Build and extend Docker container images with middleware functions",
       "url": "http://www.ibm.com/developerworks/library/mw-1608-tost-trs/index.html",
-      "contributor": {
-        "name": "Andre Tost",
-        "url": "https://twitter.com/andretost",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Andre Tost",
+          "url": "https://twitter.com/andretost",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Using Docker to build a Computing cluster with ARM devices",
       "url": "http://www.vivekjuneja.in/2016/08/29/arm-cloud-cluster/",
-      "contributor": {
-        "name": "Vivek Juneja",
-        "url": "https://twitter.com/vivekjuneja",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Vivek Juneja",
+          "url": "https://twitter.com/vivekjuneja",
+          "is_captain": false
+        }
+      ]
     }
   ]
 }

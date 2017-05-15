@@ -8,22 +8,26 @@
     {
       "title": "Dockerize Go Applications",
       "url": "http://thenewstack.io/dockerize-go-applications/",
-      "contributor": {
-        "name": "Nick McCrory",
-        "url": "https://twitter.com/nickmccrory",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Nick McCrory",
+          "url": "https://twitter.com/nickmccrory",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Forwarding Logs From All Containers Running Anywhere Inside A Docker Swarm Cluster",
       "url": "https://technologyconversations.com/2016/10/24/forwarding-logs-from-all-containers-running-anywhere-inside-a-docker-swarm-cluster/",
-      "contributor": {
-        "name": "Viktor Farcic",
-        "url": "https://twitter.com/vfarcic",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Viktor Farcic",
+          "url": "https://twitter.com/vfarcic",
+          "is_captain": false
+        }
+      ]
     }
   ]
 }

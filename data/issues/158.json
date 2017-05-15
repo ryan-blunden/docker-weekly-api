@@ -8,32 +8,38 @@
     {
       "title": "The Point Of Docker Is More Than Containers",
       "url": "http://www.forbes.com/sites/justinwarren/2016/10/16/the-point-of-docker-is-more-than-containers/#78753f2d496a",
-      "contributor": {
-        "name": "Justin Warren",
-        "url": "https://twitter.com/jpwarren",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Justin Warren",
+          "url": "https://twitter.com/jpwarren",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker for AWS - Docker Singapore",
       "url": "https://www.youtube.com/watch?v=ypYnSnOPkJo&feature=youtu.be",
-      "contributor": {
-        "name": "Vincent De Smet",
-        "url": "https://twitter.com/vincentdesmet",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Vincent De Smet",
+          "url": "https://twitter.com/vincentdesmet",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Keeping Shipping your blog with Docker volumes",
       "url": "http://blog.alexellis.io/keeping-shipping-your-blog/",
-      "contributor": {
-        "name": "Alex Ellis",
-        "url": "https://twitter.com/alexellisuk",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Alex Ellis",
+          "url": "https://twitter.com/alexellisuk",
+          "is_captain": false
+        }
+      ]
     }
   ]
 }

@@ -8,292 +8,350 @@
     {
       "title": "Enabling Portability of Workloads And Fighting Lock-In, with Docker",
       "url": "https://blog.docker.com/2016/03/enabling-workload-portability-fighting-lock-in-docker/",
-      "contributor": {
-        "name": "Chris Hines",
-        "url": "https://twitter.com/cchines",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Chris Hines",
+          "url": "https://twitter.com/cchines",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Dockerise your PHP application with Nginx and PHP7-FPM",
       "url": "http://geekyplatypus.com/dockerise-your-php-application-with-nginx-and-php7-fpm/",
-      "contributor": {
-        "name": "Mike Chernev",
-        "url": "https://twitter.com/MikeChernev",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Mike Chernev",
+          "url": "https://twitter.com/MikeChernev",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Deploying Docker Swarm with Puppet",
       "url": "https://puppetlabs.com/blog/deploying-docker-swarm-with-puppet",
-      "contributor": {
-        "name": "Scott Coulton",
-        "url": "https://twitter.com/scottcoulton",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Scott Coulton",
+          "url": "https://twitter.com/scottcoulton",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Federated Clusters with Docker Swarm",
       "url": "https://medium.com/on-docker/federated-clusters-with-docker-swarm-dce5516ecc8d#.bjuv92jbc",
-      "contributor": {
-        "name": "Jeff Nickoloff",
-        "url": "https://twitter.com/allingeek",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Jeff Nickoloff",
+          "url": "https://twitter.com/allingeek",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Build a Pi cluster with Docker Swarm",
       "url": "http://blog.alexellis.io/linux-user-developer-magazine/",
-      "contributor": {
-        "name": "Alex Ellis",
-        "url": "https://twitter.com/alexellisuk",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Alex Ellis",
+          "url": "https://twitter.com/alexellisuk",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Adding Git and Docker Machine Awareness to OS X",
       "url": "http://blog.scottlowe.org/2016/03/28/adding-git-docker-machine-awareness-osx/",
-      "contributor": {
-        "name": "Scott Lowe",
-        "url": "https://twitter.com/scott_lowe",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Scott Lowe",
+          "url": "https://twitter.com/scott_lowe",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Creating my blog with Docker, Hugo, and Caddy",
       "url": "https://stp5.net/blog/post/docker-hugo-caddy/",
-      "contributor": {
-        "name": "Stephen Price",
-        "url": "https://twitter.com/steeef",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Stephen Price",
+          "url": "https://twitter.com/steeef",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker Swarm and etcd with IPv6",
       "url": "http://www.debug-all.com/?p=148",
-      "contributor": {
-        "name": "Shannon McFarland",
-        "url": "https://twitter.com/eyepv6",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Shannon McFarland",
+          "url": "https://twitter.com/eyepv6",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "//build 2016 Container Announcements: Hyper-V Containers and Windows 10 and PowerShell For Docker!",
       "url": "https://blogs.technet.microsoft.com/virtualization/2016/04/01/build-2016-container-announcements-hyper-v-containers-and-windows-10-and-powershell-for-docker/",
-      "contributor": {
-        "name": "Taylor Brown",
-        "url": "https://twitter.com/Taylorb_msft",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Taylor Brown",
+          "url": "https://twitter.com/Taylorb_msft",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Hello Docker Cloud World",
       "url": "http://stefan.kapferer.ch/2016/03/11/hello-docker-cloud-world/",
-      "contributor": {
-        "name": "Stefan Kapferer",
-        "url": "https://twitter.com/stefankapferer",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Stefan Kapferer",
+          "url": "https://twitter.com/stefankapferer",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Installing the Docker Client CLI on 32-bit Windows",
       "url": "https://thesocietea.org/2016/04/installing-the-docker-client-cli-on-32-bit-windows/",
-      "contributor": {
-        "name": "Aaron Krauss",
-        "url": "https://twitter.com/thecodeboss",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Aaron Krauss",
+          "url": "https://twitter.com/thecodeboss",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker and Travis-CI",
       "url": "http://www.gizra.com/content/docker-travis-ci/",
-      "contributor": {
-        "name": "Nir Galon",
-        "url": "https://twitter.com/nirgn975",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Nir Galon",
+          "url": "https://twitter.com/nirgn975",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker & Azure : Test driving the azure file storage volume driver",
       "url": "https://kvaes.wordpress.com/2016/03/23/docker-azure-testdriving-the-azure-file-storage-volume-driver/",
-      "contributor": {
-        "name": "Karim Vaes",
-        "url": "https://twitter.com/kvaes",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Karim Vaes",
+          "url": "https://twitter.com/kvaes",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "R Docker tutorial",
       "url": "http://ropenscilabs.github.io/r-docker-tutorial/",
-      "contributor": {
-        "name": "ropenscilabs",
-        "url": "https://t.co/mZgjPK6l4p",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "ropenscilabs",
+          "url": "https://t.co/mZgjPK6l4p",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Using Multiple Docker Containers",
       "url": "http://www.javamagazine.mozaicreader.com/JanFeb2016#&pageSet=72&page=0",
-      "contributor": {
-        "name": "Arun Gupta",
-        "url": "https://twitter.com/arungupta",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Arun Gupta",
+          "url": "https://twitter.com/arungupta",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Review - Docker for Mac",
       "url": "https://www.brianchristner.io/review-docker-for-mac/",
-      "contributor": {
-        "name": "Brian Christner",
-        "url": "https://twitter.com/idomyowntricks",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Brian Christner",
+          "url": "https://twitter.com/idomyowntricks",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Running a Tor Hidden Service Using Docker",
       "url": "http://jascha.me/2016/03/29/running-a-tor-hidden-service-using-docker/",
-      "contributor": {
-        "name": "Jascha Wanger",
-        "url": "https://twitter.com/jascha",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Jascha Wanger",
+          "url": "https://twitter.com/jascha",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Using MozJPEG via Docker",
       "url": "http://ariya.ofilabs.com/2016/03/using-mozjpeg-via-docker.html",
-      "contributor": {
-        "name": "Ariya Hidayat",
-        "url": "https://twitter.com/AriyaHidayat",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Ariya Hidayat",
+          "url": "https://twitter.com/AriyaHidayat",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Deploying REST APIs to Docker Using Ruby and Sinatra",
       "url": "http://blog.cloud66.com/deploying-rest-apis-to-docker-using-ruby-and-sinatra/",
-      "contributor": {
-        "name": "James Higginbotham",
-        "url": "https://twitter.com/launchany",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "James Higginbotham",
+          "url": "https://twitter.com/launchany",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Multiple Deployments with Wercker",
       "url": "https://ig.nore.me/2016/04/multiple-deployments-with-wercker/",
-      "contributor": {
-        "name": "Arjen Schwarz",
-        "url": "https://twitter.com/ArjenSchwarz",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Arjen Schwarz",
+          "url": "https://twitter.com/ArjenSchwarz",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "How to live inside a docker container?",
       "url": "https://scene-si.org/2016/04/01/how-to-live-inside-a-docker-container/",
-      "contributor": {
-        "name": "Tit Petric",
-        "url": "https://twitter.com/TitPetric",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Tit Petric",
+          "url": "https://twitter.com/TitPetric",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "9 Critical Decisions for Running Docker in Production",
       "url": "https://t.co/88nX8IDrpT",
-      "contributor": {
-        "name": "James Higginbotham",
-        "url": "https://twitter.com/launchany",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "James Higginbotham",
+          "url": "https://twitter.com/launchany",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker Swarm on AWS using Docker Machine",
       "url": "http://blog.scottlowe.org/2016/03/25/docker-swarm-aws-docker-machine/",
-      "contributor": {
-        "name": "Scott Lowe",
-        "url": "https://twitter.com/scott_lowe",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Scott Lowe",
+          "url": "https://twitter.com/scott_lowe",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Linux + .NET Core + ASP.NET Core + Docker",
       "url": "http://todthomson.com/2016/03/31/linux-dotnet-aspnet-code-docker/",
-      "contributor": {
-        "name": "Tod Thomson",
-        "url": "https://twitter.com/todthomson",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Tod Thomson",
+          "url": "https://twitter.com/todthomson",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Building With Jenkins Inside an Ephemeral Docker Container",
       "url": "https://engineering.riotgames.com/news/building-jenkins-inside-ephemeral-docker-container",
-      "contributor": {
-        "name": "Maxfield Stewart",
-        "url": "https://twitter.com/maxfields2000",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Maxfield Stewart",
+          "url": "https://twitter.com/maxfields2000",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Semi-retirement for REST APIs with NGINX, Docker and Azure",
       "url": "https://blog.sixeyed.com/semi-retirement-for-rest-apis-with-nginx-and-docker/",
-      "contributor": {
-        "name": "Elton Stoneman",
-        "url": "https://twitter.com/EltonStoneman",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Elton Stoneman",
+          "url": "https://twitter.com/EltonStoneman",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "How to Dockerize your Node application",
       "url": "http://lucamezzalira.com/2016/04/03/how-to-dockerize-your-node-application/",
-      "contributor": {
-        "name": "Luca Mezzalira",
-        "url": "https://twitter.com/lucamezzalira",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Luca Mezzalira",
+          "url": "https://twitter.com/lucamezzalira",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker Cloud Monitoring & Logging",
       "url": "https://sematext.com/blog/2016/04/04/docker-cloud-monitoring-logging/",
-      "contributor": {
-        "name": "Stefan Thies",
-        "url": "https://twitter.com/seti321",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Stefan Thies",
+          "url": "https://twitter.com/seti321",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Get started with brand new Jenkins 2.0 with Docker",
       "url": "http://shashikantjagtap.net/get-started-with-brand-new-jenkins-2-0-with-docker/",
-      "contributor": {
-        "name": "Shashikant Jagtap",
-        "url": "https://twitter.com/Shashikant86",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Shashikant Jagtap",
+          "url": "https://twitter.com/Shashikant86",
+          "is_captain": false
+        }
+      ]
     }
   ]
 }

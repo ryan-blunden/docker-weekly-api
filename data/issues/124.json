@@ -8,362 +8,434 @@
     {
       "title": "Docker Compose Project: Ghost Blog",
       "url": "https://startupnextdoor.com/docker-compose-project-ghost-blog/",
-      "contributor": {
-        "name": "John Washam",
-        "url": "https://twitter.com/StartupNextDoor",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "John Washam",
+          "url": "https://twitter.com/StartupNextDoor",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Using Docker Swarm in Production",
       "url": "https://www.linux-toys.com/?p=411",
-      "contributor": {
-        "name": "Phillip Tribble",
-        "url": "https://twitter.com/rusher81572",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Phillip Tribble",
+          "url": "https://twitter.com/rusher81572",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker : Storage Patterns for Persistence",
       "url": "https://kvaes.wordpress.com/2016/02/11/docker-storage-patterns-for-persistence/",
-      "contributor": {
-        "name": "Karim Vaes",
-        "url": "https://twitter.com/kvaes",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Karim Vaes",
+          "url": "https://twitter.com/kvaes",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "chroot jail from Docker image",
       "url": "http://hansenms.github.io/devops/tips/2016/02/22/chroot-from-docker.html",
-      "contributor": {
-        "name": "Michael S. Hansen",
-        "url": "https://twitter.com/ReconstructThis",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Michael S. Hansen",
+          "url": "https://twitter.com/ReconstructThis",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Migrating a Rails application to Docker",
       "url": "http://blog.cloud66.com/migrating-a-rails-application-to-docker/",
-      "contributor": {
-        "name": "Andreas Galanomatis",
-        "url": "https://www.linkedin.com/in/agalanomatis",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Andreas Galanomatis",
+          "url": "https://www.linkedin.com/in/agalanomatis",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Test driving the Docker Universal Control Plane",
       "url": "http://container-solutions.com/test-driving-the-docker-universal-control-plane/",
-      "contributor": {
-        "name": "Michael M\u00fcller",
-        "url": "https://twitter.com/michmueller_",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Michael M\u00fcller",
+          "url": "https://twitter.com/michmueller_",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker Tips: How to Delete All Docker Containers and Images",
       "url": "https://www.brianchristner.io/how-to-delete-all-docker-containers-and-images/",
-      "contributor": {
-        "name": "Brian Christner",
-        "url": "https://twitter.com/idomyowntricks",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Brian Christner",
+          "url": "https://twitter.com/idomyowntricks",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Write Go Interactively, Export Directly to a Docker Image",
       "url": "http://www.datadan.io/write-go-interactively-export-directly-to-a-docker-image/",
-      "contributor": {
-        "name": "Daniel Whitenack",
-        "url": "https://twitter.com/dwhitena",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Daniel Whitenack",
+          "url": "https://twitter.com/dwhitena",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Developing ASP.NET Apps in Docker Containers",
       "url": "http://blogs.msdn.com/b/stevelasker/archive/2016/02/19/developing-asp-net-apps-in-docker-containers.aspx",
-      "contributor": {
-        "name": "Steve Lasker",
-        "url": "https://twitter.com/SteveLasker",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Steve Lasker",
+          "url": "https://twitter.com/SteveLasker",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker Swarm Meetup (15min lightning)",
       "url": "http://www.slideshare.net/MikeGoelzer/docker-swarm-meetup-15min-lightning",
-      "contributor": {
-        "name": "Mike Goelzer",
-        "url": "https://twitter.com/mikegoelzer",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Mike Goelzer",
+          "url": "https://twitter.com/mikegoelzer",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Self-hosted, server-side MathJax",
       "url": "https://a3nm.net/blog/selfhost_mathjax.html",
-      "contributor": {
-        "name": "Antoine Amarilli",
-        "url": "https://a3nm.net/",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Antoine Amarilli",
+          "url": "https://a3nm.net/",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "How to create a 32bit boot2docker for x86 CPU's",
       "url": "https://stefanscherer.github.io/how-to-create-a-32bit-boot2docker-for-x86-cpus/",
-      "contributor": {
-        "name": "Stefan Scherer",
-        "url": "https://twitter.com/stefscherer",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Stefan Scherer",
+          "url": "https://twitter.com/stefscherer",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker 1.10",
       "url": "http://www.jrslv.com/docker-1-10/",
-      "contributor": {
-        "name": "Jaroslav Holub",
-        "url": "https://twitter.com/jaroslav__",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Jaroslav Holub",
+          "url": "https://twitter.com/jaroslav__",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Easy Server Side Swift with Docker",
       "url": "https://medium.com/@LarsJK/easy-server-side-swift-with-docker-4c297feeeeb5#.eeuz64qhu",
-      "contributor": {
-        "name": "Lars-J\u00f8rgen Kristiansen",
-        "url": "https://twitter.com/iUtvikler",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Lars-J\u00f8rgen Kristiansen",
+          "url": "https://twitter.com/iUtvikler",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Wrangling Grafana and InfluxDB into a Docker image",
       "url": "http://simonjbeaumont.com/posts/docker-dashboard",
-      "contributor": {
-        "name": "Simon Beaumont",
-        "url": "https://twitter.com/simonjbeaumont",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Simon Beaumont",
+          "url": "https://twitter.com/simonjbeaumont",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Menagerie: Using Docker containers for batch job scheduling",
       "url": "https://developer.ibm.com/open/2016/02/21/using-docker-containers-batch-job-scheduling-2/",
-      "contributor": {
-        "name": "Ron Peleg",
-        "url": "https://developer.ibm.com/open/ron-peleg-developer-story/",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Ron Peleg",
+          "url": "https://developer.ibm.com/open/ron-peleg-developer-story/",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Build a real-time game on Carina",
       "url": "https://getcarina.com/blog/build-real-time-game-carina/",
-      "contributor": {
-        "name": "Keith Bartholomew",
-        "url": "https://twitter.com/ktbartholomew",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Keith Bartholomew",
+          "url": "https://twitter.com/ktbartholomew",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Trying out Docker in Windows",
       "url": "https://sreeninet.wordpress.com/2016/02/02/trying-out-docker-in-windows/",
-      "contributor": {
-        "name": "Sreenivas Makam",
-        "url": "https://sreeninet.wordpress.com/about/",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Sreenivas Makam",
+          "url": "https://sreeninet.wordpress.com/about/",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Install Docker Universal Control Plane with Puppet",
       "url": "https://puppetlabs.com/blog/install-docker-universal-control-plane-puppet",
-      "contributor": {
-        "name": "Gareth Rushgrove",
-        "url": "https://twitter.com/garethr",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Gareth Rushgrove",
+          "url": "https://twitter.com/garethr",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Container as a Service with Docker",
       "url": "http://www.slideshare.net/chanezon/container-as-a-service-with-docker",
-      "contributor": {
-        "name": "Patrick Chanezon",
-        "url": "https://twitter.com/chanezon",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Patrick Chanezon",
+          "url": "https://twitter.com/chanezon",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "How to Get the Docker Datacenter Training You Need",
       "url": "https://blog.docker.com/2016/02/docker-datacenter-training/",
-      "contributor": {
-        "name": "Ray Kung",
-        "url": "https://twitter.com/raykung",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Ray Kung",
+          "url": "https://twitter.com/raykung",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker Daemon for 32-bit architectures",
       "url": "http://nirmata.com/2016/02/docker-daemon-for-x32-architectures/",
-      "contributor": {
-        "name": "Prateek Gogia",
-        "url": "https://twitter.com/NirmataCloud",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Prateek Gogia",
+          "url": "https://twitter.com/NirmataCloud",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker networking overview",
       "url": "http://filipv.net/2016/02/17/docker-networking-overview/",
-      "contributor": {
-        "name": "Filip Verloy",
-        "url": "https://twitter.com/filipv",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Filip Verloy",
+          "url": "https://twitter.com/filipv",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Legion of Heroes: haproxy, nginx, Angular 2, ASP.NET Core, Redis and Docker",
       "url": "http://www.tattoocoder.com/legion-of-heroes-haproxy-nginx-angular2-aspnetcore-redis-docker/",
-      "contributor": {
-        "name": "Shayne Boyer",
-        "url": "https://twitter.com/spboyer",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Shayne Boyer",
+          "url": "https://twitter.com/spboyer",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker for Developers",
       "url": "http://reneolivo.github.io/docker-for-devs/#/intro",
-      "contributor": {
-        "name": "Ren\u00e9 Olivo",
-        "url": "https://twitter.com/rene_olivo",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Ren\u00e9 Olivo",
+          "url": "https://twitter.com/rene_olivo",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Using Swarm with Calico on Docker Machine",
       "url": "http://blog.codeship.com/using-swarm-with-calico-on-docker-machine/",
-      "contributor": {
-        "name": "Brendan Fosberry",
-        "url": "https://twitter.com/brendanfosberry",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Brendan Fosberry",
+          "url": "https://twitter.com/brendanfosberry",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Easy Docker on OS X",
       "url": "http://ariya.ofilabs.com/2016/02/easy-docker-on-os-x.html",
-      "contributor": {
-        "name": "Ariya Hidayat",
-        "url": "https://twitter.com/AriyaHidayat",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Ariya Hidayat",
+          "url": "https://twitter.com/AriyaHidayat",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Building Tranquility Part 1 with DigitalOcean, Ghost, Docker and Ubuntu",
       "url": "https://www.dinchamion.com/2016/02/19/building-tranquility-part-1/",
-      "contributor": {
-        "name": "Greg Fazekas",
-        "url": "https://twitter.com/dinchamion",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Greg Fazekas",
+          "url": "https://twitter.com/dinchamion",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Communication Between Linked Docker Containers With Java EE",
       "url": "http://www.adam-bien.com/roller/abien/entry/communication_between_linked_docker_containers",
-      "contributor": {
-        "name": "Adam Bien",
-        "url": "https://twitter.com/AdamBien",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Adam Bien",
+          "url": "https://twitter.com/AdamBien",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Introducing Jet, Codeship\u2019s Platform for Docker",
       "url": "http://blog.codeship.com/introducing-jet-codeships-platform-for-docker/",
-      "contributor": {
-        "name": "Florian Motlik",
-        "url": "https://twitter.com/flomotlik",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Florian Motlik",
+          "url": "https://twitter.com/flomotlik",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker, Part One: Getting Started",
       "url": "http://monospacedmonologues.com/post/139778567016/docker-part-one-getting-started",
-      "contributor": {
-        "name": "Samir Talwar",
-        "url": "https://twitter.com/SamirTalwar",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Samir Talwar",
+          "url": "https://twitter.com/SamirTalwar",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker Tips And Tricks",
       "url": "http://blog.labianchin.me/2016/02/15/docker-tips-and-tricks",
-      "contributor": {
-        "name": "Lu\u00eds Bianchin",
-        "url": "https://twitter.com/labianchin",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Lu\u00eds Bianchin",
+          "url": "https://twitter.com/labianchin",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "WebLogic on Docker Containers Series, Part 3: Creating a Domain Image",
       "url": "https://blogs.oracle.com/brunoborges/entry/weblogic_on_docker_containers_series1",
-      "contributor": {
-        "name": "Bruno Borges",
-        "url": "https://twitter.com/brunoborges",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Bruno Borges",
+          "url": "https://twitter.com/brunoborges",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Node.js application into a Docker container",
       "url": "http://toobler.com/blog/how-to-get-a-node-js-application-into-a-docker-container",
-      "contributor": {
-        "name": "Jose Gonsalo",
-        "url": "https://twitter.com/JoseGonsalo",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Jose Gonsalo",
+          "url": "https://twitter.com/JoseGonsalo",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker: How to use it in a practical way Part 2",
       "url": "https://www.howtoforge.com/tutorial/docker-how-to-use-it-in-a-practical-way-on-ubuntu/",
-      "contributor": {
-        "name": "Bill Toulas",
-        "url": "https://www.linkedin.com/in/bill-toulas-07b40650?",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Bill Toulas",
+          "url": "https://www.linkedin.com/in/bill-toulas-07b40650?",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Doclipser or how I've put Docker in your favorite IDE",
       "url": "https://jaxenter.com/doclipser-or-how-ive-put-docker-in-your-favorite-ide-124167.html",
-      "contributor": {
-        "name": "Mario Loreido",
-        "url": "https://twitter.com/mariolet",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Mario Loreido",
+          "url": "https://twitter.com/mariolet",
+          "is_captain": false
+        }
+      ]
     }
   ]
 }

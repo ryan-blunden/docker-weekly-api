@@ -8,332 +8,398 @@
     {
       "title": "New Docker Engine 1.11 integrates runC and containerd",
       "url": "http://collabnix.com/archives/1122",
-      "contributor": {
-        "name": "Ajeet Singh Raina",
-        "url": "https://twitter.com/ajeetsraina",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Ajeet Singh Raina",
+          "url": "https://twitter.com/ajeetsraina",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Updating Your Application Using Docker Build Containers",
       "url": "https://eng.erisindustries.com/tutorials/2016/04/20/build-containers-for-updating/",
-      "contributor": {
-        "name": "Zach Ramsey",
-        "url": "https://twitter.com/cerebralbosons",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Zach Ramsey",
+          "url": "https://twitter.com/cerebralbosons",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker Networking and DNS: The Good, The Bad, And The Ugly",
       "url": "https://technologyconversations.com/2016/04/25/docker-networking-and-dns-the-good-the-bad-and-the-ugly/",
-      "contributor": {
-        "name": "Viktor Farcic",
-        "url": "https://twitter.com/vfarcic",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Viktor Farcic",
+          "url": "https://twitter.com/vfarcic",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker Fun with 400 ASCII Cows",
       "url": "http://blog.alexellis.io/cows-on-docker/",
-      "contributor": {
-        "name": "Alex Ellis",
-        "url": "https://twitter.com/alexellisuk",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Alex Ellis",
+          "url": "https://twitter.com/alexellisuk",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "How to Install NewRelic on Docker Stacks",
       "url": "http://blog.cloud66.com/how-to-install-newrelic-on-docker-stacks/",
-      "contributor": {
-        "name": "Andreas Galanomatis",
-        "url": "https://twitter.com/cloud66",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Andreas Galanomatis",
+          "url": "https://twitter.com/cloud66",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "How We Used Docker to Lower Test Run Times from 1 Hour to 10 Minutes",
       "url": "http://devblog.mediamath.com/how-we-used-docker-to-lower-test-run-times-from-1-hour-to-10-minutes",
-      "contributor": {
-        "name": "Jimmy Huang",
-        "url": "https://twitter.com/mediamath",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Jimmy Huang",
+          "url": "https://twitter.com/mediamath",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Why You Should Stop Installing Your WebDev Environment Locally",
       "url": "https://www.smashingmagazine.com/2016/04/stop-installing-your-webdev-environment-locally-with-docker/",
-      "contributor": {
-        "name": "Daniel Demmel",
-        "url": "https://twitter.com/daaain",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Daniel Demmel",
+          "url": "https://twitter.com/daaain",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Build Your Own Container Using Less than 100 Lines of Go",
       "url": "http://blog.bjw.me.uk/2016/04/how-linn-push-dotnet-dockers-using.html",
-      "contributor": {
-        "name": "Julz Friedman",
-        "url": "https://twitter.com/doctor_julz",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Julz Friedman",
+          "url": "https://twitter.com/doctor_julz",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Introduction to Failure Testing With Docker",
       "url": "https://www.qualimente.com/2016/04/26/introduction-to-failure-testing-with-docker/",
-      "contributor": {
-        "name": "Stephen Kuenzli",
-        "url": "https://twitter.com/skuenzli",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Stephen Kuenzli",
+          "url": "https://twitter.com/skuenzli",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Blogging with Continuous Delivery",
       "url": "http://blog.slashdeploy.com/2016/04/25/blogging-with-continuous-delivery/",
-      "contributor": {
-        "name": "Adam Hawkins",
-        "url": "https://twitter.com/adman65",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Adam Hawkins",
+          "url": "https://twitter.com/adman65",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "NGINX Amplify Monitors Microservices in Docker Containers",
       "url": "https://www.nginx.com/blog/monitoring-microservices-docker-containers-nginx-amplify/",
-      "contributor": {
-        "name": "Nick Shadrin",
-        "url": "https://twitter.com/shadrin",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Nick Shadrin",
+          "url": "https://twitter.com/shadrin",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker Cloud to the Rescue",
       "url": "https://blog.docker.com/2016/04/docker-cloud-3blades/",
-      "contributor": {
-        "name": "Greg Werner",
-        "url": "https://twitter.com/gwerner",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Greg Werner",
+          "url": "https://twitter.com/gwerner",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker 101 @ KACST Saudi HPC 2016",
       "url": "http://www.slideshare.net/Alshaari/docker-saudi-hpc2016",
-      "contributor": {
-        "name": "Walid Shaari",
-        "url": "https://twitter.com/walidshaari",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Walid Shaari",
+          "url": "https://twitter.com/walidshaari",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Building USDA\u2019s Platform of the Future with Docker",
       "url": "https://blog.docker.com/2016/04/usda-docker/",
-      "contributor": {
-        "name": "Ron Williams",
-        "url": "https://twitter.com/ron_williams",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Ron Williams",
+          "url": "https://twitter.com/ron_williams",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "A Look Back at One Year of Docker Security",
       "url": "https://blog.docker.com/2016/04/docker-security/",
-      "contributor": {
-        "name": "Diogo M\u00f3nica",
-        "url": "https://twitter.com/diogomonica",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Diogo M\u00f3nica",
+          "url": "https://twitter.com/diogomonica",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Everything about Docker I learned from Minecraft",
       "url": "http://www.jeffreyfritz.com/2016/04/everything-about-docker-i-learned-from-minecraft/",
-      "contributor": {
-        "name": "Jeff Fritz",
-        "url": "https://twitter.com/csharpfritz",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Jeff Fritz",
+          "url": "https://twitter.com/csharpfritz",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Production Meteor and Node, Using Docker, Part II",
       "url": "https://projectricochet.com/blog/production-meteor-and-node-using-docker-part-ii#.Vx5e45MrLUJ",
-      "contributor": {
-        "name": "Stephen Pope",
-        "url": "https://twitter.com/stephengpope",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Stephen Pope",
+          "url": "https://twitter.com/stephengpope",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Start Django project with Docker",
       "url": "http://mmorejon.github.io/en/blog/start-django-project-with-docker/",
-      "contributor": {
-        "name": "Manuel Morej\u00f3n",
-        "url": "https://twitter.com/morejon85",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Manuel Morej\u00f3n",
+          "url": "https://twitter.com/morejon85",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker For Mac Beta Review",
       "url": "https://medium.com/@nzoschke/docker-for-mac-beta-review-b91692289eb5#.2tzzv7df3",
-      "contributor": {
-        "name": "Noah Zoschke",
-        "url": "https://twitter.com/nzoschke",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Noah Zoschke",
+          "url": "https://twitter.com/nzoschke",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Continuous Deployment with Containers",
       "url": "http://www.infoq.com/articles/continuous-deployment-containers",
-      "contributor": {
-        "name": "Viktor Farcic",
-        "url": "https://twitter.com/vfarcic",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Viktor Farcic",
+          "url": "https://twitter.com/vfarcic",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Congratulations Docker Birthday #3 App Challenge Winners!",
       "url": "https://blog.docker.com/2016/04/docker-birthday-app-challenge-winners/",
-      "contributor": {
-        "name": "Victor Coisne",
-        "url": "https://twitter.com/vcoisne",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Victor Coisne",
+          "url": "https://twitter.com/vcoisne",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Lessons from Building a Node App in Docker",
       "url": "http://jdlm.info/articles/2016/03/06/lessons-building-node-app-docker.html?r=0",
-      "contributor": {
-        "name": "John Lees-Miller",
-        "url": "https://twitter.com/jdleesmiller",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "John Lees-Miller",
+          "url": "https://twitter.com/jdleesmiller",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Ten reasons you\u2019ll love Windows Server 2016 #9: Containers",
       "url": "https://blogs.technet.microsoft.com/windowsserver/2016/04/26/ten-reasons-youll-love-windows-server-2016-9-containers/",
-      "contributor": {
-        "name": "Taylor Brown",
-        "url": "https://twitter.com/Taylorb_msft",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Taylor Brown",
+          "url": "https://twitter.com/Taylorb_msft",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Using Pentaho Data Integration with Docker: Part 1",
       "url": "http://diethardsteiner.github.io/pdi/2016/04/21/PDI-Docker-Part-1.html",
-      "contributor": {
-        "name": "Diethard Steiner",
-        "url": "diethardsteiner",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Diethard Steiner",
+          "url": "diethardsteiner",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "A big step towards multi-platform Docker images",
       "url": "https://integratedcode.us/2016/04/22/a-step-towards-multi-platform-docker-images/",
-      "contributor": {
-        "name": "Phil Estes",
-        "url": "https://twitter.com/estesp",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Phil Estes",
+          "url": "https://twitter.com/estesp",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "How Linn push dotNet Docker Images using Github Workflow and Travis",
       "url": "http://blog.bjw.me.uk/2016/04/how-linn-push-dotnet-dockers-using.html",
-      "contributor": {
-        "name": "Barry Williams",
-        "url": "https://twitter.com/bazwilliams",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Barry Williams",
+          "url": "https://twitter.com/bazwilliams",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Service Discovery with Docker and Consul: part 1",
       "url": "http://www.smartjava.org/content/service-discovery-docker-and-consul-part-1",
-      "contributor": {
-        "name": "Jos Dirksen",
-        "url": "https://twitter.com/josdirksen",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Jos Dirksen",
+          "url": "https://twitter.com/josdirksen",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "How Docker Lets Eclipse Che Make Developer Workspaces Universal",
       "url": "https://www.youtube.com/watch?v=1QupRkOqrmQ&feature=youtu.be",
-      "contributor": {
-        "name": "Tyler Jewell",
-        "url": "https://twitter.com/TylerJewell",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Tyler Jewell",
+          "url": "https://twitter.com/TylerJewell",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Using Docker and PhantomJS to generate big Twitter headings",
       "url": "https://scene-si.org/2016/04/20/using-docker-and-phantomjs-to-generate-big-twitter-headings/",
-      "contributor": {
-        "name": "Tit Petric",
-        "url": "https://twitter.com/TitPetric",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Tit Petric",
+          "url": "https://twitter.com/TitPetric",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Hide your development environment and application in a container",
       "url": "http://www.slideshare.net/JohanJanssen4/hide-your-development-environment-and-application-in-a-container",
-      "contributor": {
-        "name": "Johan Janssen",
-        "url": "https://twitter.com/johanjanssen42",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Johan Janssen",
+          "url": "https://twitter.com/johanjanssen42",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Announcing the NetApp Docker Volume Plugin",
       "url": "http://netapp.github.io/openstack/2016/04/19/announcing-the-netapp-docker-volume-plugin/index.html",
-      "contributor": {
-        "name": "Andrew Sullivan",
-        "url": "https://twitter.com/andrew_ntap",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Andrew Sullivan",
+          "url": "https://twitter.com/andrew_ntap",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Exposing your Docker API",
       "url": "https://scene-si.org/2016/04/25/exposing-your-docker-api/",
-      "contributor": {
-        "name": "Tit Petric",
-        "url": "https://twitter.com/TitPetric",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Tit Petric",
+          "url": "https://twitter.com/TitPetric",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Migrating your Gitlab infrastructure into Docker",
       "url": "https://blog.jscrambler.com/migrating-your-gitlab-infrastructure-into-docker/",
-      "contributor": {
-        "name": "Pedro Fortuna",
-        "url": "https://twitter.com/pedrofortuna",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Pedro Fortuna",
+          "url": "https://twitter.com/pedrofortuna",
+          "is_captain": false
+        }
+      ]
     }
   ]
 }

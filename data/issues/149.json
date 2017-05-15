@@ -8,82 +8,98 @@
     {
       "title": "Why containerize your life?",
       "url": "https://speakerdeck.com/scottyc/why-containerise-your-life",
-      "contributor": {
-        "name": "Scott Coulton",
-        "url": "https://twitter.com/scottcoulton",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Scott Coulton",
+          "url": "https://twitter.com/scottcoulton",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Node failures in Docker Swarm",
       "url": "http://www.johnzaccone.io/node-failures-in-docker-swarm/",
-      "contributor": {
-        "name": "John Zaccone",
-        "url": "https://twitter.com/JohnZaccone",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "John Zaccone",
+          "url": "https://twitter.com/JohnZaccone",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "A brief history of Docker at Demonware",
       "url": "http://tomwillfixit.com/docker/#/",
-      "contributor": {
-        "name": "Thomas Shaw",
-        "url": "https://twitter.com/tomwillfixit",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Thomas Shaw",
+          "url": "https://twitter.com/tomwillfixit",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "What's new in Docker 1.12 load-balancing feature",
       "url": "http://collabnix.com/archives/1610",
-      "contributor": {
-        "name": "Ajeet Singh Raina",
-        "url": "https://twitter.com/ajeetsraina",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Ajeet Singh Raina",
+          "url": "https://twitter.com/ajeetsraina",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker for Azure private Beta preview",
       "url": "https://www.youtube.com/watch?v=Lxvg7OMcPac&feature=youtu.be",
-      "contributor": {
-        "name": "Alex Ellis",
-        "url": "https://twitter.com/alexellisuk",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Alex Ellis",
+          "url": "https://twitter.com/alexellisuk",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "5 minutes with the Docker captains",
       "url": "https://blog.docker.com/2016/08/5-minutes-docker-captains/",
-      "contributor": {
-        "name": "Jenny Burcio",
-        "url": "https://twitter.com/TheBurce",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Jenny Burcio",
+          "url": "https://twitter.com/TheBurce",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Swarm2K Analysis Pipeline",
       "url": "https://medium.com/@chanwit/a-deep-analysis-on-swarm2k-b500aae81d58#.4ma95hw1m",
-      "contributor": {
-        "name": "Chanwit Kaewkasi",
-        "url": "https://twitter.com/chanwit",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Chanwit Kaewkasi",
+          "url": "https://twitter.com/chanwit",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Adding Hyper-V support to 2016 TP5 Docker VM",
       "url": "https://stefanscherer.github.io/adding-hyper-v-support-to-2016-tp5-docker-vm/",
-      "contributor": {
-        "name": "Stefan Scherer",
-        "url": "https://twitter.com/stefscherer",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Stefan Scherer",
+          "url": "https://twitter.com/stefscherer",
+          "is_captain": false
+        }
+      ]
     }
   ]
 }

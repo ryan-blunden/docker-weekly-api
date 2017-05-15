@@ -8,12 +8,14 @@
     {
       "title": "Containerize Windows Workloads With Image2Docker",
       "url": "http://email.docker.com/hK4jV6J00F000tTbI030LTk",
-      "contributor": {
-        "name": "Mano Marks",
-        "url": "http://email.docker.com/CJ400U0WK0bF0ITk3t0jL06",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Mano Marks",
+          "url": "http://email.docker.com/CJ400U0WK0bF0ITk3t0jL06",
+          "is_captain": false
+        }
+      ]
     }
   ]
 }

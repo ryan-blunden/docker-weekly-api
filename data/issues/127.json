@@ -8,262 +8,314 @@
     {
       "title": "#SwarmWeek: Realtime Cluster Monitoring with Docker Swarm and Riemann",
       "url": "https://blog.docker.com/2016/03/realtime-cluster-monitoring-docker-swarm-riemann/",
-      "contributor": {
-        "name": "Nathan LeClaire",
-        "url": "https://twitter.com/upthecyberpunks/",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Nathan LeClaire",
+          "url": "https://twitter.com/upthecyberpunks/",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Convince Your Boss to Send You to DockerCon 2016",
       "url": "https://blog.docker.com/2016/03/convince-your-boss-dockercon-2016/",
-      "contributor": {
-        "name": "Ashlynn Polini",
-        "url": "https://twitter.com/ashlynnpolini",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Ashlynn Polini",
+          "url": "https://twitter.com/ashlynnpolini",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "API-Driven DevOps: Spotlight on Docker",
       "url": "http://nordicapis.com/api-driven-devops-spotlight-on-docker/",
-      "contributor": {
-        "name": "Vassili van der Mer",
-        "url": "https://twitter.com/vassvdm",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Vassili van der Mer",
+          "url": "https://twitter.com/vassvdm",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Running Jekyll in Windows Using Docker",
       "url": "http://www.jamessturtevant.com/posts/Running-Jekyll-in-Windows-using-Docker/",
-      "contributor": {
-        "name": "James Sturtevant",
-        "url": "https://twitter.com/Aspenwilder",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "James Sturtevant",
+          "url": "https://twitter.com/Aspenwilder",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Continuous Delivery at Docker Age",
       "url": "http://www.slideshare.net/adrienblind/continous-delivery-at-docker-age",
-      "contributor": {
-        "name": "Adrien Blind",
-        "url": "https://twitter.com/AdrienBlind",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Adrien Blind",
+          "url": "https://twitter.com/AdrienBlind",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Build, Ship, Run with Docker Datacenter",
       "url": "http://blog.levvel.io/blog-post/build-ship-run-with-docker-datacenter/",
-      "contributor": {
-        "name": "Jay Johnson",
-        "url": "https://twitter.com/jayphjohnson",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Jay Johnson",
+          "url": "https://twitter.com/jayphjohnson",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker Tooling in Eclipse Video",
       "url": "http://blog.couchbase.com/2016/march/docker-tooling-eclipse-video",
-      "contributor": {
-        "name": "Arun Gupta",
-        "url": "https://twitter.com/arungupta",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Arun Gupta",
+          "url": "https://twitter.com/arungupta",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Using Carina to Mimic IRCcloud",
       "url": "http://jjasghar.github.io/blog/2015/11/15/using-carina-to-mimic-irccloud/",
-      "contributor": {
-        "name": "JJ Asghar",
-        "url": "https://twitter.com/jjasghar",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "JJ Asghar",
+          "url": "https://twitter.com/jjasghar",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker Swarm: Collecting Metrics, Events & Logs",
       "url": "https://sematext.com/blog/2016/01/12/docker-swarm-collecting-metrics-events-logs/",
-      "contributor": {
-        "name": "Stefan Thies",
-        "url": "https://twitter.com/seti321",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Stefan Thies",
+          "url": "https://twitter.com/seti321",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Get Started with Docker Quickly, using Kitematic",
       "url": "https://www.youtube.com/watch?v=dwMcmfZaA6Q",
-      "contributor": {
-        "name": "Trevor Sullivan",
-        "url": "https://twitter.com/pcgeek86",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Trevor Sullivan",
+          "url": "https://twitter.com/pcgeek86",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "How we happily dockerized our development environment (part 1/2)",
       "url": "https://medium.com/@aherve/how-we-happily-dockerized-our-development-environment-part-1-2-b05fd6927a53#.5161e1v8j",
-      "contributor": {
-        "name": "Aur\u00e9lien Herv\u00e9",
-        "url": "https://twitter.com/aurel_herve",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Aur\u00e9lien Herv\u00e9",
+          "url": "https://twitter.com/aurel_herve",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Dockerizing a PHP Application",
       "url": "https://semaphoreci.com/community/tutorials/dockerizing-a-php-application",
-      "contributor": {
-        "name": "Younes Rafie",
-        "url": "https://twitter.com/RAFIEYounes",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Younes Rafie",
+          "url": "https://twitter.com/RAFIEYounes",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Getting Started with Docker Swarm",
       "url": "http://shadow-soft.com/swarm/",
-      "contributor": {
-        "name": "John Ray",
-        "url": "https://twitter.com/theYarNhoj",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "John Ray",
+          "url": "https://twitter.com/theYarNhoj",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Exciting Docker Swarm experiments in the Hypriot Cluster Lab",
       "url": "http://blog.hypriot.com/post/exciting-docker-swarm-experiments-in-the-hypriot-cluster-lab/",
-      "contributor": {
-        "name": "Govinda Fichtner",
-        "url": "https://twitter.com/_beagile_",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Govinda Fichtner",
+          "url": "https://twitter.com/_beagile_",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker Clustering on a Raspberry Pi",
       "url": "http://blog.codybunch.com/2016/02/27/Docker-Clustering-on-Raspberry-Pi/",
-      "contributor": {
-        "name": "Cody Bunch",
-        "url": "https://twitter.com/cody_bunch",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Cody Bunch",
+          "url": "https://twitter.com/cody_bunch",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "SwarmWeek Part 2: Rescheduling Redis with Swarm",
       "url": "https://clusterhq.com/2016/03/10/fun-with-swarm-part2/",
-      "contributor": {
-        "name": "Ryan Wallner",
-        "url": "https://twitter.com/RyanWallner",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Ryan Wallner",
+          "url": "https://twitter.com/RyanWallner",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Building a photo search in a weekend - Elasticsearch + Docker (Part 1)",
       "url": "http://blog.sandeepchivukula.com/posts/2016/03/06/photo-search/",
-      "contributor": {
-        "name": "Sandeep Chivukula",
-        "url": "https://twitter.com/_sandeep",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Sandeep Chivukula",
+          "url": "https://twitter.com/_sandeep",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Automated End-To-End Testing with Protractor, Docker and Jenkins",
       "url": "http://blog.smaato.com/automated-end-to-end-testing-with-protractor-docker-jenkins",
-      "contributor": {
-        "name": "Marco Pajares Silva",
-        "url": "https://twitter.com/Smaato",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Marco Pajares Silva",
+          "url": "https://twitter.com/Smaato",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Creating containerized build environments with the Jenkins Pipeline plugin and Docker. Well, almost.",
       "url": "http://damnhandy.com/2016/03/06/creating-containerized-build-environments-with-the-jenkins-pipeline-plugin-and-docker-well-almost/",
-      "contributor": {
-        "name": "Ryan McDonough",
-        "url": "https://twitter.com/damnhandy",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Ryan McDonough",
+          "url": "https://twitter.com/damnhandy",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Zoe on Swarm in production \u2013 first impressions",
       "url": "https://distsysgroup.wordpress.com/2016/03/11/zoe-on-swarm-in-production-first-impressions/",
-      "contributor": {
-        "name": "Daniele Venzano",
-        "url": "https://twitter.com/EURECOM",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Daniele Venzano",
+          "url": "https://twitter.com/EURECOM",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker Tips: Save Time with this Quick Typing Hack",
       "url": "https://www.brianchristner.io/docker-tips-save-time-with-this-quick-typing-hack/",
-      "contributor": {
-        "name": "Brian Christner",
-        "url": "https://twitter.com/idomyowntricks",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Brian Christner",
+          "url": "https://twitter.com/idomyowntricks",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Rails 5 and Docker: Lessons Learnt",
       "url": "http://blog.kontena.io/rails-5-and-docker/",
-      "contributor": {
-        "name": "Lauri Nevala",
-        "url": "https://twitter.com/nevalau",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Lauri Nevala",
+          "url": "https://twitter.com/nevalau",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "#SwarmWeek: Five Tips for the Advanced Swarm User",
       "url": "https://blog.docker.com/2016/03/swarmweek-five-tips-advanced-docker-swarm/",
-      "contributor": {
-        "name": "Mike Goelzer",
-        "url": "https://twitter.com/mikegoelzer",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Mike Goelzer",
+          "url": "https://twitter.com/mikegoelzer",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker Community Spotlight: Arun Gupta",
       "url": "https://blog.docker.com/2016/03/docker-community-spotlight-arun-gupta",
-      "contributor": {
-        "name": "Adam Herzog",
-        "url": "https://twitter.com/ah3rz",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Adam Herzog",
+          "url": "https://twitter.com/ah3rz",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker: How to use it in a practical way - Part 3",
       "url": "https://www.howtoforge.com/tutorial/docker-how-to-use-it-in-a-practical-way-part-3/",
-      "contributor": {
-        "name": "Bill Toulas",
-        "url": "https://twitter.com/howtoforgecom",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Bill Toulas",
+          "url": "https://twitter.com/howtoforgecom",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Running a web application using Docker + Nginx on Ubuntu 14.04",
       "url": "http://eon01.com/blog/running-a-web-application-using-docker-nginx-on-ubuntu-14-04/",
-      "contributor": {
-        "name": "Aymen El Amri",
-        "url": "https://twitter.com/eon01",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Aymen El Amri",
+          "url": "https://twitter.com/eon01",
+          "is_captain": false
+        }
+      ]
     }
   ]
 }

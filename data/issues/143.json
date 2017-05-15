@@ -8,12 +8,14 @@
     {
       "title": "Part 1",
       "url": "https://blog.docker.com/2016/06/dockercon-part-1-top-10-video/",
-      "contributor": {
-        "name": "Part 2",
-        "url": "https://blog.docker.com/2016/06/dockercon-part-2-top-10-video/",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Part 2",
+          "url": "https://blog.docker.com/2016/06/dockercon-part-2-top-10-video/",
+          "is_captain": false
+        }
+      ]
     }
   ]
 }

@@ -8,12 +8,14 @@
     {
       "title": "Host your own YouTube-Downloader with Docker",
       "url": "http://email.docker.com/a0300K0j0F0000VLQJIf00T",
-      "contributor": {
-        "name": "Raphael",
-        "url": "http://email.docker.com/P000I0TFKJ00e00f00jLj03",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Raphael",
+          "url": "http://email.docker.com/P000I0TFKJ00e00f00jLj03",
+          "is_captain": false
+        }
+      ]
     }
   ]
 }

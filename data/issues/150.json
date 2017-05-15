@@ -8,132 +8,158 @@
     {
       "title": "Using create-react-app with React Router + Express.js",
       "url": "https://medium.com/@patriciolpezjuri/using-create-react-app-with-react-router-express-js-8fa658bf892d#.vh41aqgko",
-      "contributor": {
-        "name": "Patricio Lopez",
-        "url": "https://twitter.com/MrPatiwi",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Patricio Lopez",
+          "url": "https://twitter.com/MrPatiwi",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Migrating Existing Services to Docker",
       "url": "https://blog.akpwebdesign.com/2016/08/11/migrating-services-to-docker-pt-1/",
-      "contributor": {
-        "name": "Austin Peterson",
-        "url": "https://twitter.com/akpwebdesign",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Austin Peterson",
+          "url": "https://twitter.com/akpwebdesign",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "How to create a Docker Datacenter on Microsoft Azure",
       "url": "http://pwrshell.net/how-to-create-a-docker-datacenter-on-microsoft-azure/",
-      "contributor": {
-        "name": "Fabien Dibot",
-        "url": "https://twitter.com/fdibot",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Fabien Dibot",
+          "url": "https://twitter.com/fdibot",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Improved Options for Service Load Balancing in Docker 1.12.0",
       "url": "https://www.infoq.com/news/2016/08/docker-service-load-balancing",
-      "contributor": {
-        "name": "Hrishikesh Barua",
-        "url": "https://twitter.com/talonx",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Hrishikesh Barua",
+          "url": "https://twitter.com/talonx",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Setting up your Development Environment with Docker Compose",
       "url": "http://blog.dubizzle.com/boilerroom/2016/08/18/setting-development-environment-docker-compose/",
-      "contributor": {
-        "name": "Ara Hayrabedian",
-        "url": "https://twitter.com/ahayrabedian",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Ara Hayrabedian",
+          "url": "https://twitter.com/ahayrabedian",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Hosting side-projects with Docker",
       "url": "https://www.niels-ole.com/side-project/docker/hosting/2016/08/23/home-server-docker.html",
-      "contributor": {
-        "name": "Niels Ole Kuh",
-        "url": "https://twitter.com/nielsole",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Niels Ole Kuh",
+          "url": "https://twitter.com/nielsole",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "How to Implement Docker Swarm with PostgreSQL and Web-Services on Nutanix ACS Shared Volumes",
       "url": "http://www.dabcc.com/how-to-implement-docker-swarm-with-postgresql-and-web-services-on-nutanix-acs-shared-volumes/",
-      "contributor": {
-        "name": "Andre Leibovici",
-        "url": "https://twitter.com/andreleibovici",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Andre Leibovici",
+          "url": "https://twitter.com/andreleibovici",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "5 Tips For Building Docker Image",
       "url": "http://www.dennyzhang.com/docker_deployment/",
-      "contributor": {
-        "name": "Denny Zhang",
-        "url": "https://twitter.com/dennyzhang001",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Denny Zhang",
+          "url": "https://twitter.com/dennyzhang001",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Building a Microservices Control Plane using NATS and Docker Engine v1.12",
       "url": "http://nats.io/blog/docker-swarm-plus-nats/",
-      "contributor": {
-        "name": "Wally Quevedo",
-        "url": "https://twitter.com/wallyqs",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Wally Quevedo",
+          "url": "https://twitter.com/wallyqs",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Scale ASP.NET Core apps with Docker Swarm Mode",
       "url": "http://tutorials.pluralsight.com/microsoft-net/scale-asp-net-core-apps-with-docker-swarm-mode",
-      "contributor": {
-        "name": "Stefan Prodan",
-        "url": "https://twitter.com/stefanprodan",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Stefan Prodan",
+          "url": "https://twitter.com/stefanprodan",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker Kata 001 - into the swarm",
       "url": "https://medium.com/@Jesse_White/docker-kata-001-1aae05545e3d#.8v8r0hwh1",
-      "contributor": {
-        "name": "Jesse White",
-        "url": "https://twitter.com/Jesse_White",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Jesse White",
+          "url": "https://twitter.com/Jesse_White",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "CIAOPS: Need to Know podcast\u2013Episode 111",
       "url": "http://blog.ciaops.com/2016/08/need-to-know-podcastepisode-111.html",
-      "contributor": {
-        "name": "Robert Crane",
-        "url": "https://twitter.com/directorcia",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Robert Crane",
+          "url": "https://twitter.com/directorcia",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Run Multiple Docker Environments (qa, stage, prod) from the Same docker-compose File.",
       "url": "http://staxmanade.com/2016/07/run-multiple-docker-environments--qa--beta--prod--from-the-same-docker-compose-file-/",
-      "contributor": {
-        "name": "Jason Jarre",
-        "url": "https://twitter.com/staxmanade",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Jason Jarre",
+          "url": "https://twitter.com/staxmanade",
+          "is_captain": false
+        }
+      ]
     }
   ]
 }

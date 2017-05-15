@@ -8,212 +8,254 @@
     {
       "title": "The Long Road to Docker",
       "url": "http://www.jamasoftware.com/blog/long-road-docker/",
-      "contributor": {
-        "name": "Sander Verhagen",
-        "url": "https://twitter.com/jamasoftware",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Sander Verhagen",
+          "url": "https://twitter.com/jamasoftware",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker as a Personal Application Runner",
       "url": "https://blog.ouseful.info/2016/05/09/docker-as-a-personal-application-runner/",
-      "contributor": {
-        "name": "Tony Hirst",
-        "url": "https://twitter.com/psychemedia",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Tony Hirst",
+          "url": "https://twitter.com/psychemedia",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Static sites with Docker",
       "url": "https://ilkka.io/blog/static-sites-with-docker/",
-      "contributor": {
-        "name": "Ilkka Laukkanen",
-        "url": "https://twitter.com/ilkkalaukkanen",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Ilkka Laukkanen",
+          "url": "https://twitter.com/ilkkalaukkanen",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker for Mac: First Impressions",
       "url": "https://telliott.io/2016/04/23/docker-for-mac-first-impressions.html",
-      "contributor": {
-        "name": "Tom Elliott",
-        "url": "https://twitter.com/theotherelliott",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Tom Elliott",
+          "url": "https://twitter.com/theotherelliott",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "DevOps Basics: Provisioning Docker in Azure via one Command Line",
       "url": "https://blogs.technet.microsoft.com/canitpro/2016/05/04/devops-basics-docker-with-azure-driver/",
-      "contributor": {
-        "name": "Julien Stroheker",
-        "url": "https://twitter.com/Ju_Stroh",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Julien Stroheker",
+          "url": "https://twitter.com/Ju_Stroh",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Getting Towards Real Sandbox Containers",
       "url": "https://blog.jessfraz.com/post/getting-towards-real-sandbox-containers/",
-      "contributor": {
-        "name": "Jessie Frazelle",
-        "url": "https://twitter.com/jessfraz",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Jessie Frazelle",
+          "url": "https://twitter.com/jessfraz",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Alpine Linux and Docker Nautilus Protect Crate Images",
       "url": "https://crate.io/a/alpine-linux-and-docker-nautilus-protect-crate/",
-      "contributor": {
-        "name": "Nils Magnus",
-        "url": "https://twitter.com/craternils",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Nils Magnus",
+          "url": "https://twitter.com/craternils",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "MariaDB and Docker use cases, Part 1",
       "url": "https://mariadb.com/blog/mariadb-and-docker-use-cases-part-1",
-      "contributor": {
-        "name": "Guillaume Lefranc",
-        "url": "https://twitter.com/tanji",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Guillaume Lefranc",
+          "url": "https://twitter.com/tanji",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Building Bridges for Better Cancer Treatment with the Fred Hutchinson Cancer Research Center",
       "url": "https://aws.amazon.com/blogs/aws/building-bridges-for-better-cancer-treatment-with-the-fred-hutchinson-cancer-research-center/",
-      "contributor": {
-        "name": "Jeff Barr",
-        "url": "https://twitter.com/jeffbarr",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Jeff Barr",
+          "url": "https://twitter.com/jeffbarr",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Chaos Monkey for Fun and Profit",
       "url": "https://medium.com/production-ready/chaos-monkey-for-fun-and-profit-87e2f343db31#.fgfwqmuib",
-      "contributor": {
-        "name": "Mathias Lafeldt",
-        "url": "https://twitter.com/mlafeldt",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Mathias Lafeldt",
+          "url": "https://twitter.com/mlafeldt",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Windows Container Networking",
       "url": "https://blogs.technet.microsoft.com/virtualization/2016/05/05/windows-container-networking/",
-      "contributor": {
-        "name": "Jason Messer",
-        "url": "https://www.linkedin.com/in/jason-messer-287b0b86",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Jason Messer",
+          "url": "https://www.linkedin.com/in/jason-messer-287b0b86",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker Beta for Windows + Microservices project",
       "url": "https://medium.com/@fresnizky/docker-beta-for-windows-microservices-project-ebcd45fa2323#.y1uwsqfci",
-      "contributor": {
-        "name": "Federico Resnizky",
-        "url": "https://twitter.com/fresnizky",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Federico Resnizky",
+          "url": "https://twitter.com/fresnizky",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Self-hosting a blog with Ghost and Docker",
       "url": "https://blog.erindachtler.me/self-hosting-a-blog-with-ghost-and-docker/",
-      "contributor": {
-        "name": "Erin Dachtler",
-        "url": "https://blog.erindachtler.me/",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Erin Dachtler",
+          "url": "https://blog.erindachtler.me/",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Official Consul Docker Image",
       "url": "https://www.hashicorp.com/blog/official-consul-docker-image.html",
-      "contributor": {
-        "name": "James Philips",
-        "url": "https://twitter.com/slackpad",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "James Philips",
+          "url": "https://twitter.com/slackpad",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker inside docker and overview about Jenkins 2",
       "url": "http://gianarb.it/blog/docker-inside-docker-and-jenkins-2",
-      "contributor": {
-        "name": "Gianluca Arbezzano",
-        "url": "https://twitter.com/GianArb",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Gianluca Arbezzano",
+          "url": "https://twitter.com/GianArb",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "The agenda for DockerCon 2016 agenda is live",
       "url": "http://2016.dockercon.com/agenda",
-      "contributor": {
-        "name": "DockerCon 2016",
-        "url": "http://2016.dockercon.com/",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "DockerCon 2016",
+          "url": "http://2016.dockercon.com/",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Production Ready Jenkins 2.0 in Two Steps with Docker",
       "url": "https://blog.flowlog-stats.com/2016/05/05/production-ready-jenkins-2-0-in-two-steps-with-docker/",
-      "contributor": {
-        "name": "Garland Kan",
-        "url": "https://twitter.com/gargar454",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Garland Kan",
+          "url": "https://twitter.com/gargar454",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Containers in Windows Server 2016 TP5",
       "url": "http://wragg.io/containers-in-windows-server-2016-tp5/",
-      "contributor": {
-        "name": "Mark Wragg",
-        "url": "https://twitter.com/markwragg",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Mark Wragg",
+          "url": "https://twitter.com/markwragg",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "A round-up of my JaxDevOps experience",
       "url": "http://blog.cloud66.com/a-round-up-of-my-jaxdevops-experience/",
-      "contributor": {
-        "name": "Dani\u00ebl van Gils",
-        "url": "https://twitter.com/foldingbeauty",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Dani\u00ebl van Gils",
+          "url": "https://twitter.com/foldingbeauty",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "10 Tips & Tricks with Docker",
       "url": "https://mercurenews.com/en/10-tips-tricks-with-docker/",
-      "contributor": {
-        "name": "Dominique Haas",
-        "url": "https://twitter.com/Evild67",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Dominique Haas",
+          "url": "https://twitter.com/Evild67",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "RSpec For Ops Part 4: Test driven Docker",
       "url": "http://blog.danzil.io/2016/05/05/rspec-for-ops-test-driven-docker.html",
-      "contributor": {
-        "name": "David Danzilio",
-        "url": "https://twitter.com/djdanzilio",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "David Danzilio",
+          "url": "https://twitter.com/djdanzilio",
+          "is_captain": false
+        }
+      ]
     }
   ]
 }

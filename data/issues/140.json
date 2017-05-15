@@ -8,282 +8,338 @@
     {
       "title": "Dockerize your Grails App for more deployment fun",
       "url": "https://speakerdeck.com/mariodavid/dockerize-your-grails-app-for-more-deployment-fun-gr8conf-eu-2016",
-      "contributor": {
-        "name": "Mario David",
-        "url": "https://twitter.com/mariomddavid",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Mario David",
+          "url": "https://twitter.com/mariomddavid",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Writing tests for Docker images",
       "url": "http://docker-blog.jevsejev.io/2016/06/09/docker-image-tests/",
-      "contributor": {
-        "name": "Sergej Jevsejev",
-        "url": "https://github.com/sjevs",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Sergej Jevsejev",
+          "url": "https://github.com/sjevs",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "How to Automate Web Application Testing With Docker and Travis",
       "url": "https://www.linux.com/learn/how-automate-web-application-testing-docker-and-travis",
-      "contributor": {
-        "name": "Mathieu Buffenoir",
-        "url": "https://twitter.com/mbuffenoir",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Mathieu Buffenoir",
+          "url": "https://twitter.com/mbuffenoir",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "The Absurdly Compelling Business Case For The Docker Datacenter",
       "url": "https://www.linkedin.com/pulse/absurdly-compelling-business-case-docker-datacenter-benjamin-wootton",
-      "contributor": {
-        "name": "Benjamin Wootton",
-        "url": "https://twitter.com/benjaminwootton",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Benjamin Wootton",
+          "url": "https://twitter.com/benjaminwootton",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "A Beginner's Guide to DockerCon",
       "url": "https://blog.codeship.com/beginners-guide-dockercon/",
-      "contributor": {
-        "name": "Laura Frank",
-        "url": "https://twitter.com/rhein_wein",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Laura Frank",
+          "url": "https://twitter.com/rhein_wein",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "First Look at Docker SwarmKit",
       "url": "https://blog.replicated.com/2016/06/08/first-look-at-swarmkit/",
-      "contributor": {
-        "name": "Marc Campbell",
-        "url": "https://twitter.com/mccode",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Marc Campbell",
+          "url": "https://twitter.com/mccode",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker was well received at Germany's biggest Raspberry Pi Jam",
       "url": "http://blog.hypriot.com/post/docker-was-well-received-at-piandmore/",
-      "contributor": {
-        "name": "Govinda Fichtner",
-        "url": "https://twitter.com/_beagile_",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Govinda Fichtner",
+          "url": "https://twitter.com/_beagile_",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker Cloud: The Story of the Whales on the Wing!",
       "url": "https://medium.com/@canthefason/docker-cloud-the-story-of-the-whales-on-the-wing-6fd2643671d6#.jmjf5vgat",
-      "contributor": {
-        "name": "Can Y\u00fccel",
-        "url": "https://twitter.com/canthefason",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Can Y\u00fccel",
+          "url": "https://twitter.com/canthefason",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Build, Ship, Run #Containers on Windows Server 2016 TP5 with #Docker",
       "url": "http://dille.name/blog/2016/06/08/build-ship-run-containers-with-windows-server-2016-tp5/",
-      "contributor": {
-        "name": "Nicholas Dille",
-        "url": "https://twitter.com/nicholasdille",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Nicholas Dille",
+          "url": "https://twitter.com/nicholasdille",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Massively Scalable with Docker SwarmKit",
       "url": "https://medium.com/@chanwit/massively-scalable-with-docker-swarmkit-879541caff86#.7r6515ffy",
-      "contributor": {
-        "name": "Chanwit Kaewkasi",
-        "url": "https://twitter.com/chanwit",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Chanwit Kaewkasi",
+          "url": "https://twitter.com/chanwit",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Deploy Docker Swarm cluster on one host",
       "url": "http://nanxiao.me/en/deploy-docker-swarm-cluster-on-one-host/",
-      "contributor": {
-        "name": "Nan Xiao",
-        "url": "https://twitter.com/NanXiao2",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Nan Xiao",
+          "url": "https://twitter.com/NanXiao2",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "What to Inspect When You are Inspecting!",
       "url": "http://jerrygamblin.com/2016/06/08/what-to-inspect-when-you-are-inspecting/",
-      "contributor": {
-        "name": "Jerry Gamblin",
-        "url": "https://twitter.com/JGamblin",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Jerry Gamblin",
+          "url": "https://twitter.com/JGamblin",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Integrating Docker Hub In Your Application Build Process",
       "url": "https://www.linux.com/learn/integrating-docker-hub-your-application-build-process",
-      "contributor": {
-        "name": "Mathieu Buffenoir",
-        "url": "https://twitter.com/mbuffenoir",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Mathieu Buffenoir",
+          "url": "https://twitter.com/mbuffenoir",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Meet me at DockerCon",
       "url": "http://blog.alexellis.io/meet-me-at-dockercon/",
-      "contributor": {
-        "name": "Alex Ellis",
-        "url": "https://twitter.com/alexellisuk",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Alex Ellis",
+          "url": "https://twitter.com/alexellisuk",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Datadog",
       "url": "https://www.datadoghq.com/",
-      "contributor": {
-        "name": "IBM",
-        "url": "https://twitter.com/IBM",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "IBM",
+          "url": "https://twitter.com/IBM",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Using Shipyard To Manage Docker Containers",
       "url": "http://jerrygamblin.com/2016/06/10/using-shipyard-to-manage-docker-containers/",
-      "contributor": {
-        "name": "Jerry Gamblin",
-        "url": "https://twitter.com/JGamblin",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Jerry Gamblin",
+          "url": "https://twitter.com/JGamblin",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Running .NET Core (RC2) in Docker on Ubuntu",
       "url": "https://sieder.xyz/blog/tech/2016/06/net-core-rc2-docker-ubuntu/",
-      "contributor": {
-        "name": "Ivan Sieder",
-        "url": "https://twitter.com/ivansieder/",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Ivan Sieder",
+          "url": "https://twitter.com/ivansieder/",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Developing and Deploying with Docker Cloud",
       "url": "http://blog.htmlfusion.com/developing-and-deploying-with-docker-cloud/",
-      "contributor": {
-        "name": "Jesse Vander Does",
-        "url": "https://twitter.com/freakTheMight",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Jesse Vander Does",
+          "url": "https://twitter.com/freakTheMight",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Unsung Heroes: Bringing Docker to IBM\u2019s \u201cBig Iron\u201d",
       "url": "https://integratedcode.us/2016/06/10/unsung-heroes-bringing-docker-to-ibms-big-iron/",
-      "contributor": {
-        "name": "Phil Estes",
-        "url": "https://twitter.com/estesp",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Phil Estes",
+          "url": "https://twitter.com/estesp",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Explaining Docker Image IDs",
       "url": "http://www.windsock.io/explaining-docker-image-ids/",
-      "contributor": {
-        "name": "Nigel Brown",
-        "url": "https://twitter.com/n_brownuk",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Nigel Brown",
+          "url": "https://twitter.com/n_brownuk",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Microservices Bliss with Docker and Traefik",
       "url": "http://blog.hypriot.com/post/microservices-bliss-with-docker-and-traefik/",
-      "contributor": {
-        "name": "Govinda Fichtner",
-        "url": "https://twitter.com/_beagile_",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Govinda Fichtner",
+          "url": "https://twitter.com/_beagile_",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "7 DockerCon Speakers Pick the Top Sessions You Shouldn't Miss",
       "url": "http://logz.io/blog/7-dockercon-speakers-pick-the-top-sessions-you-shouldnt-miss/",
-      "contributor": {
-        "name": "Daniel Berman",
-        "url": "https://twitter.com/proudboffin",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Daniel Berman",
+          "url": "https://twitter.com/proudboffin",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Setup Automatic Deployment, Updates and Backups of Multiple Web Applications with Docker on Scaleway",
       "url": "http://serebrov.github.io/html/2016-06-10-scaleway-docker-deployment.html",
-      "contributor": {
-        "name": "Boris Serebrov",
-        "url": "https://github.com/serebrov",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Boris Serebrov",
+          "url": "https://github.com/serebrov",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Using Docker tools for Visual Studio with a Hyper-V based Docker host",
       "url": "https://realalm.com/2016/06/15/using-docker-tools-for-visual-studio-with-a-hyper-v-based-docker-host/",
-      "contributor": {
-        "name": "Kees Verhaar",
-        "url": "https://twitter.com/kverhaar",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Kees Verhaar",
+          "url": "https://twitter.com/kverhaar",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Why container technology is the secret ingredient for business success",
       "url": "http://www.itproportal.com/2016/06/11/why-container-technology-is-the-secret-ingredient-for-business-success/",
-      "contributor": {
-        "name": "Luke Bond",
-        "url": "https://twitter.com/lukeb0nd",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Luke Bond",
+          "url": "https://twitter.com/lukeb0nd",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Docker Hub, save and share your docker images",
       "url": "http://salerno-rafael.blogspot.com/2016/06/docker-hub-save-and-share-your-images.html",
-      "contributor": {
-        "name": "Rafael Salerno",
-        "url": "https://twitter.com/salerno_rafael",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Rafael Salerno",
+          "url": "https://twitter.com/salerno_rafael",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Polyglot serverless computing using Docker and OpenWhisk",
       "url": "https://medium.com/@osipov/polyglot-serverless-computing-using-docker-and-openwhisk-c6ff14e7ed8#.equh051t1",
-      "contributor": {
-        "name": "Carl Osipov",
-        "url": "https://twitter.com/Osipov",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Carl Osipov",
+          "url": "https://twitter.com/Osipov",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Debugging node.js in Docker using Node Inspector",
       "url": "https://keylocation.sg/our-tech/debugging-nodejs-in-docker-using-node-inspector",
-      "contributor": {
-        "name": "Rhys Arkins",
-        "url": "https://twitter.com/rarkins",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Rhys Arkins",
+          "url": "https://twitter.com/rarkins",
+          "is_captain": false
+        }
+      ]
     }
   ]
 }

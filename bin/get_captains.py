@@ -5,49 +5,34 @@ Extract the list of Docker Captains from https://www.docker.com/community/docker
  locally. This is so we can then cross reference the article authors and mark their `Contributor` objects as captains. 
 """
 
-# TODO: Re-do this with Selenium so I can scrape the bio text.
-# TODO: Get the social links
 import json
-from typing import Dict, List, Any
+from typing import List
 
 import click
 import requests
 from bs4 import BeautifulSoup
 
-
-class DockerCaptain:
-    name: str
-    avatar_url: str
-    title: str
-
-    def __init__(self, name: str, avatar_url: str, title: str):
-        self.name = name
-        self.avatar_url = avatar_url
-        self.title = title
-
-    def __repr__(self) -> str:
-        return str(self.__dict__())
-
-    def __dict__(self) -> Dict[str, Any]:
-        return {
-            'name': self.name,
-            'avatar_url': self.avatar_url,
-            'title': self.title
-        }
+from dw.models import DockerCaptain
 
 
 @click.command()
 def get_captains():
     html: str = requests.get('https://www.docker.com/community/docker-captains').text
     soup: BeautifulSoup = BeautifulSoup(html, 'html.parser')
+    captains_soup = soup.select('#captians-container > ul > li')
+    captains_bios = {
+        bio_soup.select('.name')[0].text: bio_soup.find('p').text for bio_soup in soup.select('div.captian_info')
+    }
     captains: List[DockerCaptain] = []
 
-    for captain_soup in soup.select('#captians-container > ul > li'):
+    for captain_soup in captains_soup:
         captains.append(
             DockerCaptain(
                 name=captain_soup.select('.name')[0].text,
                 avatar_url=captain_soup.find('img')['src'],
-                title=captain_soup.select('.job')[0].text
+                title=captain_soup.select('.job')[0].text,
+                bio=captains_bios[captain_soup.select('.name')[0].text],
+                links={link['class'][0].split('_')[0]:link.find('a')['href'] for link in captain_soup.select('ul > li')}
             )
         )
 

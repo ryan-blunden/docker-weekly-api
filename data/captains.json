@@ -1,342 +1,795 @@
 [
   {
-    "name": "Jonathan Leibiusky",
-    "avatar_url": "https://www.docker.com/sites/default/files/jonathanleibusky.jpeg",
-    "title": "CTO at Mantika"
-  },
-  {
-    "name": "Alex Ellis",
-    "avatar_url": "https://www.docker.com/sites/default/files/AAEAAQAAAAAAAAfwAAAAJDg0NzY1MzMxLTA4ZmQtNGIyZS1iOWUyLTZhZjA0YjBlZTMwMw.jpg",
-    "title": "Senior Software Engineer at ADP"
-  },
-  {
-    "name": "Jesse White",
-    "avatar_url": "https://www.docker.com/sites/default/files/Headshot%20Jesse%20White.jpg",
-    "title": "Principal at Contino"
-  },
-  {
-    "name": "Kendrick Coleman",
-    "avatar_url": "https://www.docker.com/sites/default/files/kendrickcoleman.png",
-    "title": "\u200eDeveloper Advocate at EMC"
-  },
-  {
-    "name": "Manuel Morej\u00f3n",
-    "avatar_url": "https://www.docker.com/sites/default/files/Manuel%20Morejo%CC%81n.jpg",
-    "title": "DevOps Engineer and Consultant"
-  },
-  {
-    "name": "Lee Calcote",
-    "avatar_url": "https://www.docker.com/sites/default/files/Lee%20Calcote.jpg",
-    "title": "Sr. Director, Technology Strategy at SolarWinds"
-  },
-  {
-    "name": "John Zaccone",
-    "avatar_url": "https://www.docker.com/sites/default/files/johnzaccone.png",
-    "title": "Cloud Engineer at IBM"
-  },
-  {
-    "name": "Viktor Farcic",
-    "avatar_url": "https://www.docker.com/sites/default/files/viktorfarcic.jpg",
-    "title": "Senior Consultant at CloudBees"
-  },
-  {
-    "name": "Dieter Reuter",
-    "avatar_url": "https://www.docker.com/sites/default/files/dieterreuter.jpeg",
-    "title": "Sr. Consultant at SEAL Systems, Docker Pirate at Hypriot"
-  },
-  {
-    "name": "Daniel Finneran",
-    "avatar_url": "https://www.docker.com/sites/default/files/Dan%20Finneran.jpg",
-    "title": "Software Defined Solutions Architect, Hewlett-Packard"
-  },
-  {
-    "name": "Michele Leroux Bustamante",
-    "avatar_url": "https://www.docker.com/sites/default/files/Michele%20Leroux%20Bustamante.jpeg",
-    "title": "CIO at Solliance; Cofounder of Snapboard"
-  },
-  {
-    "name": "Fabien Amico",
-    "avatar_url": "https://www.docker.com/sites/default/files/FABIEN%20DOCKER%20CAPTAIN%202016%281%29.jpg",
-    "title": "Founder & CTO at Treeptik"
-  },
-  {
-    "name": "Adrien Blind",
-    "avatar_url": "https://www.docker.com/sites/default/files/adrien.jpg",
-    "title": "DevOps Coach"
-  },
-  {
-    "name": "Adrian Mouat",
-    "avatar_url": "https://www.docker.com/sites/default/files/adrianmouat_0.jpg",
-    "title": "Chief Scientist at Container Solutions"
-  },
-  {
-    "name": "Luis Herrera Ben\u00edtez",
-    "avatar_url": "https://www.docker.com/sites/default/files/Luis%20Herredia.jpg",
-    "title": "Chief technology officer at Antelops Consulting"
-  },
-  {
-    "name": "Scott Coulton",
-    "avatar_url": "https://www.docker.com/sites/default/files/Scott%20Coulton.jpg",
-    "title": "Senior Software Engineer, Puppet"
-  },
-  {
-    "name": "Trevor Sullivan",
-    "avatar_url": "https://www.docker.com/sites/default/files/trevorsullivan.jpg",
-    "title": "Cloud and Automation"
-  },
-  {
-    "name": "Shawn Bower",
-    "avatar_url": "https://www.docker.com/sites/default/files/Shawn_Bower.png",
-    "title": "Cloud Architect for Cornell University"
-  },
-  {
-    "name": "Jonas Rosland",
-    "avatar_url": "https://www.docker.com/sites/default/files/jonasrosland.jpeg",
-    "title": "Developer Advocate, Community Manager at EMC {code}"
-  },
-  {
-    "name": "Stefan Scherer",
-    "avatar_url": "https://www.docker.com/sites/default/files/stefanscherer_0.jpg",
-    "title": "Software Engineer at SEAL Systems, Docker Pirate at Hypriot"
-  },
-  {
-    "name": "Benjamin Wootton",
-    "avatar_url": "https://www.docker.com/sites/default/files/Benjamin%20Wootton.jpg",
-    "title": "Co-Founder & Principal Consultant at Contino "
+    "name": "Phil Estes",
+    "avatar_url": "https://www.docker.com/sites/default/files/Phil%20Estes.jpeg",
+    "title": "Docker engine maintainer",
+    "bio": "Phil is a Senior Technical Staff Member with IBM's Cloud Open Technologies\r\nteam. The Open Technology team leads IBM's strategy and involvement in\r\nkey cloud open source technologies, including Docker, Cloud Foundry, and\r\nOpenstack. Phil is a core contributor and maintainer on the Docker engine\r\nproject and is a leader and expert within IBM on container and cloud open\r\nsource technologies. He regularly helps both IBM product teams and IBM's\r\ncustomers to apply container technology and concepts to their cloud strategy and\r\nimplementation. Phil speaks regularly at industry conferences and meetups and\r\nenjoys helping customers and developers alike understand this fast growing\r\necosystem.",
+    "links": {
+      "twitter": "https://twitter.com/estesp",
+      "linkedin": "https://www.linkedin.com/in/estesp",
+      "facebook": "http://integratedcode.us",
+      "github": "https://github.com/estesp"
+    }
   },
   {
     "name": "Lorenzo Fontana",
     "avatar_url": "https://www.docker.com/sites/default/files/Lorenzo%20Fontana.jpg",
-    "title": "DevOps Expert at Kiratech"
-  },
-  {
-    "name": "Vincent De Smet",
-    "avatar_url": "https://www.docker.com/sites/default/files/Vicent%20De%20Smet.jpg",
-    "title": "DevOps Engineer at Honestbee"
-  },
-  {
-    "name": "Rajdeep Dua",
-    "avatar_url": "https://www.docker.com/sites/default/files/rajdeepdua.jpeg",
-    "title": "Director, Developer Relations at Salesforce"
-  },
-  {
-    "name": "Luc Juggery",
-    "avatar_url": "https://www.docker.com/sites/default/files/Luc.jpg",
-    "title": "Senior software engineer, co-founder of GridPocket and TRAXxs"
-  },
-  {
-    "name": "Everett Toews",
-    "avatar_url": "https://www.docker.com/sites/default/files/Everett%20Toews.jpg",
-    "title": "Developer Advocate at Rackspace"
-  },
-  {
-    "name": "Michael Irwin",
-    "avatar_url": "https://www.docker.com/sites/default/files/Michael%20Irwin.jpg",
-    "title": "Virginia Tech"
-  },
-  {
-    "name": "Jonobie Ford",
-    "avatar_url": "https://www.docker.com/sites/default/files/jonobieford.jpg",
-    "title": "Sr. Program Manager for Virtual Machine Manager at Microsoft"
-  },
-  {
-    "name": "Nicholas Dille",
-    "avatar_url": "https://www.docker.com/sites/default/files/Nicholas%20Dille.jpeg",
-    "title": "DevOps Engineer"
-  },
-  {
-    "name": "Ilkka Anttonen",
-    "avatar_url": "https://www.docker.com/sites/default/files/ilkkaanttonen.jpg",
-    "title": "Emerging Technology Nordic Lead at Accenture"
-  },
-  {
-    "name": "Nicolas De Loof",
-    "avatar_url": "https://www.docker.com/sites/default/files/nicolasdeloof.jpg",
-    "title": "Hacker at CloudBees"
-  },
-  {
-    "name": "Phil Estes",
-    "avatar_url": "https://www.docker.com/sites/default/files/Phil%20Estes.jpeg",
-    "title": "Docker engine maintainer"
-  },
-  {
-    "name": "Mark Van Holsteijn",
-    "avatar_url": "https://www.docker.com/sites/default/files/markvanholsteijn.png",
-    "title": "Principal Consultant at Xebia"
-  },
-  {
-    "name": "Brian Christner",
-    "avatar_url": "https://www.docker.com/sites/default/files/brianchristner.jpg",
-    "title": "Cloud Advocate at Swisscom AG"
-  },
-  {
-    "name": "Thomas Shaw",
-    "avatar_url": "https://www.docker.com/sites/default/files/thomasshaw.jpg",
-    "title": "Build Engineer at Demonware"
-  },
-  {
-    "name": "Dwayne Lessner",
-    "avatar_url": "https://www.docker.com/sites/default/files/dwaynelessner.jpeg",
-    "title": "\u200eSr Technical Marketing Engineer at Nutanix"
-  },
-  {
-    "name": "Rafael Gomes",
-    "avatar_url": "https://www.docker.com/sites/default/files/Rafael%20Gomes.jpg",
-    "title": "Consultant at ThoughtWorks"
-  },
-  {
-    "name": "Francisco Souza",
-    "avatar_url": "https://www.docker.com/sites/default/files/franciscosouza.jpeg",
-    "title": "Senior Software Engineer at The New York Times"
-  },
-  {
-    "name": "Bret Fisher",
-    "avatar_url": "https://www.docker.com/sites/default/files/bretfisher.jpg",
-    "title": "Independent Cloud Sysadmin and DevOps Engineer"
-  },
-  {
-    "name": "Tony Pujals",
-    "avatar_url": "https://www.docker.com/sites/default/files/Tuny%20Pujals.jpg",
-    "title": "Director of Cloud Engineering at Appcelerator"
-  },
-  {
-    "name": "Gianluca Arbezzano",
-    "avatar_url": "https://www.docker.com/sites/default/files/Gianluca%20Arbezzano.jpg",
-    "title": "Software Engineer at CurrencyFair"
-  },
-  {
-    "name": "Sreenivas Makam",
-    "avatar_url": "https://www.docker.com/sites/default/files/sreenivasmakam.jpg",
-    "title": "Sr. Engineering Manager at Cisco Systems"
-  },
-  {
-    "name": "Manesh Raveendran",
-    "avatar_url": "https://www.docker.com/sites/default/files/Manesh.jpg",
-    "title": "Microsoft Azure MVP"
-  },
-  {
-    "name": "Tim Haak",
-    "avatar_url": "https://www.docker.com/sites/default/files/timhaak.png",
-    "title": "HaakCo"
-  },
-  {
-    "name": "Nigel Poulton",
-    "avatar_url": "https://www.docker.com/sites/default/files/NigelPoulton400x400.png",
-    "title": "Infrastructure specialist and creator of digital content "
-  },
-  {
-    "name": "Mark Rendle",
-    "avatar_url": "https://www.docker.com/sites/default/files/markrendle.jpg",
-    "title": "Founder and CEO at Rendle Labs"
-  },
-  {
-    "name": "Tricia Radcliffe",
-    "avatar_url": "https://www.docker.com/sites/default/files/Tricia%20Radcliffe.jpg",
-    "title": "Sales Engineer at AppDynamics"
-  },
-  {
-    "name": "Antonis Kalipetis",
-    "avatar_url": "https://www.docker.com/sites/default/files/antoniskalipetis.jpeg",
-    "title": "CTO at SourceLair"
-  },
-  {
-    "name": "Neependra Khare",
-    "avatar_url": "https://www.docker.com/sites/default/files/neependrakhare.png",
-    "title": "Container Evangelist, Trainer, Author"
-  },
-  {
-    "name": "Nirmal Mehta",
-    "avatar_url": "https://www.docker.com/sites/default/files/nirmal_mehta.png",
-    "title": "Chief Technologist in the Strategic Innovations Group at Booz Allen Hamilton"
-  },
-  {
-    "name": "Nick Janetakis",
-    "avatar_url": "https://www.docker.com/sites/default/files/Nick%20Janetakis.jpg",
-    "title": "Developer \u00b7 Teacher \u00b7 Entrepreneur"
-  },
-  {
-    "name": "Jeff Nickoloff",
-    "avatar_url": "https://www.docker.com/sites/default/files/jeffnickoloff.jpeg",
-    "title": "Principal Consultant at All in Geek Consulting"
-  },
-  {
-    "name": "Dan Wahlin",
-    "avatar_url": "https://www.docker.com/sites/default/files/Dan%20Whalin.jpg",
-    "title": "Architecture, Development and Tech Training"
-  },
-  {
-    "name": "Marcos Lilljedahl",
-    "avatar_url": "https://www.docker.com/sites/default/files/marcosnils.jpg",
-    "title": "Head of Research and Development at Mantika"
-  },
-  {
-    "name": "John Lees-Miller",
-    "avatar_url": "https://www.docker.com/sites/default/files/John%20Lees.jpg",
-    "title": "Chief Technology Officer at Overleaf"
-  },
-  {
-    "name": "Karl Matthias",
-    "avatar_url": "https://www.docker.com/sites/default/files/karlmatthias_0.jpg",
-    "title": "Principal Systems Engineer at Nitro, Inc."
-  },
-  {
-    "name": "Andrey Sibiryov",
-    "avatar_url": "https://www.docker.com/sites/default/files/Andrey%20Sibiryov.jpg",
-    "title": "SRE, Uber"
-  },
-  {
-    "name": "Buc Rogers",
-    "avatar_url": "https://www.docker.com/sites/default/files/bucrogers.jpg",
-    "title": "DevOps Container Architect at Gogo"
-  },
-  {
-    "name": "Chris Ciborowski",
-    "avatar_url": "https://www.docker.com/sites/default/files/chrisciborowski.jpeg",
-    "title": "CEO, Nebulaworks"
-  },
-  {
-    "name": "Chanwit Kaewkasi",
-    "avatar_url": "https://www.docker.com/sites/default/files/chanwitkaewkasi.png",
-    "title": "Asst. Professor at Suranaree University of Technology"
-  },
-  {
-    "name": "Laura Frank",
-    "avatar_url": "https://www.docker.com/sites/default/files/imageedit_2_4675341732.jpg",
-    "title": "Sr. Software Engineer at Codeship"
-  },
-  {
-    "name": "Chris Richardson",
-    "avatar_url": "https://www.docker.com/sites/default/files/chrisrichardson_0.jpg",
-    "title": "Founder of Eventuate"
-  },
-  {
-    "name": "Dimitris Kapanidis",
-    "avatar_url": "https://www.docker.com/sites/default/files/Dimitris%20Kapanidis.jpg",
-    "title": "Founder at Harbur.io"
-  },
-  {
-    "name": "Philipp Garbe",
-    "avatar_url": "https://www.docker.com/sites/default/files/philipp_garbe_bio2__1__png.png",
-    "title": "Lead Software Developer at AutoScout24 GmbH"
+    "title": "DevOps Expert at Kiratech",
+    "bio": "Lorenzo Fontana is a DevOps Expert at Kiratech, his mission is to help companies and teams to adopt DevOps practices and culture.\r\nFavourite topics: Containers, Networking, Security, Distributed Systems",
+    "links": {
+      "twitter": "https://twitter.com/fntlnz",
+      "linkedin": "https://www.linkedin.com/in/lorenzofontana",
+      "facebook": "http://fntlnz.wtf/",
+      "github": "https://github.com/fntlnz"
+    }
   },
   {
     "name": "Arun Gutpa",
     "avatar_url": "https://www.docker.com/sites/default/files/arungupta.jpg",
-    "title": "VP of Developer Advocacy at Couchbase"
+    "title": "VP of Developer Advocacy at Couchbase",
+    "bio": "Arun Gupta is the vice president of developer advocacy at Couchbase. He has been building developer communities for 10+ years at Sun, Oracle, and Red Hat. He has deep expertise in leading cross-functional teams to develop and execute strategy, planning and execution of content, marketing campaigns, and programs. Prior to that he led engineering teams at Sun and is a founding member of the Java EE team.\r\n\r\nGupta has authored more than 2,000 blog posts on technology. He has extensive speaking experience in more than 40 countries on myriad topics and is a JavaOne Rock Star. Gupta also founded the Devoxx4Kids chapter in the US and continues to promote technology education among children. An author of a best-selling book, an avid runner, a globe trotter, a Java Champion, a JUG leader, and a Docker Captain, he is easily accessible at @arungupta.",
+    "links": {
+      "twitter": "https://twitter.com/arungupta",
+      "linkedin": "https://www.linkedin.com/in/arunpgupta",
+      "facebook": "http://blog.arungupta.me",
+      "github": "https://github.com/arun-gupta"
+    }
+  },
+  {
+    "name": "Philipp Garbe",
+    "avatar_url": "https://www.docker.com/sites/default/files/philipp_garbe_bio2__1__png.png",
+    "title": "Lead Software Developer at AutoScout24 GmbH",
+    "bio": "Philipp is driven by technologies and tools that allows him to release faster and more often. He expects that every commit automatically goes into production and it shouldn't surprise that he's excited about microservices, docker and the cloud. Affected by Pain Driven Development, he believes that things needs to be changed whenever the pain is big enough.",
+    "links": {
+      "twitter": "https://twitter.com/pgarbe",
+      "linkedin": "https://www.linkedin.com/in/pgarbe",
+      "facebook": "http://garbe.io",
+      "github": "https://github.com/pgarbe"
+    }
+  },
+  {
+    "name": "Nigel Poulton",
+    "avatar_url": "https://www.docker.com/sites/default/files/NigelPoulton400x400.png",
+    "title": "Infrastructure specialist and creator of digital content ",
+    "bio": "Living it large in the world of enterprise IT. Technical training videos at pluralsight.com, and co-host of the In Tech We Trust Podcast.",
+    "links": {
+      "twitter": "https://twitter.com/nigelpoulton",
+      "linkedin": "https://www.linkedin.com/in/nigelpoulton",
+      "facebook": "http://blog.nigelpoulton.com/",
+      "github": "https://github.com/nigelpoulton"
+    }
+  },
+  {
+    "name": "Nirmal Mehta",
+    "avatar_url": "https://www.docker.com/sites/default/files/nirmal_mehta.png",
+    "title": "Chief Technologist in the Strategic Innovations Group at Booz Allen Hamilton",
+    "bio": "Chief Technologist in the Strategic Innovations Group at Booz Allen Hamilton specializing in research, implementation and integration of emerging technologies to Booz Allen\u2019s federal government client base. He leads the firms efforts in containerization and distributed application architectures, and thought leader for DevOps practices. He is passionate about Open Source, Containerization, Cloud Automation, DevOps, Data Center Transformation and integrating open-source software to push the capabilities of future IT infrastructure. He focuses on bringing leading edge technologies to enterprise systems for commercial and public sector clients.",
+    "links": {
+      "twitter": "https://twitter.com/normalfaults",
+      "facebook": "https://nirmal.io",
+      "github": "https://github.com/normalfaults"
+    }
+  },
+  {
+    "name": "Kendrick Coleman",
+    "avatar_url": "https://www.docker.com/sites/default/files/kendrickcoleman.png",
+    "title": "\u200eDeveloper Advocate at EMC",
+    "bio": "Kendrick Coleman is a reformed sysadmin turned coder and awaits to tackle ideas with Ruby, Javascript, or Go. In his daily role a Developer Advocate for EMC {code}, he works with a team to focus and publish all things open source.",
+    "links": {
+      "twitter": "https://twitter.com/kendrickcoleman",
+      "linkedin": "https://www.linkedin.com/in/kendrickcoleman",
+      "facebook": "http://www.kendrickcoleman.com/",
+      "github": "https://github.com/kacole2"
+    }
+  },
+  {
+    "name": "Chris Richardson",
+    "avatar_url": "https://www.docker.com/sites/default/files/chrisrichardson_0.jpg",
+    "title": "Founder of Eventuate",
+    "bio": "Chris Richardson is a developer and architect. He is the author of POJOs in Action, which describes how to build enterprise Java applications with frameworks such as Spring and Hibernate. Chris was also the founder of the original CloudFoundry.com, an early Java PaaS for Amazon EC2. He is the creator of http://microservices.io, a website describing how to develop and deploy microservices. Chris provides microservices consulting and training and is working on his third startup http://eventuate.io, an application platform for developing microservices. ",
+    "links": {
+      "twitter": "https://twitter.com/crichardson",
+      "linkedin": "http://www.linkedin.com/in/pojos/",
+      "facebook": "http://eventuate.io/",
+      "github": "https://github.com/cer"
+    }
+  },
+  {
+    "name": "Jesse White",
+    "avatar_url": "https://www.docker.com/sites/default/files/Headshot%20Jesse%20White.jpg",
+    "title": "Principal at Contino",
+    "bio": "Jesse White is a Principal at Contino with more than 15 years of technology industry experience across financial services, healthcare, advertising, e-commerce, and IoT. A 10 year veteran of New York City\u2019s startup ecosystem, he's been busy building tech-focused human capital, with an eye for getting things done.\r\n\r\nAs a founder of the DockerNYC Meetup group, Jesse has spent the last 5 years build teams and technology at the intersection of DevOps, cloud computing, and security. Jesse is an avid eater/listener/reader of good things.",
+    "links": {
+      "twitter": "https://twitter.com/Jesse_White",
+      "linkedin": "https://www.linkedin.com/in/jessejwhite",
+      "facebook": "https://medium.com/@Jesse_White/",
+      "github": "https://github.com/anonymuse"
+    }
+  },
+  {
+    "name": "Laura Frank",
+    "avatar_url": "https://www.docker.com/sites/default/files/imageedit_2_4675341732.jpg",
+    "title": "Sr. Software Engineer at Codeship",
+    "bio": "Laura is a developer focused on making tools for other developers. As an engineer at Codeship, she works on improving the Docker infrastructure and overall experience for users on Codeship. Previously, she worked on several open source projects to support Docker in the early stages of the project, including Panamax and ImageLayers. She currently lives in Berlin.",
+    "links": {
+      "twitter": "https://twitter.com/rhein_wein",
+      "linkedin": "https://www.linkedin.com/in/laurafrank",
+      "facebook": "http://www.slideshare.net/rheinwein",
+      "github": "https://github.com/rheinwein"
+    }
   },
   {
     "name": "Aaron Stannard",
     "avatar_url": "https://www.docker.com/sites/default/files/aaronstannard.jpg",
-    "title": "Founder and CEO at Petabridge"
+    "title": "Founder and CEO at Petabridge",
+    "bio": "Aaron is the founder and CEO of Petabridge, and the co-founder of the Akka.NET open-source project. Prior to Petabridge, Aaron founded MarkedUp Analytics, a real-time in-app marketing and analytics service used by 1000+ developers. Prior to that he worked at Microsoft as a Startup Developer Evangelist.",
+    "links": {
+      "twitter": "https://twitter.com/Aaronontheweb",
+      "linkedin": "https://www.linkedin.com/in/aaronstannard",
+      "facebook": "http://www.aaronstannard.com/",
+      "github": "https://github.com/Aaronontheweb"
+    }
   },
   {
-    "name": "Ajeet Singh Raina",
-    "avatar_url": "https://www.docker.com/sites/default/files/ajeetsinghraina_0.jpg",
-    "title": "Technical Lead Engineer at Dell India"
+    "name": "Dieter Reuter",
+    "avatar_url": "https://www.docker.com/sites/default/files/dieterreuter.jpeg",
+    "title": "Sr. Consultant at SEAL Systems, Docker Pirate at Hypriot",
+    "bio": "Dieter is working as a Senior Consultant for his customers on-site to turn real world problems into working solutions. He is using Docker container technologies since more than two years and is passionate about to push Docker to ARM devices for IoT applications and high-density ARMv8 cloud servers.",
+    "links": {
+      "twitter": "https://twitter.com/Quintus23M",
+      "github": "https://github.com/DieterReuter"
+    }
+  },
+  {
+    "name": "Bret Fisher",
+    "avatar_url": "https://www.docker.com/sites/default/files/bretfisher.jpg",
+    "title": "Independent Cloud Sysadmin and DevOps Engineer",
+    "bio": "For 20 years Bret has designed, built, and operated systems from 4 to 4000.  He currently focuses on DevOps style activities in the public cloud and enterprise. Bret works on creating immutable infrastructures, automation, containers, CI/CD, intelligent monitoring, and an occasional JavaScript developer. He spends his free time in Virginia's local, thriving tech scene helping lead local Code for America and Docker Meetup groups. He basically spend his days helping people. Bret lives at the beach. Dogs not Cats.",
+    "links": {
+      "twitter": "https://twitter.com/BretFisher",
+      "linkedin": " http://www.linkedin.com/in/bretefisher",
+      "facebook": "http://bretfisher.com",
+      "github": "https://github.com/bretfisher"
+    }
+  },
+  {
+    "name": "Dwayne Lessner",
+    "avatar_url": "https://www.docker.com/sites/default/files/dwaynelessner.jpeg",
+    "title": "\u200eSr Technical Marketing Engineer at Nutanix",
+    "bio": "I am currently employed as a Technical Marketing Engineer for Nutanix. I\u2019ve have experience in Health Care and the Energy Sector in Western Canada. I have been in IT for over 10 years, starting off as a Programmer and later moving on to Network Operations\\Infrastructure. I have seen a lot of things cross my computer screen. I\u2019ve organized VMware User groups and other technical meetings in my local area. I have spoke at past BriForum\u2019s, VMware User Groups meetings & VMware Forum events.",
+    "links": {
+      "twitter": "https://twitter.com/dlink7",
+      "linkedin": "https://www.linkedin.com/in/dwaynelessner",
+      "github": "https://github.com/dlessner"
+    }
+  },
+  {
+    "name": "Adrian Mouat",
+    "avatar_url": "https://www.docker.com/sites/default/files/adrianmouat_0.jpg",
+    "title": "Chief Scientist at Container Solutions",
+    "bio": "Adrian has been involved with containers from the early days of Docker and authored the O'Reilly book \"Using Docker\". He is currently Chief Scientist at Container Solutions, a pan-European company focusing on consulting and product development for microservices and containers.",
+    "links": {
+      "twitter": "https://twitter.com/adrianmouat",
+      "linkedin": "https://www.linkedin.com/in/adrianmouat",
+      "github": "https://github.com/amouat"
+    }
+  },
+  {
+    "name": "Manesh Raveendran",
+    "avatar_url": "https://www.docker.com/sites/default/files/Manesh.jpg",
+    "title": "Microsoft Azure MVP",
+    "bio": "Manesh is a technology advisor and consultant specializing in cloud computing, data platforms and DevOps with key focus on hybrid workloads. He has helped many enterprises and startups to adapt cloud technologies, build solutions for datacenter scale / high scale consumer applications and services.\r\n\r\nManesh is a Microsoft Azure MVP. He is also AWS certified Solutions Architect (Associate) and Microsoft certified Azure Solutions Architect.",
+    "links": {
+      "twitter": "https://twitter.com/ManeshRavendran",
+      "linkedin": "https://www.linkedin.com/in/maneshraveendran",
+      "facebook": "https://manesh.me",
+      "github": "https://github.com/Manesh-R?tab=repositories"
+    }
+  },
+  {
+    "name": "Manuel Morej\u00f3n",
+    "avatar_url": "https://www.docker.com/sites/default/files/Manuel%20Morejo%CC%81n.jpg",
+    "title": "DevOps Engineer and Consultant",
+    "bio": "Master in Applied Software, DevOps Engineer, Consultant, and Configuration Manager. Has technical and communication skills to help teams to improve their workflow and to reduce deployment times. The goal is always to maximize productivity by minimizing errors. Enthusiastic about teaching and sharing the knowledge with the Community.",
+    "links": {
+      "twitter": "https://twitter.com/morejon85",
+      "linkedin": "https://www.linkedin.com/in/manuelmorejon",
+      "facebook": "http://mmorejon.github.io",
+      "github": "https://github.com/mmorejon"
+    }
+  },
+  {
+    "name": "Dan Wahlin",
+    "avatar_url": "https://www.docker.com/sites/default/files/Dan%20Whalin.jpg",
+    "title": "Architecture, Development and Tech Training",
+    "bio": "Dan Wahlin founded Wahlin Consulting which provides consulting and training services on Web technologies such as JavaScript, Angular, Node.js, C#, ASP.NET MVC, Web API, and Docker. He\u2019s also published over 10 developer courses on Pluralsight.com and Udemy.com including the new Docker for Web Developers course. Dan is a Docker Captain, Google GDE, Microsoft MVP and Regional Director and speaks at conferences and user groups around the world.  Dan has written several books on Web technologies, hundreds of technical articles and blog posts (http://blog.codewithdan.com) and runs the Web Weekly newsletter - a great way to stay up on the latest technologies. Follow Dan on Twitter @DanWahlin.",
+    "links": {
+      "twitter": "https://twitter.com/DanWahlin",
+      "linkedin": "https://www.linkedin.com/pub/dan-wahlin/1/547/46b",
+      "facebook": "http://blog.codewithdan.com",
+      "github": "https://github.com/DanWahlin"
+    }
+  },
+  {
+    "name": "Rajdeep Dua",
+    "avatar_url": "https://www.docker.com/sites/default/files/rajdeepdua.jpeg",
+    "title": "Director, Developer Relations at Salesforce",
+    "bio": "Creating docker content and contributing to the community. Writing books and tutorials, speaking at docker meetups.",
+    "links": {
+      "twitter": "https://twitter.com/rajdeepdua",
+      "linkedin": "https://www.linkedin.com/in/rajdeepd",
+      "github": "https://github.com/rajdeepd"
+    }
+  },
+  {
+    "name": "Mark Van Holsteijn",
+    "avatar_url": "https://www.docker.com/sites/default/files/markvanholsteijn.png",
+    "title": "Principal Consultant at Xebia",
+    "bio": "Mark Van Holsteijn is a Principal Consultant at Xebia in the Netherlands. He tweets at @mvanholsteijn.",
+    "links": {
+      "twitter": "https://twitter.com/mvanholsteijn",
+      "linkedin": "https://www.linkedin.com/in/mvanholsteijn",
+      "github": "https://github.com/mvanholsteijn"
+    }
+  },
+  {
+    "name": "Michele Leroux Bustamante",
+    "avatar_url": "https://www.docker.com/sites/default/files/Michele%20Leroux%20Bustamante.jpeg",
+    "title": "CIO at Solliance; Cofounder of Snapboard",
+    "bio": "Michele Leroux Bustamante is a founder and CIO of Solliance (solliance.net), a Microsoft Regional Director and Microsoft Azure MVP. Additionally she has been awarded Azure Elite and Azure Insider status as well as the ASP.NET Insider designation. Michele is a recognized leader in several fields including identity and access management, security and compliance, cloud computing technologies, and DevOps. During the past 20 years, Michele has held senior executive positions at several corporations, assembled and led teams, implemented development process, overseen architecture and design, and facilitated numerous successful large-scale enterprise solution deployments. During the past few years Michele's focus has been leading the Security and Microservices practices at Solliance - and sharing customer learnings through presentations and workshops. Michele has also been active in the startup community with a keen understanding of the technical and business needs of a startups. She shares experiences through presentations and keynotes all over the world and has been publishing regularly during her entire career. Michele wrote the best-selling book ''Learning WCF'' (O'Reilly 2007) and Developing Microsoft Azure Solutions (MS Press 2015).",
+    "links": {
+      "twitter": "https://twitter.com/michelebusta",
+      "linkedin": "https://www.linkedin.com/in/michelebusta/",
+      "facebook": "https://medium.com/@michelebusta",
+      "github": "https://github.com/michelebusta"
+    }
+  },
+  {
+    "name": "Ilkka Anttonen",
+    "avatar_url": "https://www.docker.com/sites/default/files/ilkkaanttonen.jpg",
+    "title": "Emerging Technology Nordic Lead at Accenture",
+    "bio": "Created the basis for Accenture's TLDR framework. Trying to figure out the best building blocks enabling the best developer experience and working production set-up.",
+    "links": {
+      "twitter": "https://twitter.com/IlkkaAnttonen",
+      "linkedin": "https://www.linkedin.com/in/ilkka-anttonen-3755b",
+      "github": "https://github.com/SirIle"
+    }
+  },
+  {
+    "name": "Adrien Blind",
+    "avatar_url": "https://www.docker.com/sites/default/files/adrien.jpg",
+    "title": "DevOps Coach",
+    "bio": "Adrien is a former consultant from Octo Technology, a French IT consulting firm. He recently joined Societe Generale as a DevOps coach and Infrastructure as Code product owner, driving the developers new needs toward infrastructure and helping them to leverage on those new principles and tools.\r\n\r\nFond of Docker, he\u2019s also co-organizer of the Paris Docker Meetup, and speaks regularly on this topic.",
+    "links": {
+      "twitter": "https://twitter.com/adrienblind",
+      "linkedin": "https://fr.linkedin.com/in/adrienblind",
+      "github": "https://github.com/adrienblind/"
+    }
+  },
+  {
+    "name": "Trevor Sullivan",
+    "avatar_url": "https://www.docker.com/sites/default/files/trevorsullivan.jpg",
+    "title": "Cloud and Automation",
+    "bio": "I've been a veteran of the IT industry since 2004, and enjoy working with automation, cloud, creating training, and much more! On the personal side, I enjoy motorcycling, beer, and some gaming!",
+    "links": {
+      "twitter": "https://twitter.com/pcgeek86",
+      "linkedin": "https://www.linkedin.com/in/trevor-sullivan-2225237",
+      "facebook": "https://trevorsullivan.net/",
+      "github": "https://github.com/pcgeek86"
+    }
+  },
+  {
+    "name": "Jonathan Leibiusky",
+    "avatar_url": "https://www.docker.com/sites/default/files/jonathanleibusky.jpeg",
+    "title": "CTO at Mantika",
+    "bio": "We use docker engine and compose to deploy machine learning microservices products in AWS. We do container migration to avoid bringing down apps and to do immediate scaling and lower warmup times.",
+    "links": {
+      "twitter": "https://twitter.com/xetorthio",
+      "linkedin": "https://www.linkedin.com/in/jonathanleibiusky",
+      "github": "https://github.com/xetorthio"
+    }
+  },
+  {
+    "name": "Viktor Farcic",
+    "avatar_url": "https://www.docker.com/sites/default/files/viktorfarcic.jpg",
+    "title": "Senior Consultant at CloudBees",
+    "bio": "Viktor Farcic is a Senior Consultant at CloudBees. He coded using a plethora of languages starting with Pascal (yes, he is old), Basic (before it got Visual prefix), ASP (before it got .Net suffix), C, C++, Perl, Python, ASP.Net, Visual Basic, C#, JavaScript, etc. He never worked with Fortran. His current favourites are Scala and JavaScript even though most of his office hours are spent with Java. His big passions are Microservices, Continuous Integration, Delivery and Deployment (CI/CD) and Test-Driven Development (TDD). He often speaks at community gatherings and conferences (latest can be found here).\r\n\r\nHe wrote The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline with Containerized Microservices and the Test-Driven Java Development books.\r\n\r\nHis random thoughts and tutorials can be found on his blog TechnologyConversations.com.",
+    "links": {
+      "twitter": "https://twitter.com/vfarcic",
+      "linkedin": "https://www.linkedin.com/in/viktorfarcic",
+      "facebook": "https://technologyconversations.com/",
+      "github": "https://github.com/vfarcic"
+    }
+  },
+  {
+    "name": "Marcos Lilljedahl",
+    "avatar_url": "https://www.docker.com/sites/default/files/marcosnils.jpg",
+    "title": "Head of Research and Development at Mantika",
+    "bio": "OS evangelist and Golang lover. I have a strong background in distributed systems and app architecture. I'm currently working in a Machine Learning startup that brings latest in research to industry.\r\n\r\nWe run Machine learning apps in a fully dockerized environment using compose / machine and engine mainly.",
+    "links": {
+      "twitter": "https://www.twitter.com/marcosnils",
+      "linkedin": "https://www.linkedin.com/in/marcosnils",
+      "github": "https://github.com/marcosnils"
+    }
+  },
+  {
+    "name": "Karl Matthias",
+    "avatar_url": "https://www.docker.com/sites/default/files/karlmatthias_0.jpg",
+    "title": "Principal Systems Engineer at Nitro, Inc.",
+    "bio": "Ran Docker in production for 2 years at New Relic. Maintainer of Centurion, a Docker deployment tool, co-maintainer of Dogestry, Co-Author of \"Docker: Up and Running\" from O'Reilly Media. Author of Sidecar, a Docker-native service discovery system.",
+    "links": {
+      "twitter": "https://twitter.com/relistan",
+      "linkedin": "https://www.linkedin.com/in/karlmatthias",
+      "facebook": "http://relistan.com/",
+      "github": "https://github.com/relistan"
+    }
+  },
+  {
+    "name": "Sreenivas Makam",
+    "avatar_url": "https://www.docker.com/sites/default/files/sreenivasmakam.jpg",
+    "title": "Sr. Engineering Manager at Cisco Systems",
+    "bio": "Sreenivas Makam is currently working as a senior engineering manager at Cisco Systems, Bangalore. His interests include SDN, NFV, Network Automation, DevOps, and cloud technologies, and he likes to try out and follow open source projects in these areas. His blog can be found at sreeninet.wordpress.com and his hacky code at github.com/smakam.\r\n\r\nSreenivas's blog articles have been published in Docker Weekly newsletters. His book on Mastering CoreOS got published in February 2016. He has done the technical reviewing for Mastering Ansible book, Packt Publishing, Ansible Networking Report, O'Reilly Publisher and Network programmability and Automation book, O'Reilly Publisher. He has given presentations at Docker and other meetups in Bangalore.",
+    "links": {
+      "twitter": "https://twitter.com/srmakam",
+      "linkedin": "https://www.linkedin.com/in/sreenivasmakam",
+      "facebook": "https://sreeninet.wordpress.com/",
+      "github": "https://github.com/smakam"
+    }
+  },
+  {
+    "name": "Dimitris Kapanidis",
+    "avatar_url": "https://www.docker.com/sites/default/files/Dimitris%20Kapanidis.jpg",
+    "title": "Founder at Harbur.io",
+    "bio": "Dimitris is founder of   Harbur, a consulting firm based in Barcelona. Helping companies design & implement highly scalable and self healing solutions empowered by the best-of-breed Container, Cloud and Automation technologies. Also help in introducing and implementing Agile, DevOps, Microservices and Continuous Delivery practices and provide training to the client\u2019s teams for the adoption of the technologies.\r\n\r\nHe also co-runs the Docker Barcelona Meetup.",
+    "links": {
+      "twitter": "https://twitter.com/spiddy",
+      "linkedin": "https://es.linkedin.com/in/kapanidis",
+      "facebook": "https://harbur.io/",
+      "github": "https://github.com/spiddy/"
+    }
+  },
+  {
+    "name": "Chanwit Kaewkasi",
+    "avatar_url": "https://www.docker.com/sites/default/files/chanwitkaewkasi.png",
+    "title": "Asst. Professor at Suranaree University of Technology",
+    "bio": "I'm a Docker Swarm Maintainer. I ported Swarm to Windows and developed a number of Swarm features in the early (v0.1) days.  I am running a low-power cluster laboratory. We have been doing many interesting experiments on the Docker stack.\r\n\r\nI have been serving as a Technical Cloud Adviser to many companies in Thailand, where they have been setting up Swarm clusters for their production environments.",
+    "links": {
+      "twitter": "https://twitter.com/chanwit",
+      "linkedin": "https://www.linkedin.com/in/chanwit",
+      "github": "https://github.com/chanwit"
+    }
+  },
+  {
+    "name": "Francisco Souza",
+    "avatar_url": "https://www.docker.com/sites/default/files/franciscosouza.jpeg",
+    "title": "Senior Software Engineer at The New York Times",
+    "bio": "Senior Software Engineer at The New York Times. Previously at Globo.com, where helped to create tsuru, an open source extensible PaaS built on top of Docker. Also known for starting go-dockerclient, the non-official Go client for the Docker remote API.",
+    "links": {
+      "twitter": "https://twitter.com/franciscosouza",
+      "linkedin": "https://www.linkedin.com/in/franciscosouza",
+      "github": "https://github.com/fsouza"
+    }
+  },
+  {
+    "name": "Jonas Rosland",
+    "avatar_url": "https://www.docker.com/sites/default/files/jonasrosland.jpeg",
+    "title": "Developer Advocate, Community Manager at EMC {code}",
+    "bio": "Developer Advocate and Community Manager at EMC {code} at EMC {code}. Speaker at many international events such as OSCON, PuppetConf, VMworld and EMC World. Love to help people understand new and interesting technology!",
+    "links": {
+      "twitter": "https://twitter.com/jonasrosland",
+      "linkedin": "https://www.linkedin.com/in/jonasrosland",
+      "facebook": "http://jonasrosland.com/",
+      "github": "https://github.com/jonasrosland"
+    }
   },
   {
     "name": "Nils De Moor",
     "avatar_url": "https://www.docker.com/sites/default/files/Nils%20De%20Moor.jpeg",
-    "title": "Cofounder and CTO at Woorank"
+    "title": "Cofounder and CTO at Woorank",
+    "bio": "Nils is an open source aficionado. After a brief passage through the academic world where he researched simulation of distributed systems, he decided to try his luck as an entrepreneur and cofounded Woorank as the CTO. By grabbing millions of data points every day, he developed a passion for automating, scaling and distributing services at scale. In his free time you can find him in the basement tinkering with arduino's, RPi's and the bunch to automate everything he doesn't want to waste time on.",
+    "links": {
+      "twitter": "https://twitter.com/ndemoor",
+      "linkedin": "https://www.linkedin.com/in/nilsdemoor",
+      "facebook": "https://cntnr.io",
+      "github": "https://github.com/ndemoor"
+    }
+  },
+  {
+    "name": "Tricia Radcliffe",
+    "avatar_url": "https://www.docker.com/sites/default/files/Tricia%20Radcliffe.jpg",
+    "title": "Sales Engineer at AppDynamics",
+    "bio": "Tricia has a background as a developer and in operations. She specializes in Application Performance Monitoring and is the DevOps Lead for Women Who Code Portland.",
+    "links": {
+      "twitter": "http://twitter.com/tchung02",
+      "linkedin": "https://www.linkedin.com/in/tricia-radcliffe-4a00411",
+      "github": "https://github.com/tradcliffe"
+    }
+  },
+  {
+    "name": "Daniel Finneran",
+    "avatar_url": "https://www.docker.com/sites/default/files/Dan%20Finneran.jpg",
+    "title": "Software Defined Solutions Architect, Hewlett-Packard",
+    "bio": "I'm currently a member of the EMEA Software Defined Solutions team and my main focus is on building new solutions to automate and deploy infrastructure and platforms. Prior to HPE I was a senior systems designer for the European Space Agency, amongst other roles designing and building systems.\r\nI present at a number of conferences and recently presented at Docker Meetups in Glasgow/London.",
+    "links": {
+      "twitter": "https://twitter.com/thebsdbox",
+      "linkedin": "https://www.linkedin.com/in/daniel-finneran-81a5b04/",
+      "facebook": "http://www.thebsdbox.co.uk",
+      "github": "https://github.com/thebsdbox"
+    }
+  },
+  {
+    "name": "Rafael Gomes",
+    "avatar_url": "https://www.docker.com/sites/default/files/Rafael%20Gomes.jpg",
+    "title": "Consultant at ThoughtWorks",
+    "bio": "Consultant at ThoughtWorks , focused on\r\ninfrastructure as code, Devops culture and cloud.\r\n\r\nAuthor of the book \"Docker para desenvolvedores \"(Docker for developers) : https://leanpub.com/dockerparadesenvolvedores (in Portuguese only yet)",
+    "links": {
+      "twitter": "http://twitter.com/gomex",
+      "linkedin": "https://br.linkedin.com/in/rbgomes",
+      "facebook": "techfree.com.br",
+      "github": "https://github.com/gomex"
+    }
+  },
+  {
+    "name": "Tim Haak",
+    "avatar_url": "https://www.docker.com/sites/default/files/timhaak.png",
+    "title": "HaakCo",
+    "bio": "Currently using docker on Ubuntu and Centos servers but prefer Ubuntu as it generally works better :) I have been using it to manage deployments. \r\n\r\nThings I've used it for: HaProxy, Logstash Stack (Each piece and individual container), Etcd, Nginx, Php Applications, Node Application, Mongo, RethinkDB, MySQL, MariaDB. \r\n\r\nI maintain a couple images related to personal play back ie Plex etc.",
+    "links": {
+      "twitter": "https://twitter.com/tim_haak",
+      "linkedin": "https://www.linkedin.com/in/timhaakza",
+      "github": "https://github.com/timhaak"
+    }
+  },
+  {
+    "name": "Everett Toews",
+    "avatar_url": "https://www.docker.com/sites/default/files/Everett%20Toews.jpg",
+    "title": "Developer Advocate at Rackspace",
+    "bio": "Everett Toews is a Developer Advocate at Rackspace working on Carina. Sometimes dev, sometimes ops, and sometimes advocate. He's interested in composing systems using APIs, SDKs, CLIs, and Docker. He likes to teach what he learns along the way.\r\n",
+    "links": {
+      "twitter": "http://www.twitter.com/everett_toews",
+      "linkedin": "https://www.linkedin.com/in/everetttoews",
+      "facebook": "http://blog.phymata.com/",
+      "github": "https://github.com/everett-toews"
+    }
+  },
+  {
+    "name": "Nicolas De Loof",
+    "avatar_url": "https://www.docker.com/sites/default/files/nicolasdeloof.jpg",
+    "title": "Hacker at CloudBees",
+    "bio": "Using docker engine on a daily basis, mostly to reproduce various environments so I can safely experiment without breaking my laptop. Created YouTube Channel \"Quoi d'neuf Docker\" to share knowledge and enthusiasm with others.",
+    "links": {
+      "twitter": "http://www.twitter.com/ndeloof",
+      "linkedin": "https://www.linkedin.com/in/ndeloof",
+      "facebook": "http://blog.loof.fr/",
+      "github": "https://github.com/ndeloof"
+    }
+  },
+  {
+    "name": "Shawn Bower",
+    "avatar_url": "https://www.docker.com/sites/default/files/Shawn_Bower.png",
+    "title": "Cloud Architect for Cornell University",
+    "bio": "Shawn Bower is the Cloud Architect for Cornell University.  He has helped to move many of the University\u2019s workloads to Docker and the cloud.  When not coding Shawn is sleeping.",
+    "links": {
+      "twitter": "https://twitter.com/drizzt51",
+      "linkedin": "https://www.linkedin.com/in/shawnbower",
+      "facebook": "http://blogs.cornell.edu/cloudification/tech-blog/",
+      "github": "https://github.com/sbower"
+    }
+  },
+  {
+    "name": "Vincent De Smet",
+    "avatar_url": "https://www.docker.com/sites/default/files/Vicent%20De%20Smet.jpg",
+    "title": "DevOps Engineer at Honestbee",
+    "bio": "Vincent is a former consultant from TRG International, an IT company based in Vietnam. He recently moved to Singapore and joined Honestbee as a DevOps engineer. He\u2019s also co-organizer of the Docker Saigon Meetup and loves to deep dive into Container internals in articles posted to the docker-saigon.github.io blog.",
+    "links": {
+      "twitter": "http://www.twitter.com/vincentdesmet",
+      "linkedin": "https://vn.linkedin.com/in/vincentds",
+      "facebook": "http://so0k.github.io",
+      "github": "https://github.com/so0k"
+    }
+  },
+  {
+    "name": "John Lees-Miller",
+    "avatar_url": "https://www.docker.com/sites/default/files/John%20Lees.jpg",
+    "title": "Chief Technology Officer at Overleaf",
+    "bio": "John is the Co(de)founder of @overleaf. @bg_ventures,  alum. Ex-@UltraGlobalPRT. He likes code, maths.",
+    "links": {
+      "twitter": "https://twitter.com/jdleesmiller",
+      "linkedin": "https://uk.linkedin.com/in/jdleesmiller",
+      "github": "https://github.com/jdleesmiller"
+    }
+  },
+  {
+    "name": "Tony Pujals",
+    "avatar_url": "https://www.docker.com/sites/default/files/Tuny%20Pujals.jpg",
+    "title": "Director of Cloud Engineering at Appcelerator",
+    "bio": "Tony is fanatical about Docker, Node.js, Go, APIs, microservices and scalable cloud architecture. He has got extensive background experience building APIs and Web Services for Java and .NET, but has been committed to the Node platform since 2011 and deeply involved in the community as a member of the Node Foundation evangelism working group, co-founder of BayNode, which is now the third largest Node meetup in the world with ~2,300 members, and helping train over 100 developers per month. He's the Director of Cloud Engineering at Appcelerator, where he's focused on improving the process of building, deploying, and monitoring containerized microservices. You also can check Tony's blog: atomiq.io",
+    "links": {
+      "twitter": "https://twitter.com/subfuzion",
+      "linkedin": "https://www.linkedin.com/in/tonypujals",
+      "facebook": "http://atomiq.io",
+      "github": "https://github.com/subfuzion"
+    }
+  },
+  {
+    "name": "Thomas Shaw",
+    "avatar_url": "https://www.docker.com/sites/default/files/thomasshaw.jpg",
+    "title": "Build Engineer at Demonware",
+    "bio": "Thomas has been a Build Engineer for 3 years and began promoting Docker usage in Sept 2014. Today we have Dockerised build and test pipelines.  Thomas continues to drive Docker adoption through Meetups and bootcamps in his native Dublin.",
+    "links": {
+      "twitter": "https://twitter.com/tomwillfixit",
+      "linkedin": "https://www.linkedin.com/in/tomwillfixit",
+      "facebook": "http://thshaw.blogspot.com/",
+      "github": "https://github.com/tomwillfixit"
+    }
+  },
+  {
+    "name": "Mark Rendle",
+    "avatar_url": "https://www.docker.com/sites/default/files/markrendle.jpg",
+    "title": "Founder and CEO at Rendle Labs",
+    "bio": "Very excited about running ASP.NET Core applications in Docker, I've been speaking about it at conferences and blogging about it at blog.rendle.io.\r\n\r\nCurrently using Docker Engine, Machine, Compose and looking at Swarm, going to try UCP very soon.\r\n\r\nUsing Docker on Arch Linux for development and deploying on Ubuntu VMs in Azure and AWS. About to launch a new app running in cloud data centres around the world, all in Docker!",
+    "links": {
+      "twitter": "https://twitter.com/markrendle",
+      "linkedin": "https://www.linkedin.com/in/markrendle",
+      "facebook": "https://blog.rendle.io/",
+      "github": "https://github.com/markrendle"
+    }
+  },
+  {
+    "name": "Neependra Khare",
+    "avatar_url": "https://www.docker.com/sites/default/files/neependrakhare.png",
+    "title": "Container Evangelist, Trainer, Author",
+    "bio": "Neependra Khare is Founder and Principal Consultant at CloudYuga. CloudYuga provides training and consulting on container technologies like Docker, GO Programming etc. He is also the organizer of Docker Meetup Group in Bangalore for more than 3 years. In 2015 he authored a book on Docker,  Docker Cookbook. In 2016 he co-authored a course on \"Cloud Infrastructure Technologies\" at Edx for Linux Foundation. Recently he has launched a MOOC on container technologies school.cloudyuga.guru.\r\n\r\nPrior to founding CloudYuga, he was Principal Software Engineer at Red Hat.",
+    "links": {
+      "twitter": "https://twitter.com/neependra",
+      "linkedin": "https://www.linkedin.com/in/neependra",
+      "facebook": "http://neependra.net/",
+      "github": "https://github.com/nkhare/"
+    }
+  },
+  {
+    "name": "Buc Rogers",
+    "avatar_url": "https://www.docker.com/sites/default/files/bucrogers.jpg",
+    "title": "DevOps Container Architect at Gogo",
+    "bio": "Buc is using Docker to improve how deployments are done to a remote embedded system target. He is currently working with an embedded Linux docker target and is also involved with a datacenter migration from VMs to Docker. Buc has worked a lot with Docker Windows Containers.",
+    "links": {
+      "twitter": "https://twitter.com/BucRogers26th",
+      "linkedin": "https://www.linkedin.com/in/bucrogers",
+      "facebook": "https://26thcentury.com/",
+      "github": "https://github.com/brogersyh"
+    }
+  },
+  {
+    "name": "Luis Herrera Ben\u00edtez",
+    "avatar_url": "https://www.docker.com/sites/default/files/Luis%20Herredia.jpg",
+    "title": "Chief technology officer at Antelops Consulting",
+    "bio": "Luis is a AWS ambassador. Entrepreneurial self-starter with substantial international experience. A versatile IT professional with a successful background deploying solutions in challenging and diverse environments worldwide. Lived in 4 different countries, worked in projects throughout 18 (Europe, America, Asia) and visited 32!\r\nSpecialties: Business development, technical evangelism, complex technical sales, solution architecture, account management, project change management and operational readiness, Cloud architectures (AWS Certified Solutions Architect), DevOps and Docker containers",
+    "links": {
+      "twitter": "https://twitter.com/lherrerabenitez",
+      "linkedin": "https://es.linkedin.com/in/lherrera",
+      "facebook": "https://medium.com/@lherrera",
+      "github": "https://github.com/lherrera"
+    }
+  },
+  {
+    "name": "Alex Ellis",
+    "avatar_url": "https://www.docker.com/sites/default/files/AAEAAQAAAAAAAAfwAAAAJDg0NzY1MzMxLTA4ZmQtNGIyZS1iOWUyLTZhZjA0YjBlZTMwMw.jpg",
+    "title": "Senior Software Engineer at ADP",
+    "bio": "Alex is a Docker Captain and Principal Developer @ ADP where he has years of experience in the enterprise supporting payroll and HCM for up to 500k clients. He's a polyglot, blogger, published writer and mentor in the Docker and Raspberry Pi community.",
+    "links": {
+      "twitter": "https://twitter.com/alexellisuk",
+      "linkedin": "https://uk.linkedin.com/in/alex-ellis-84a684110",
+      "facebook": "http://alexellis.io",
+      "github": "https://github.com/alexellis"
+    }
+  },
+  {
+    "name": "Benjamin Wootton",
+    "avatar_url": "https://www.docker.com/sites/default/files/Benjamin%20Wootton.jpg",
+    "title": "Co-Founder & Principal Consultant at Contino ",
+    "bio": "Benjamin is the Co-Founder of Contino, a global DevOps consultancy and Docker partner.  He is a certified Docker trainer and consultant and also co-runs the Docker London meetup. ",
+    "links": {
+      "twitter": "https://twitter.com/benjaminwootton",
+      "linkedin": "https://uk.linkedin.com/in/benjaminwootton",
+      "facebook": "http://contino.io/",
+      "github": "https://github.com/benjaminwootton"
+    }
+  },
+  {
+    "name": "Stefan Scherer",
+    "avatar_url": "https://www.docker.com/sites/default/files/stefanscherer_0.jpg",
+    "title": "Software Engineer at SEAL Systems, Docker Pirate at Hypriot",
+    "bio": "Stefan is a Software Engineer at SEAL Systems. He enjoys automating things and uses Docker at work in various test environments. He is an early adopter of Docker on Windows, giving feedback and sharing his experience as a Docker Captain. He is member of the Hypriot team that gives the community a very easy experience for Docker on ARM devices.",
+    "links": {
+      "twitter": "https://twitter.com/stefscherer",
+      "facebook": "https://stefanscherer.github.io/",
+      "github": "https://github.com/StefanScherer"
+    }
+  },
+  {
+    "name": "Chris Ciborowski",
+    "avatar_url": "https://www.docker.com/sites/default/files/chrisciborowski.jpeg",
+    "title": "CEO, Nebulaworks",
+    "bio": "Chris is the CEO of Nebulaworks, a DevOps consultancy and Docker consulting/training partner. For 20 years Chris has been helping companies adopt advanced technology, and for the last two years, he's focused on integrating Docker at enterprise clients. His expertise in containers goes back over 12 years with BSD Jails and Solaris Zones. ",
+    "links": {
+      "twitter": "http://Twitter.com/chrisciborowski",
+      "linkedin": "https://www.linkedin.com/in/chrisciborowski",
+      "facebook": "http://www.nebulaworks.com",
+      "github": "https://github.com/chrisciborowski"
+    }
+  },
+  {
+    "name": "Michael Irwin",
+    "avatar_url": "https://www.docker.com/sites/default/files/Michael%20Irwin.jpg",
+    "title": "Virginia Tech",
+    "bio": "Michael works for Virginia Tech (Go Hokies!) and tells everyone he's 80% developer, 20% evangelist for \"new and cool stuff.\"  Some of that includes helping Virginia Tech adopt Docker, cloud services, single-page applications, CI/CD pipelines, and other current development practices. He started the Docker Blacksburg Meetup group where he has taught and helped others in southeastern Virginia learn and use Docker.  Dogs, not cats.",
+    "links": {
+      "twitter": "http://twitter.com/mikesir87",
+      "facebook": "https://blog.mikesir87.io/",
+      "github": "https://github.com/mikesir87"
+    }
+  },
+  {
+    "name": "Luc Juggery",
+    "avatar_url": "https://www.docker.com/sites/default/files/Luc.jpg",
+    "title": "Senior software engineer, co-founder of GridPocket and TRAXxs",
+    "bio": "Hi, I\u2019m Luc a senior software engineer, co-founder of GridPocket and TRAXxs, 2 French startups. Avid learner, I like trying new technologies and share my finding creating tutorials and writing blog posts. I got the wow effect when I discovered Docker and I now love working with components of the Docker ecosystem. My main areas of interest: tests automation, CI/CD pipeline and HA architectures. Node.js and MongoDB are some other important elements of my technology stack. Just started learning Go and Clojure.",
+    "links": {
+      "twitter": "https://twitter.com/lucjuggery",
+      "linkedin": "https://www.linkedin.com/in/ljuggery",
+      "facebook": "https://medium.com/@lucjuggery",
+      "github": "https://github.com/lucj"
+    }
+  },
+  {
+    "name": "Jeff Nickoloff",
+    "avatar_url": "https://www.docker.com/sites/default/files/jeffnickoloff.jpeg",
+    "title": "Principal Consultant at All in Geek Consulting",
+    "bio": "Jeff Nickoloff is an independent software engineer, author, leader, and former manager. He's into microservices, building products, and solving interesting problems. Check out his book, Docker in Action, his blog on Medium, and his consulting company All in Geek Consulting.\r\n\r\nJeff has been using Docker since May 2013 and have integrated it into most development and daily workflows. He is using several different Docker workloads in all stages of development and release. Jeff has also helped his clients integrate Docker into several aspects of their existing tech stacks and determine strategies for increasing adoption.",
+    "links": {
+      "twitter": "https://twitter.com/allingeek",
+      "linkedin": "https://www.linkedin.com/in/jeffnickoloff",
+      "facebook": "http://allingeek.com/",
+      "github": "https://github.com/allingeek"
+    }
+  },
+  {
+    "name": "John Zaccone",
+    "avatar_url": "https://www.docker.com/sites/default/files/johnzaccone.png",
+    "title": "Cloud Engineer at IBM",
+    "bio": "I am a Software Engineer at IBM with 6 years of coding experience. I have a passion for optimizing architecture and process to enable teams to deliver business value.",
+    "links": {
+      "twitter": "https://twitter.com/JohnZaccone",
+      "linkedin": "https://www.linkedin.com/in/johnzaccone",
+      "github": "https://github.com/jzaccone"
+    }
+  },
+  {
+    "name": "Jonobie Ford",
+    "avatar_url": "https://www.docker.com/sites/default/files/jonobieford.jpg",
+    "title": "Sr. Program Manager for Virtual Machine Manager at Microsoft",
+    "bio": "Jonobie is a Senior Program Manager on the System Center Virtual Machine Manager team.",
+    "links": {
+      "twitter": "https://twitter.com/jonobie",
+      "linkedin": "https://www.linkedin.com/in/jonobie",
+      "github": "https://github.com/jonobie"
+    }
+  },
+  {
+    "name": "Gianluca Arbezzano",
+    "avatar_url": "https://www.docker.com/sites/default/files/Gianluca%20Arbezzano.jpg",
+    "title": "Software Engineer at CurrencyFair",
+    "bio": "Gianluca is passionate about helping teams improve their development environment using continuous integration, automation and modern tools to work better and faster. He embraces the DevOps culture, open source contributor, blogger and speaker. He writes code in PHP, golang, js and other languages.",
+    "links": {
+      "twitter": "https://twitter.com/gianarb",
+      "linkedin": "https://ie.linkedin.com/in/gianlucarbezzano/en",
+      "facebook": "http://gianarb.it",
+      "github": "https://github.com/gianarb"
+    }
+  },
+  {
+    "name": "Scott Coulton",
+    "avatar_url": "https://www.docker.com/sites/default/files/Scott%20Coulton.jpg",
+    "title": "Senior Software Engineer, Puppet",
+    "bio": "Scott is a solutions architect with 10 years\u2019 experience in the managed services and hosting space. He has a extensive experience in architecture. Rolling out systems and network solutions for national and multinational companies with a wide variety of technologies, including AWS, Puppet, Docker, Cisco, VMware, Microsoft and Linux. My design strengths are in cloud computing, automation and the security space.",
+    "links": {
+      "twitter": "https://twitter.com/scottcoulton",
+      "linkedin": "https://au.linkedin.com/in/scott-coulton-22864813",
+      "github": "https://github.com/scotty-c?tab=activity"
+    }
+  },
+  {
+    "name": "Andrey Sibiryov",
+    "avatar_url": "https://www.docker.com/sites/default/files/Andrey%20Sibiryov.jpg",
+    "title": "SRE, Uber",
+    "bio": "Andrey is an SRE at Uber, New York. He is focusing on infrastructure observability and performance. Previously, Andrey led the Cloud Technologies department at Yandex, where he started the [Cocaine Cloud](https://github.com/cocaine) project, and worked on [Helios] (https://github.com/spotify/helios) - a Docker-based CI/CD platform at Spotify.",
+    "links": {
+      "twitter": "https://twitter.com/kobolog",
+      "linkedin": "https://www.linkedin.com/in/kobolog",
+      "github": "https://github.com/kobolog"
+    }
+  },
+  {
+    "name": "Fabien Amico",
+    "avatar_url": "https://www.docker.com/sites/default/files/FABIEN%20DOCKER%20CAPTAIN%202016%281%29.jpg",
+    "title": "Founder & CTO at Treeptik",
+    "bio": "Founder and CTO at Treeptik I created with a dream team \"Cloudunit.io\". Focused on how create platforms that allow to release faster and more often.",
+    "links": {
+      "twitter": "https://twitter.com/fabienamico",
+      "linkedin": "https://fr.linkedin.com/in/fabien-amico-8bb85227/en",
+      "facebook": "http://cloudunit.io/",
+      "github": "https://github.com/fabienamico?tab=activity"
+    }
+  },
+  {
+    "name": "Lee Calcote",
+    "avatar_url": "https://www.docker.com/sites/default/files/Lee%20Calcote.jpg",
+    "title": "Sr. Director, Technology Strategy at SolarWinds",
+    "bio": "Lee Calcote is an innovative thought leader, passionate about developer platforms and management software for clouds, containers, infrastructure and applications. Advanced and emerging technologies have been a consistent focus through Calcote\u2019s tenure at SolarWinds, Seagate, Cisco and Pelco. An organizer of technology meetups and conferences, a writer, author, speaker, he is active in the tech community.",
+    "links": {
+      "twitter": "https://twitter.com/lcalcote",
+      "linkedin": "http://linkedin.com/in/leecalcote",
+      "facebook": "http://gingergeek.com",
+      "github": "http://github.com/leecalcote"
+    }
+  },
+  {
+    "name": "Nick Janetakis",
+    "avatar_url": "https://www.docker.com/sites/default/files/Nick%20Janetakis.jpg",
+    "title": "Developer \u00b7 Teacher \u00b7 Entrepreneur",
+    "bio": "Nick Janetakis is a software developer, teacher and entrepreneur. He is also the creator of the Docker for DevOps and Scaling Docker on AWS online courses.\r\n\r\nNick is focused on learning about technology and sharing that knowledge with others. Prior to releasing courses, he was working as a software consultant for over half a decade.",
+    "links": {
+      "twitter": "https://twitter.com/nickjanetakis",
+      "linkedin": "https://www.linkedin.com/in/nickjj",
+      "facebook": "http://nickjanetakis.com/",
+      "github": "https://github.com/nickjj"
+    }
+  },
+  {
+    "name": "Antonis Kalipetis",
+    "avatar_url": "https://www.docker.com/sites/default/files/antoniskalipetis.jpeg",
+    "title": "CTO at SourceLair",
+    "bio": "I'm the CTO at SourceLair, a Docker-based online IDE. I'm an Electrical and Computer engineer from Athens, Greece and I love writing code and drinking coffee. I hack with Django, but I like to get my hands dirty with all sorts of different stacks and technologies. I've worked in different positions in the past, from Android developer to backend developer. Feel free to reach me at @akalipetis or akalipetis.com.",
+    "links": {
+      "twitter": "https://twitter.com/akalipetis",
+      "linkedin": "https://www.linkedin.com/in/akalipetis",
+      "facebook": "https://www.akalipetis.com",
+      "github": "https://github.com/akalipetis"
+    }
+  },
+  {
+    "name": "Nicholas Dille",
+    "avatar_url": "https://www.docker.com/sites/default/files/Nicholas%20Dille.jpeg",
+    "title": "DevOps Engineer",
+    "bio": "Docker Captain, Microsoft MVP CDM, DevOps Engineer, PowerShell Enthusiast, Continuous Delivery",
+    "links": {
+      "twitter": "https://twitter.com/nicholasdille",
+      "linkedin": "https://www.linkedin.com/in/nicholasdille/",
+      "facebook": "http://dille.name",
+      "github": "https://github.com/nicholasdille"
+    }
+  },
+  {
+    "name": "Ajeet Singh Raina",
+    "avatar_url": "https://www.docker.com/sites/default/files/ajeetsinghraina_0.jpg",
+    "title": "Technical Lead Engineer at Dell India",
+    "bio": "Ajeet Singh Raina is currently working as Technical Lead Engineer in Dell India R&D.; He has picked up a variety of skills in his career, from having worked as an IT consultant, System administrator to System Integration testing. He received a certification in VMware Certified Professional(VCP 4.1) while he was a part of VMQA GOS Validation Team at VMware. He is currently working in Enterprise Solution Group at Dell India R&D; and has solid understanding of a diverse range of IT infrastructure, system management, system integration engineering and quality assurance.\r\n\r\nAjeet has a great passion for upcoming trends and technologies. He loves contributing towards Open source space through writing and blogging @ http://www.collabnix.com. He is currently busy in evaluating and building up containers and microservices for his organization. He is reviewing couple of Docker related upcoming books from various renowned publishers.",
+    "links": {
+      "twitter": "https://twitter.com/ajeetsraina",
+      "linkedin": " https://www.linkedin.com/in/ajeetsraina",
+      "github": "https://github.com/ajeetraina"
+    }
+  },
+  {
+    "name": "Brian Christner",
+    "avatar_url": "https://www.docker.com/sites/default/files/brianchristner.jpg",
+    "title": "Cloud Advocate at Swisscom AG",
+    "bio": "Brian Christner is a Cloud Advocate for Swisscom a Switzerland based Telecom where they are busy deploying a large Docker infrastructure. Brian is passionate about Linux, Docker or anything with a .IO domain name and regularly contributes Docker articles and GitHub projects.",
+    "links": {
+      "twitter": "https://twitter.com/idomyowntricks",
+      "linkedin": "https://www.linkedin.com/in/brianchristner",
+      "facebook": "https://www.brianchristner.io",
+      "github": "https://github.com/vegasbrianc"
+    }
   }
 ]

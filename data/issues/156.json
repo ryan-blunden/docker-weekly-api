@@ -8,12 +8,14 @@
     {
       "title": "Your Docker Agenda For The Month Of October",
       "url": "https://blog.docker.com/2016/10/docker-agenda-month-october/",
-      "contributor": {
-        "name": "Karen Bajza",
-        "url": "https://twitter.com/kbajza13",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Karen Bajza",
+          "url": "https://twitter.com/kbajza13",
+          "is_captain": false
+        }
+      ]
     }
   ]
 }

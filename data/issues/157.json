@@ -8,32 +8,38 @@
     {
       "title": "LinuxCon / ContainerCon 2016 Recap",
       "url": "http://neependra.net/?p=1861",
-      "contributor": {
-        "name": "Neependra Khare",
-        "url": "https://twitter.com/neependra",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Neependra Khare",
+          "url": "https://twitter.com/neependra",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Read more.",
       "url": "https://blog.docker.com/2016/10/docker-announces-expansion-china-commercial-partnership-alibaba-cloud/",
-      "contributor": {
-        "name": "None",
-        "url": "https://blog.docker.com/2016/10/docker-announces-expansion-china-commercial-partnership-alibaba-cloud/",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "None",
+          "url": "https://blog.docker.com/2016/10/docker-announces-expansion-china-commercial-partnership-alibaba-cloud/",
+          "is_captain": false
+        }
+      ]
     },
     {
       "title": "Drupal dev environment on Docker",
       "url": "http://janezurevc.name/drupal-dev-environment-on-docker",
-      "contributor": {
-        "name": "Janez Urevc",
-        "url": "https://twitter.com/slashrsm",
-        "is_captain": false
-      },
-      "featured": false
+      "featured": false,
+      "contributors": [
+        {
+          "name": "Janez Urevc",
+          "url": "https://twitter.com/slashrsm",
+          "is_captain": false
+        }
+      ]
     }
   ]
 }
