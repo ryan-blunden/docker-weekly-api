@@ -28,12 +28,18 @@ articles arwe timeless as they focus on best practices and lessons learnt using 
 
 I would love help turning this into something more beneficial to the community. Pull requests are welcome.
 
+See the `TODO.md` file for the most urgent needs.
+
 Raise an issue if you want to suggest new, different or complimentary data to what's currently available.
+
+### Setup
 
 Currently, you'll need a Python environment with version `3.6.x` installed, the easiest way of which to do this is, of
  course, to run it in a Docker container.
+
+Then in the root of the project, execute `export PYTHONPATH=$PWD` so Python will look in the root directory for modules.
  
-#  Where can I get more help, if I need it?
+## Where can I get more help, if I need it?
 
 This project is in its infancy and exists as Open Source more for transparency reasons than anything else. As a result, it's not really yet ready for contributors, unless they're ok with the complete lack of documentation about how to get started.
 
