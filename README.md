@@ -2,6 +2,11 @@
 
 Make the articles featured in Docker Weekly available via JSON and eventually, via a hosted service that can be consumed as an API.
 
+## To use
+
+1. Run `docker run --rm -p 8080:8080 infracoder/docker-weekly-api`
+2. Go to http://localhost:8080/
+
 ## Why this was created
 
 The motivation for building this was that the Docker Weekly (at time of creation, April 2017) was not being updated
@@ -19,7 +24,7 @@ While Docker has gone through many rapid changes since its inception, many of th
 articles arwe timeless as they focus on best practices and lessons learnt using Docker in production.
 
 ## TODO
- 
+
 - Create an nginx Dockerfile with routes so this can be run and data can be served up with URLs.
 - Put an HTML front-end on the site using the data files and a static site generator.
 - Tag each link with key words (e.g. `security`, `swarm`) to make the articles by themselves useful.
