@@ -8,8 +8,8 @@ A big thank-you to all!
 
 
 ## Resources
+
 - Knowing what to put in this thing - https://opensource.guide/starting-a-project/
 - GitHub issue and pull request templates - https://github.com/TalAter/open-source-templates
 - Code of Conduct template - http://contributor-covenant.org/
-
-
+- Nginx as an API - https://github.com/sixeyed/semi-retired-api.git
