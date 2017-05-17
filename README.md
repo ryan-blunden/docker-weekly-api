@@ -4,7 +4,7 @@ Make the articles featured in Docker Weekly available via JSON and eventually, v
 
 ## To use
 
-1. Run `docker run --rm -p 8080:8080 infracoder/docker-weekly-api`
+1. Run `docker run --rm -p 8080:80 infracoder/docker-weekly-api`
 1. Go to [http://localhost:8080/](http://localhost:8080/)
 
 ## Why this was created
